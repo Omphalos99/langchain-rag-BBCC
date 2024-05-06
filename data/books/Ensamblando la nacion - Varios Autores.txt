@@ -1,0 +1,2092 @@
+Catalogación en la publicación – Biblioteca Nacional de Colombia
+
+Díaz Ángel, Sebastián, autor
+
+Muñoz, Santiago, autor
+
+Nieto, Mauricio, autor
+
+Ensamblando la nación : cartografía y política en la historia de Colombia / Sebastián Díaz Ángel, Santiago Muñoz Arbeláez, Mauricio Nieto Olarte ; presentación, Anthony Picón. – Bogotá : Ministerio de Cultura : Biblioteca Nacional de Colombia, 2017.
+
+1 recurso en línea : mapas, ilustraciones a blanco y negro, archivo de texto ePUB (32,1 MB). – (Biblioteca Básica de Cultura Colombiana. Geografía / Biblioteca Nacional de Colombia)
+
+
+
+Incluye bibliografía
+
+ISBN 978-958-5419-36-0
+
+
+
+1. Cartografía – Historia – Colombia - Siglos XVI-XIX 2. Colombia - Geografía histórica - Siglos XVI-XIX 3. Colombia – Historia - Siglos XVI-XIX 4. Libro digital I. Picón, Anthony, autor de introducción II. Título III. Serie
+
+
+
+CDD: 918.61 ed. 23
+
+CO-BoBN– a1011942
+
+
+
+
+
+Mariana Garcés Córdoba
+
+MINISTRA DE CULTURA
+
+Zulia Mena García
+
+VICEMINISTRA DE CULTURA
+
+Enzo Rafael Ariza Ayala
+
+SECRETARIO GENERAL
+
+Consuelo Gaitán
+
+DIRECTORA DE LA BIBLIOTECA NACIONAL
+
+
+
+
+Javier Beltrán
+
+COORDINADOR GENERAL
+
+Isabel Pradilla
+
+GESTORA EDITORIAL
+
+Jesús Goyeneche
+
+ASISTENTE EDITORIAL Y DE INVESTIGACIÓN
+
+
+
+José Antonio Carbonell
+
+Mario Jursich
+
+Julio Paredes
+
+COMITÉ EDITORIAL
+
+Taller de Edición • Rocca®
+
+REVISIÓN Y CORRECCIÓN DE TEXTOS,
+
+DISEÑO EDITORIAL Y DIAGRAMACIÓN
+
+eLibros
+
+CONVERSIÓN DIGITAL
+
+PixelClub S. A. S.
+
+ADAPTACIÓN DIGITAL HTML
+
+Adán Farías
+
+CONCEPTO Y DISEÑO GRÁFICO
+
+Con el apoyo de:
+
+BibloAmigos
+
+
+
+ISBN: 978-958-5419-36-0
+
+Bogotá D. C., diciembre de 2017
+
+
+
+© Mauricio Nieto, Sebastián Díaz y Santiago Muñoz
+
+© 2010: Universidad de los Andes,
+
+Facultad de Artes y Humanidades,
+
+Facultad de Ciencias Sociales,
+
+Departamento de Historia, Centro de Estudios
+
+Socioculturales e Internacionales (CESO)
+
+© 2017, De esta edición: Ministerio de Cultura –
+
+Biblioteca Nacional de Colombia
+
+© Presentación: Anthony Picón
+
+
+
+Material digital de acceso y descarga gratuitos con fines didácticos y culturales, principalmente dirigido a los usuarios de la Red Nacional de Bibliotecas Públicas de Colombia. Esta publicación no puede ser reproducida, total o parcialmente con ánimo de lucro, en ninguna forma ni por ningún medio, sin la autorización expresa para ello.
+
+
+
+
+
+ÍNDICE
+
+
+Presentación
+
+1. Presentación a la primera edición
+
+2. Descubrimiento y Conquista: el siglo XVI y los primeros mapas del Nuevo Mundo
+
+3. El Padrón Real y la Casa de Contratación
+
+4. Grandes atlas del siglo XVII
+
+5. Jorge Juan, Antonio de Ulloa, La Condamine y la expedición para medir la forma de la Tierra
+
+6. Mapas para el rey: cartografía e imperio en el siglo XVIII
+
+7. El mar, las costas y los puertos
+
+8. Los grandes ríos y las rutas de acceso al interior: el Magdalena, el Orinoco y el Amazonas
+
+9. El canal interoceánico
+
+10. La Expedición Botánica y el Observatorio Astronómico de Bogotá
+
+11. Francisco José de Caldas: geografía económica y los ilustrados de la Nueva Granada
+
+12. La obra cartográfica de Francisco José de Caldas
+
+13. La Geografía de las plantas de Humboldt y los Andes americanos
+
+14. Los mapas de Caldas y su encuentro con Alexander von Humboldt
+
+15. Americanismo y eurocentrismo: naturaleza y cultura en la obra de Humboldt
+
+16. La cartografía y el reconocimiento de la república en un nuevo orden mundial
+
+17. La doctrina Monroe y el atlas de 1822
+
+18. Francisco Antonio Zea: diplomacia, comercio y cartografía
+
+19. José Manuel Restrepo: historiador y cartógrafo oficial del Gobierno colombiano
+
+20. El ensamblaje de Colombia en el atlas de Restrepo
+
+21. El atlas de Venezuela y la reacción cartográfica de la Nueva Granada
+
+22. La Comisión Corográfica
+
+23. La Comisión Corográfica y el trabajo de campo
+
+24. Del terreno al padrón: los mapas de la Comisión Corográfica
+
+25. Paisajes y tipos humanos en la Comisión Corográfica
+
+26. El Atlas geográfico e histórico
+
+27. Indígenas, cartografía, antigüedades y nación
+
+
+
+Bibliografía
+
+Imágenes
+
+
+
+
+
+PRESENTACIÓN
+
+
+
+Quien quiera viajar, viaje. Visite Inglaterra, Hungría, Francia y España. Mi placer es vivir en mi país. […] Y eso es bastante para mí. Sin tener jamás que pagar a un hostalero […]. Sin tener jamás que hacer juramentos cuando los cielos se iluminan de rayos, iré saltando sobre los mares, más seguro a bordo de mis mapas que a bordo de barcos.
+
+ARIOSTO, SÁTIRA III
+
+A LO LARGO DE NUESTRA VIDA, nuestra memoria espacial va confeccionado un mapa dispar, hecho de lugares, o de paisajes, cuyos espacios fueron dichas y disgustos para nosotros y que ahora representan la superficie accidentada de nuestros recuerdos por el mundo. Ensamblando la Nación: cartografía y política en la historia de Colombia es una relación geográfica del pasado territorial que habitamos, que nos invita a explorar la memoria espacial de un centenar de personajes y nos incita a problematizar la confección y el legado cartográfico del mapa que conocemos como Colombia.
+
+Ensamblando la nación nace como una exposición en Bogotá, exhibida de agosto a diciembre de 2010 en la Biblioteca Luis Ángel Arango, bajo la curaduría de Mauricio Nieto Olarte, Santiago Muñoz Arbeláez y Sebastián Díaz Ángel. La exposición viajó a lo largo de un periodo prolongado por distintas locaciones de Colombia, intineró por los mismos caminos de los relatos de viajeros que documentó. Se constituyó como el primer esfuerzo editorial para hacer una relectura general de la historia cartográfica del país. Sin duda, fue un espacio provocador que cultivó en medio de geografías, mapas e instrumentos de mesura nuevos intereses por la historia y la ciencia. A dicha de muchos se consignó en un libro, un simpático catálogo de gran formato que se agotó rápidamente en su primera edición. Ahora celebramos la presente reedición.
+
+El catálogo no fue sólo el resultado de una exposición; a mi parecer, es una breve y atractiva obra que continúa inspirando y narrando proyectos sobre la historia territorial del país, en donde el protagonismo cartográfico sigue asombrando. La obra nos invita a reflexionar sobre esas líneas aparentemente simples, neutrales y verdaderas que tantos encuentros y desencuentros generaron en la historia del país, las mismas líneas que inventaron a Colombia. A su vez, nos recuerda la «estrecha relación entre la historia de los mapas y la historia de la nación» presente en los primeros mapas del Nuevo Mundo y hasta su permanencia en las cartografías decimonónicas.
+
+Esta reminiscencia cartográfica despierta pasión e interés por el patrimonio cartográfico, indaga con precisión las relaciones entre la ciencia, la cartografía y la nación; es un relato apasionante para cualquier expectante; en palabras de Abraham Ortelius, nos permite ver los mapas «delante [de nuestros ojos], como si presentes estuviésemos viendo las hazañas, o siquiera [visitado] los lugares donde fueron hechos». Asimismo, la riqueza del material gráfico nos acerca a los archivos, las bibliotecas y los museos que guardan parte de la memoria espacial de los colombianos. En palabras de Sebastián Díaz Ángel, estos documentos cartográficos «más que [objetos de] precisión, nos muestran una extensa red de trabajos, saberes y deseos de quienes los hicieron, evidenciando no solo su producción científica sino una búsqueda de identidad y poder político».
+
+Esta exploración tan visualmente emocionante y tan intelectualmente atractiva, me llevó a conocer al daimón cartográfico de mi interior, que aún continúa susurrándome. Sus intrigantes relatos me llevaron a proyectar mi mirada sobre el mapa, es la confesión de un joven mapófilo.
+
+ANTHONY PICÓN RODRÍGUEZ
+
+
+
+
+
+1. PRESENTACIÓN A
+
+LA PRIMERA EDICIÓN
+
+
+
+LOS MAPAS SUGIEREN LA IDEA de un retrato: una copia de la realidad en la cual el cartógrafo representa lo que existe, el mundo tal y como es; sin embargo, más que pinturas fieles de lo que hay en el mundo, la geografía y la cartografía son formas de administrar y construir un orden social y natural. Los mapas permiten movilizar el mundo o partes de este en dispositivos planos a escala humana o poner el territorio sobre una mesa de trabajo; por eso son objetos políticos a través de los cuales es posible proclamar posesión y control a distancia de vastos territorios.
+
+Los trazos y líneas que conforman un mapa son divisiones, diferenciaciones, clasificaciones y jerarquías. La cartografía es inseparable de los actos de clasificar, ordenar y nombrar que, como el bautismo, son formas de inclusión y dominio. Así es como la cartografía no es simplemente una pintura o un modelo de, sino también anticipa la realidad; un mapa es un modelo para, un poderoso instrumento de control y planeación.
+
+Hay una estrecha relación entre la historia de los mapas y la historia de la nación. En lugar de ser hechos establecidos y naturales, las naciones —al igual que los mapas— son artefactos culturales. La construcción de la nación, así como la definición del territorio, es un proceso imposible de identificar con un momento específico o con la obra de un grupo de rebeldes con ideales de libertad. Se trata de una lenta y prolongada construcción de un nuevo orden político y espacial en la cual la geografía y la cartografía desempeñaron un papel fundamental.
+
+
+
+1.1 Le passage du Magdaléna, à Guataquí.
+
+Diseño de E. Riou, con base en los documentos de Édouard André. Grabado, 16 cm x 23,6 cm, blanco y negro. Tomado de Édouard André, L’Amerique Équinoxiale (Colombie-Ecuateur-Pérou), París, Librería Hachette, 1869, página 213.
+
+Desde los primeros mapas del Nuevo Mundo, en el siglo XVI, y el cometido de los imperios de la Europa cristiana de controlar los nuevos territorios y posesiones, hasta los mapas nacionales del siglo XIX, podemos ver una continua construcción y ordenamiento espacial; un proceso a través del cual, de manera simultánea, se constituyen sujetos con autoridad científica y política. A través de los mapas y de quienes los elaboran, entendemos mejor la emergencia de nuevas naciones como Colombia, en el contexto de reordenamientos políticos locales y globales.
+
+
+
+
+
+2. DESCUBRIMIENTO Y
+
+CONQUISTA: EL SIGLO
+
+XVI Y LOS PRIMEROS
+
+MAPAS DEL NUEVO
+
+MUNDO
+
+
+
+LA EXPLORACIÓN PORTUGUESA y española del Atlántico a finales del siglo XV y la búsqueda de una mejor ruta para el comercio con Oriente tuvieron un resultado inesperado: la aparición de una cuarta parte del mundo y la reconfiguración del mundo conocido. La cartografía del siglo XVI nos muestra la incorporación de los nuevos descubrimientos geográficos y la configuración de un orden mundial bajo parámetros europeos y cristianos (imágenes 2.1 y 2.2).
+
+
+
+2.1 Mapa ptolemaico, finales del siglo XV. El mundo conocido lo componen tres grandes partes: Europa, Asia y África. http://commons.wikimedia.org/wiki/File:PtolemaicMap.jpg
+
+
+
+2.2 [Carta Portulana atribuida a Cristóbal Colón].
+
+67 x 110 cm. Bibliothèque Nationale de France, Cartes et Plans, Rés. Ge AA 562.
+
+Imagen tomada de la edición facsimilar: Madrid, Moleiro Editor, 1992. Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H573.
+
+Una primera representación que incluye al Nuevo Mundo como parte del mundo conocido es el famoso mapa de Juan de la Cosa, de 1500 (imagen 2.3). La mayor parte de la carta representa al Viejo Mundo y a sus tres grandes partes: Europa, Asia y África; pero la novedad e importancia del pergamino está en una enorme masa de color verde que aparece en la parte superior. En la carta, el Nuevo Mundo es incorporado no sólo en un marco de referencia espacial, sino como parte de un orden político y religioso.
+
+
+
+2.3 Juan de la Cosa (1450?-1510) [Mapamundi], 1500, 183 x 93 cm.
+
+Museo Naval, Madrid.
+
+
+
+2.3.1 Detalle.
+
+
+
+2.3.2 Detalle.
+
+
+
+Como es propio de la tradición cristiana, en el mapa abundan las referencias bíblicas. En medio del mar Océano, en su parte occidental, la figura medular la constituye una rosa de los vientos decorada con una bella xilografía de la Virgen y del Niño Jesús (detalle 2.3.1). En la parte superior del pergamino aparece san Cristóbal caminando sobre el mar, los tres Reyes Magos en Asia, la torre de Babel, entre otros, que son manifestaciones de un mundo cristiano (detalle 2.3.2).
+
+Otro momento definitivo en la historia de la representación cartográfica del Nuevo Mundo es la aparición del célebre folleto titulado Cosmographiæ Introductio, publicado en 1507, en el cual se incluye el espectacular mapamundi de Waldseemüller (imagen 2.4). En la parte superior sobresalen enfrentadas las figuras de Ptolomeo, la gran autoridad geográfica de la antigüedad, y Vespucio, como una figura alegórica del Nuevo Mundo (detalle 2.4.1).
+
+
+
+2.4 Martin Waldseemüller (1470-1521?), Universalis cosmographia secundum Ptholomaei traditionem et Americi Vespucii alioru[m]que lustrationes. St. Die?, Francia: s. n., 1507, 128 x 233 cm.
+
+Library of Congress Geography and Map Division Washington, D. C.
+
+
+
+2.4.1 Detalle.
+
+
+
+2.4.2 Detalle.
+
+
+
+El mapamundi es, además, una narración y una celebración de un gran momento histórico que marca el inicio de una nueva era y de un nuevo orden político. Este mapa contiene la palabra «América» por primera vez como el nombre de la cuarta porción del mundo (detalle 2.4.2). Con su publicación y posterior circulación y con los textos que lo acompañan, el mundo desconocido, la Terra Incognita, se transforma en un mundo conocido como América, la tierra de Américo Vespucio, explorador y cosmógrafo al servicio de los reyes católicos.
+
+El mapa está acompañado de un texto que nos recuerda que el propósito de la publicación es ordenar espacial y políticamente el mundo, demarcar los dominios de la tierra y facilitar su exploración y conquista: «Así como los granjeros señalan y dividen sus tierras con líneas fronterizas, ha sido nuestro propósito marcar los principales países del mundo con los emblemas de sus gobernantes».
+
+
+
+
+
+3. EL PADRÓN REAL
+
+Y LA CASA DE
+
+CONTRATACIÓN
+
+
+
+EL ENCUENTRO DE LOS EUROPEOS con el Nuevo Mundo implicó grandes retos para la ciencia europea. Los exploradores, los cartógrafos y los naturalistas del siglo XVI se enfrentaron con geografías, mundos naturales y grupos humanos hasta entonces desconocidos, sobre los cuales no había referencia alguna en textos clásicos o sagrados. Ni en Aristóteles, Plinio o Ptolomeo ni en la Biblia hay referencias a una cuarta parte del mundo.
+
+Con el fin de organizar el comercio y la inagotable y novedosa información proveniente de los navegantes y exploradores en América, fue creada la Casa de Contratación de Sevilla. Para el acopio de información geográfica y cartográfica de lugares lejanos y para la construcción de cartas de marear (imagen 3.1) fue necesario definir reglas de juego comunes para recopilar observaciones y experiencias, manufacturar instrumentos de observación astronómica calibrados y contratar pilotos entrenados en las técnicas de la navegación y la cartografía astronómica. Con el nombramiento de Américo Vespucio como el primer piloto mayor de la Casa de Contratación, en 1508, la Corona dispuso:
+
+[…] que se haga un padron general, e porque se haga más cierto, mandamos a los nuestros oficiales de la Casa de Contratación de Sevilla que hagan juntar todos nuestros pilotos, los más hábiles que se hallaren en tierra a la sazón, e en presencia de vos el dicho Amerigo Vespuchi, nuestro piloto mayor, se ordene e haga un padron de todas las tierras e islas de las indias que hasta hoy se han descubierto […].
+
+
+
+3.1 Pedro de Medina (1493-1567), «Carta de navegar», Regimiento de navegación, 1563, f. VIII.
+
+Tomado de Francisco Videl, Mapas de América en los libros españoles de los siglos XVI al XVII, Madrid, 1991.
+
+El nuevo mapa del mundo, El Padrón Real, debía estar bajo llave y no podía ser difundido. Hoy no se conoce uno que se titule El Padrón Real; sin embargo, un mapa como el de Diego Ribero podría ser un ejemplo de cartas construidas sobre los datos recopilados en la Casa de Contratación de Sevilla (imagen 3.2). Si bien en 1520 el mundo ya era muy distinto al del siglo XV, los mapas conservaban las convenciones de la cartografía portulana: rosas de los vientos en las cuales confluían líneas de rutas que, a manera de redes, parecían cubrir el mundo entero; coordenadas astronómicas clásicas, el norte en la parte superior, y las líneas del ecuador, trópico de Cáncer y trópico de Capricornio (detalle 3.2.1).
+
+
+
+3.2 Diego de Ribero (?-1533), Carta Universal en que se contiene todo lo que del mundo se ha descubierto hasta ahora. Hízola Diego Ribero cosmógrafo de su majestad: Año de 1520. Sevilla, La cual se divide en dos partes conforme a la capitulación que hicieron los católicos Reyes de España ¿? Don Juan de Portugal en Tordesillas: Año de 1494, Sevilla, 1529.
+
+
+
+3.2.1 Detalle.
+
+
+
+3.2.2 Detalle.
+
+
+
+3.2.3 Detalle.
+
+
+
+Otro elemento que vale la pena destacar, y que contrasta con la carta de Juan de la Cosa, treinta años antes, es su rica toponimia, no sólo para el Viejo Mundo sino para América, en particular la costa oriental del continente. Numerosas embarcaciones europeas a lo largo y ancho del globo muestran la presencia cristiana en casi la totalidad del mundo (detalle 3.2.2). Los instrumentos astronómicos y de navegación, como el cuadrante, el astrolabio y la misma rosa de los vientos, son símbolos de autoridad y precisión en la elaboración de la carta (detalle 3.2.3).
+
+A lo largo del siglo XVI, el mundo cristiano expandió sus dominios a una escala global, el orbis terrarum, la morada de la especie humana dejó de ser la misma, e irrumpió un Nuevo Mundo; pero no como un nuevo trozo de tierra, sino como una nueva cosmología que trae consigo la redefinición del Viejo Mundo. El surgimiento de ese Nuevo Mundo, del cual América forma parte, es al mismo tiempo la formación de Europa y sus «otros», en el cual se definen las fronteras, los nuevos centros y periferias de un nuevo orden mundial; la consolidación del eurocentrismo.
+
+
+
+
+
+4. GRANDES ATLAS
+
+DEL SIGLO XVII
+
+
+
+ABRAHAM ORTELIUS FUE EL creador de uno de los primeros «atlas modernos», esto es, un libro de mapas organizado en un formato uniforme que sintetizaba el estado de conocimientos geográficos de su época. El Theatrum Orbis Terrarum, aparte de que fue considerado la más importante referencia cartográfica impresa de finales del siglo XVI y principios del XVII, gozó de un éxito comercial hasta entonces inédito en toda Europa e inauguró también lo que se conoce como el Siglo de Oro holandés, cuando a la par que se desarrollaron los grandes talleres de impresión cartográfica del siglo XVII, los Países Bajos —actuales Bélgica y Holanda— empezaban a constituirse en el principal rival comercial, marítimo, colonial y científico de las coronas española y portuguesa.
+
+En el siglo XVI, la provincia de Flandes —como se llamaba entonces la región— estaba bajo dominio español y esto permitió al holandés Ortelius ser nombrado cosmógrafo real de Felipe II, obtener derechos privilegiados de impresión de mapas y tener contacto con fuentes cartográficas inaccesibles para cualquier otro europeo. Así, por ejemplo, para la elaboración del mapa Pervviae Avriferæ Regionis Typvs (1584), (imagen 4.1), primero publicado que se conoce sobre el virreinato de Perú, Ortelius se basó en «Didaco Mendezio», que algunos autores asocian con el diplomático y militar español Diego Hurtado de Mendoza, aunque otros lo identifican más bien con Diego Méndez, capellán del Monasterio de la Encarnación de Lima y cosmógrafo del virrey de Perú.
+
+
+
+4.1 Abraham Ortelius (1527-1598), «Peruviæ Auriferæ Regionis Typus», Theatrum Orbis Terrarum, Amberes 1584-1602.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 4, REF.X-64a.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+El mapa de Florida, que acompaña al de Perú, se lo reconoce Ortelius a «Hieron Chiaves», esto es, Jerónimo de Chaves, catedrático cosmógrafo y piloto mayor de la Casa de Contratación de Sevilla desde 1552. De manera que a los atlas de Ortelius subyacía una compleja red de personas, relaciones y fuentes cartográficas que permitieron a este holandés estructurar su proyecto de manera tan exitosa.
+
+Además del atlas de Ortelius, las ciudades de los Países Bajos dieron luz a nuevos y más ambiciosos proyectos cartográficos como el Atlas sive Cosmographicæ Meditationes de Fabrica Mvndi et Fabricati Figvra, de la famosa casa de cartógrafos Mercator-Hondius, o el extraordinario Atlas Novus, de Willem Janszoon Blaeu y el Atlas Maior de su hijo. Estos dieron cuenta del vertiginoso incremento del poder naval y comercial de los Países Bajos a través de su eficaz marina mercante, organizada en la poderosa Compañía Holandesa de las Indias Orientales (la Vereenigde Oost-Indische Compagnie o VOC), y en la no menos eficaz Compañía Holandesa de Indias Occidentales (la West-Indische Compagnie o WIC).
+
+El Atlas Maior de Blaeu se convirtió en el más influyente de los atlas holandeses. Tuvo acceso a materiales cartográficos de las compañías holandesas en las Indias orientales y occidentales como el mapa Tierra Firma item Nuevo Reyno de Granada at que Popayan de Hansel Gerritsz (imagen 4.2), que fue la imagen cartográfica más reproducida por los impresores europeos sobre esta región de América hasta mediados del siglo XVIII.
+
+
+
+4.2 Hessel Gerritsz (1581-1632), Terra Firma item Nuevo Reyno de Granada atque Popayan, Leiden, 1625-1630.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 4, REF. X-63.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+
+
+5. JORGE JUAN,
+
+ANTONIO DE ULLOA,
+
+LA CONDAMINE Y LA
+
+EXPEDICIÓN PARA MEDIR
+
+LA FORMA DE LA TIERRA
+
+
+
+LA LLAMADA «REVOLUCIÓN Científica» de los siglos XVI y XVII parece culminar con el triunfo de la obra de Isaac Newton, modelo de una ciencia en la cual la experiencia y el lenguaje matemático son garantía de neutralidad y racionalidad. Estos ideales de la ciencia newtoniana influyeron en todos los campos del conocimiento, y la cartografía no fue la excepción. El proyecto de exploración más importante para la historia de la cartografía en el periodo de la Ilustración, la expedición geodésica de la Academia de Ciencias de Francia, tiene una estrecha relación con la obra de Newton.
+
+El propósito de la expedición fue medir exactamente la longitud de un grado de meridiano, para así poner fin a la controversia, entre la Academia de París y los ingleses, acerca de la forma de la Tierra. Los primeros predecían una Tierra alargada de norte a sur; los segundos, una Tierra aplanada en los polos (imagen 5.1). La Academia Francesa propuso que se hicieran dos mediciones, una cerca del Polo Norte y la otra cerca del ecuador. El lugar más conveniente para hacer las mediciones ecuatoriales era América del Sur.
+
+
+
+5.1 a 5.5 Jorge Juan y Santacilia (1713-1773) y Antonio de Ulloa (1716-1795), Observaciones astronómicas y phisicas hechas de orden de S. Mag. en los Reynos del Perú: de las quales se deduce la figura y magnitud de la tierra y se aplica a la navegación. Madrid, Juan de Zúñiga, 1748, 28 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 520 J81O.
+
+Conscientes de que un conocimiento preciso de la forma de la Tierra proveería datos clave para la navegación, la cartografía y para la solución de problemas limítrofes, los españoles quisieron tomar parte y beneficiarse de la expedición de los franceses. Por lo tanto, dos jóvenes de la Marina española fueron escogidos para representar a España en el proyecto. Jorge Juan y Antonio de Ulloa fueron designados por Felipe V para acompañar y aprender todo lo posible de sus compañeros franceses.
+
+
+
+5.2
+
+
+
+Entre los miembros franceses figuraban reputados hombres de ciencia: Charles-Marie de La Condamine, Louis Godin, Pierre Bouguer y el botánico Joseph de Jussieu. Además de corroborar las predicciones newtonianas sobre la forma de la Tierra, los exploradores franceses y españoles recopilaron una valiosa información en historia natural y cartografía (imágenes 5.2 a 5.5). Estudios inéditos sobre la quina, el curare y el caucho son ejemplos de las posibilidades farmacéuticas y comerciales de la flora americana, y la carta del río Amazonas es una muestra del detalle y precisión de la nueva cartografía (imagen 5.6). La expedición sirvió de modelo para otros proyectos de exploración científica en el Nuevo Mundo.
+
+
+
+5.3
+
+
+
+5.4
+
+
+
+5.5
+
+
+
+5.6 Charles-Marie de La Condamine (1701-1774), «Corte du cours du Maragnon ou de la Grande Riviere des Amazones», en Relation abrégée d’un voyage fait dans l’interieur de l’Amerique Meridionale, Depuis la cote de la Mer du Sud, jusqu’aux cotes du Brésil and de la Guiane, en descendant la riviere des Amazones, Avec une carte du Maragnon, ou de la Riviere des Amazones, levée par la meme, Nouvelle edition augmentée de la Relation de l’emeute populaire de Cuenca au Pérou et d’une Lettres de M. Godin des Odonais, Maestricht, Jean-Edme Dufor et Phillippe Roux, 1778, 21 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918 L12r3.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+
+
+6. MAPAS PARA EL REY:
+
+CARTOGRAFÍA E IMPERIO
+
+EN EL SIGLO XVIII
+
+
+
+LA ILUSTRACIÓN ES UN PERIODO en el cual los europeos proclaman dominio sobre el mundo entero. La conquista y la administración del mundo no son tarea exclusiva de grandes ejércitos, sino también de hombres de ciencia al servicio de los imperios. La necesidad de conocimientos geográficos actualizados como instrumentos de gobierno estaba tan presente en la administración imperial de Carlos III como en la corte del rey de Francia.
+
+El Plan geográfico del virreinato de Santafé de Bogotá (1772), levantado por Francisco Antonio Moreno y Escandón y dibujado por José Aparicio Morata bajo mandato del virrey Pedro Messía de la Cerda, ejemplifica bien los esfuerzos de los altos funcionarios del virreinato de la Nueva Granada para implementar una organización territorial, administrativa y fiscal más eficiente en la Colonia, en el marco de las llamadas reformas borbónicas.
+
+En 1770, el virrey había solicitado a los diversos funcionarios locales del virreinato realizar informes detallados sobre recursos, población y territorio de cada región, y se le encargó a Moreno y Escandón un análisis general de la situación (imagen 6.1). El mapa sintetiza en buena medida los resultados del informe llevado a cabo por Moreno y Escandón tras recorrer parte del territorio y compilar la mayor cantidad de información de carácter histórico, administrativo, fiscal, militar y demográfico. El título completo del mapa revela bien las preocupaciones del gobierno virreinal del finales del siglo: Plan geográfico del virreinato de Santafé de Bogotá Nuevo Reyno de Granada, que manifiesta la demarcación territorial, islas, ríos principales, provincias y plazas de arma; lo que ocupan indios bárbaros y naciones extranjeras; demostrando los confines de los dos reynos de Lima y México, y establecimientos de Portugal, sus lindantes; con notas historiales del ingreso anual de sus rentas reales, y noticias relativas a su actual estado civil, político y militar.
+
+
+
+6.1 Joseph Aparicio Morata y Francisco Antonio Moreno y Escandón (1736-1792), Plan geográfico del Virreynato de Santafé de Bogotá, Nuevo Reyno de Granada, que manifiesta su demarcación territorial, islas, ríos principales, provincias y plazas de armas, Santafé de Bogotá, 1772, 56 x 80 cm. Copia facsimilar de 1936.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H5A.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+Durante la Ilustración, y para los administradores del Gobierno español en América, la geografía reunía un conjunto amplio temas que tenía en común su carácter utilitario para la prosperidad del imperio. Esta misma preocupación, pero en este caso para el Gobierno francés, era la que sustentaba el trabajo en París de Jean Baptiste Bourguignon d’Anville, una de las autoridades cartográficas europeas más importantes del siglo XVIII. Como cartógrafo principal del rey de Francia, d’Anville llegó a publicar más de 200 mapas con los detalles más actualizados de su época sobre todas las regiones del mundo (imágenes 6.2.1; 6.2.2; 6.2.3 y 6.4). Tuvo, además, a su servicio, la infraestructura, los recursos y la red de relaciones de uno de los principales centros científicos de Europa: la Academia de Ciencias de París.
+
+
+
+6.3 Jean Baptiste Bourguignon d’Anville (1697-1782), Carte des provinces de Tierra firme, Darien, Cartagene et nouvelle pour sevir a l’histoire generale des voyages tirce des meilleures cartes et en particulier de l’Amerique de M. d’Anville, París, 1756, 21 x 26 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H709.
+
+
+
+6.2.1, 6.2.2 y 6.2.3 Jean Baptiste Bourguignon d’Anville (1697-1782), Amérique Méridional. Publié sous les auspices de Monseigneur Louis Philippe Le Duc d’Orleans, Prémier Prince du Sang. Par le Sr. d’Anville, de l’Academie Royale des Belles Lettres, et de celle des Sciences de Petersbourg, Secretaire de S Alt Ser MDCCLXI. Sous le Privilege de l’Academie, Engraver or Printer: Delahaye, Guillaume (1725-1802), Paris, J. B. B. D’Anville, 1761, 66 x 120 cm.
+
+Facilitado por: Casa Tierra Firme/Bolivar Old Prints.
+
+
+
+6.4 Jean Baptiste Bourguignon d’Anville (1697-1782), Carte particuliere de l'Isthme de Panama, Golfe de Darien, Cote de Carthagene, jusqu’ a Ste par le Sr. D’Anville, París, 1730, 28 x 42 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H446.
+
+Al igual que en todos los grandes proyectos que exigen medición, levantamiento, recopilación y ordenamiento de un sinnúmero de datos, la elaboración de mapas no es el producto de mentes individuales ni de observaciones solitarias. En su mayoría, los productos cartográficos son el resultado de una suma de tareas y de datos recopilados por muchas personas en lugares y tiempos distintos. Mapas y datos de cartógrafos o viajeros anteriores —como la expedición de La Condamine al Amazonas, que sirvió de fuente principal a D’Anville para dibujar el río en sus mapas de Suramérica—, dibujantes, mediciones astronómicas, grabadores, impresores y, no menos importante, la información que les es dada a los viajeros y expedicionarios por guías locales y nativos que conocen mejor el territorio que cualquier explorador o conquistador. Sólo en lugares con el poder de sumar las experiencias de muchos, como es el caso de la Casa de Contratación en Sevilla en el siglo XVI o la Academia de Ciencias de Francia del siglo XVIII, es posible concebir la idea de un gran mapa del imperio o del mundo.
+
+
+
+
+
+7. EL MAR, LAS COSTAS
+
+Y LOS PUERTOS
+
+
+
+EN LAS PRIMERAS ETAPAS DE la Conquista vemos una cartografía cuyo principal interés estaba en las cartas de marear, en las rutas de acceso al Nuevo Mundo y en el reconocimiento de las islas y costas en el océano Atlántico. Desde el temprano siglo XVI las posesiones españolas en América estuvieron permanentemente amenazadas por la interferencia de otros imperios: el portugués en Suramérica, el inglés en el Pacífico y el ruso en Alaska. La mayoría de los mapas del territorio que hoy es Colombia, elaborados en los siglos XVII y XVIII, corresponden a la costa Atlántica y a sus principales puertos, entre los cuales sobresale el de Cartagena de Indias.
+
+A lo largo de los siglos XVII y XVIII fueron impresas y reproducidas numerosas adaptaciones y planos de la ciudad, con información detallada de sus mecanismos de defensa, vías de acceso y características de interés sobre el entorno terrestre y marítimo, que se enmarcaban en las dinámicas de confrontación entre España y sus rivales europeos, así como con los piratas. La ciudad fue objeto de numerosos intentos de saqueo como el de sir Francis Drake, en 1586; el del corsario barón Jean de Pointis, en 1697, que dejó la ciudad devastada durante casi una década, y la expedición del almirante Edward Vernon, en 1741, que con una flota de más de 180 barcos y 22.000 hombres sufrió una de las derrotas navales más importantes de la historia militar moderna (imágenes 7.1; 7.2; 7.3; 7.4 y 7.5).
+
+
+
+7.1 Theodor de Bry (1528-1598), «Franciscus Draco Carthagenam Civitatem Expugnat», Americae Pars VIII, Fráncfort, 1599, 15 x 21 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: PH0070.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+7.2 Cartagena in Terra Firma Americae sita ichnographice repraesentata et recusa Norimbergae at Homan, 1740, 23 x 28 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: PH0015.
+
+
+
+7.3 I. Andrews, A plan of the city of Carthagena, Londres, 1772, 18 x 23 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: PH0062.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+7.4 Juan de Herrera, Plan of the harbour of Carthagena, ¿Londres?, 1800, 18 x 30 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: PH0065.
+
+
+
+7.5 Thomas Jefferys, A description of the spanish islands and settlements on the coast of the West Indies compiled from authentic memoirs, revised by gentlemen who have resided many years in the spanish settlements and illustrated with thirty-two maps and plans chiesly from original drawings taken from the spaniards in the last war and engraved by Thomas Jefferys, Londres, J. Jefferys, 1762, 26 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 917.29 D37.
+
+La defensa de su imperio exigía a España cada vez más esfuerzos científicos de actualización de sus conocimientos y tecnologías navales, incluidas mejoras de su cartografía náutica (imágenes 7.6 y 7.7). Así es como a finales del siglo XVIII, la Corona emprendió un ambicioso y costoso proyecto de actualización de la cartografía de las costas de sus dominios. Con la organización del Observatorio Astronómico en Cádiz y la formación de oficiales en las últimas tecnologías cartográficas, se empezó con la elaboración de un Atlas marítimo de España (1786), con el detalle de todas sus costas peninsulares. Luego se enviaron varias expediciones a América, como la encomendada a Alejandro de Malaspina, un marino napolitano al servicio de España, encargado del reconocimiento de toda la costa americana del océano Pacífico desde el cabo de Hornos hasta Alaska (1789-1794); la del capitán Cosme Damián Churruca, encargado de la cartografía de las islas Antillas, de Trinidad a Cuba, y luego las costas de La Florida, y la de Joaquín Francisco Fidalgo, en las costas de tierra firme desde Trinidad hasta América Central (1790-1805), entre estas las costas del actual territorio colombiano. Esa empresa dio lugar a la elaboración de 72 mapas, la mayoría aún inéditos (imágenes 7.8 y 7.9), que sirvieron durante muchas décadas como la principal base cartográfica de las costas colombianas.
+
+
+
+7.6 Juan López, Carta plana de la provincia de La Hacha situada entre las de Santa Marta y Maracayro, 1786, 44 x 59 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H568.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+7.7 Jacques Nicolás Bellin (1703-1772), Plan du port de Ste. Marthe dans l’Amérique Méridionale, París, 1764, 22 x 17 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: PH0019.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+7.8 Joaquín Francisco Fidalgo, Quarta hoja que comprende las Costas de la provincia del Cartagena, Golfo del Darien y Provincia de Portovelo, con el Golfo de Panamá y Archipielago de las Perlas, Madrid Dirección de Hidrografía, 1817, 41 x 88 cm.
+
+Facilitado por: Casa Tierra Firme/Bolivar Old Prints.
+
+
+
+7.9 West Indies from de Cabo la Vela to Cayos Ratones, Londres, s. n., 1837, 50 x 68 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H579.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+
+
+8. LOS GRANDES RÍOS
+
+Y LAS RUTAS DE
+
+ACCESO AL INTERIOR:
+
+EL MAGDALENA,
+
+EL ORINOCO Y
+
+EL AMAZONAS
+
+
+
+EL DESCUBRIMIENTO Y LA CONQUISTA europea del Nuevo Mundo requirió el dominio del mar; por lo tanto, la tecnología naval y la cartografía desempeñaron un papel definitivo. Sin embargo, no menos compleja fue la tarea de la conquista del interior de los continentes: las selvas, las montañas o las extensas llanuras fueron un desafío mayor de dominio del Nuevo Mundo. Para lograr este cometido, los europeos se vieron obligados a recurrir a los conocimientos geográficos de los habitantes de América. Así, los caminos y rutas terrestres de los nativos, al igual que los ríos, fueron los principales ejes de comunicación e integración del interior del continente.
+
+8.1 EL RÍO GRANDE
+
+DE LA MAGDALENA
+
+
+
+El actual territorio colombiano se estructuró en buena medida a través de la integración de las cuencas de los ríos andino-caribeños al mundo europeo: la más importante de estas cuencas, la del río Magdalena, no sólo fue una de las principales vías de penetración española a la región, sino el principal eje articulador de la Nueva Granada, en la medida en que a través suyo se movilizaron productos y personas que conectaron las diferentes regiones de las cordilleras y los valles interandinos con los centros administrativos y económicos de la Corona española en el Caribe y en la Península (imágenes 8.1 y 8.2), y tras los procesos de Independencia, con los nuevos centros de poder mundial como Gran Bretaña y Estados Unidos.
+
+El río Magdalena y su principal afluente, el Cauca, fueron ruta obligada de naturalistas como Mutis, Humboldt, Agustín Codazzi, Joaquín Acosta, entre muchos otros, transportados por bogas en champanes entre la costa Atlántica y las regiones andinas (imagen 8.3). No es entonces extraño que el curso del río Magdalena fuera un objeto de estudio cuidadoso y que este ocupara un lugar destacado en la historia de la cartografía (imágenes 8.4 y 8.5), y en los relatos de los viajeros extranjeros Charles Saffray o Édouard André a lo largo del siglo XIX (imágenes 8.6 y 8.7).
+
+
+
+8.1 ¿Juan Nieto?, Carta corographica de lo contenido en los tres brazos que cerca de la […] hace la coordillera de las sierras que se continúan desde el estrecho de […], ca. 1570, 40 x 26 cm. Real Academia de Historia, Madrid, Colección Muñoz, n.º 89.
+
+Tomado de Eduardo Acevedo Latorre, Atlas de mapas antiguos de Colombia: siglos XVI a XIX, Bogotá, Litografía Arco, 1986.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+8.2 [Anónimo] Mapa del Río Grande de la Magdalena, desde su desembocadura hasta más arriba de la Ciudad de Mariquita, con expresión de gran número de poblaciones y de ríos que en él desembocan, Mansucrito, 1601.
+
+Archivo General de Indias, Sevilla, Mapas, planos, etcétera: Panamá, Santafé y Quito; código de referencia: ES.41091.AGI/1.16418.20//MP-PANAMA, 24. Tomado de Eduardo Acevedo Latorre, Atlas de mapas antiguos de Colombia: siglos XVI a XIX, Bogotá, Litografía Arco, 1986.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+8.3 Charles Saffray (1838- ?) «Voyage á Nouvelle Grenade», en Le tour du monde: nouveau journal des voyages, París, Librairie de L. Hachette, 1869.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: misc. 232.
+
+
+
+8.4 Alexander von Humboldt (1769-1859), Carta del curso del río de la Magdalena desde Honda hasta el Dique de Mahares, formada sobre las observaciones astronómicas hechas en abril, mayo y junio de 1801, Plan topográfico de la Angostura de Carare en dos partes, Observaciones astronómicas hechas desde el río Sinú hasta Santa Fe, notas sobre el Estrecho de Cararé, 1801, 140 x 31 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H3.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+8.5 Alexander von Humboldt (1769-1859), «Carte du Riu Grande de la Magdalena», en Relation historique et physique du nouveau continent, París, Chez Schoell 1814-1834.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 986.1.
+
+
+
+8.6 y 8.7 Édouard André (1840-1911), «L'Amerique Equinoxiale», en Le tour du monde: nouveau journal des voyages, París, 1877.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: misc. 232.
+
+8.2 EL ORINOCO Y EL AMAZONAS
+
+
+
+Las misiones religiosas, en particular las comunidades jesuitas, desempeñaron un papel importante en el reconocimiento geográfico de zonas de frontera en el interior de América. Un destacado ejemplo de la exploración de las cuencas del continente es el llevado a cabo por el padre Joseph Gumilla, registrado en su obra El Orinoco ilustrado y defendido. Historia natural, civil y geográfica de este gran río y de sus caudalosas vertientes, publicada en 1741. El padre Gumilla pasó siete años de su vida como misionero y estudioso de la fauna, flora y geografía de la cuenca del Orinoco (imagen 8.8). Sus escritos sirvieron durante mucho tiempo como referencia principal sobre esta parte del mundo y estimularon a otros exploradores.
+
+
+
+8.8 Joseph Gumilla (1686-1750), El Orinoco ilustrado y defendido: historia natural civil y geográfica de este gran río y de sus caudolosas vertientes govierno, usos y costumbres de los indios escrita por Joseph Gumilla de la compañia de Jesús, Madrid, Manuel Fernández, 1741, 21 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 987 G85o6.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+La conexión fluvial entre el Orinoco y el Amazonas tenía delicadas implicaciones políticas: la conexión dio argumentos a la Corona portuguesa para demostrar derechos de soberanía sobre la región, mientras que el que no estuvieran conectados favoreció los privilegios dados a los jesuitas por la Corona española. Estos últimos argumentaban que existía una independencia geográfica entre ambas cuencas, tal y como se observa también en el mapa del jesuita Samuel Fritz sobre el río Marañón o Amazonas, de 1707, que pasó más de cuarenta años de su vida entre grupos indígenas en las orillas del Amazonas (imagen 8.9).
+
+
+
+8.9 Samuel Fritz (1673-1725), El gran río Marañón o Amazonas, con la Misión de la Compañía de Jesús geográficamente delineado por el Padre Samuel Fritz, misionero continuo en este río.
+
+Facilitado por: Casa Tierra Firme/Bolivar Old Prints.
+
+En 1743, Charles-Marie de La Condamine, el científico francés miembro de la expedición encargada de medir la forma de la Tierra en la zona ecuatorial, emprendió un viaje al Amazonas con la intención explícita de corregir el mapa de Fritz y evaluar la situación real de la presencia portuguesa y española en la región amazónica (imagen 5.6). No es de extrañar el interés de La Condamine por la amazonia, si se tiene en cuenta que en la cartografía francesa del siglo XVIII esta región es representada como un territorio desconocido —«el país de los amazonas»— sin sujeción efectiva por parte de portugueses o españoles (imagen 8.10).
+
+
+
+8.10 Robert de Vaugondy, Terres-Ferme, Perou, Brésil, Pays de L’Amazone: corrigés par C. F. Delamarche, Gravé par E. Dussy, París, 1806, 24 x 28 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H230.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+La exploración y el reconocimiento europeo de estas regiones no hubieran sido posibles sin el uso de guías locales y de la experiencia y el conocimiento geográfico de los nativos. Un buen ejemplo de ello lo encontramos en la obra de Alexander von Humboldt, quien visitó el Orinoco en 1800, buscando confirmar la existencia de la conexión entre ambas cuencas por el río Casiquiari. La Carta itinerario del curso del río Orinoco, de Alexander von Humboldt, es un mapa construido día tras día, que recopila observaciones propias y conocimientos de los nativos y guías que lo acompañaron (imagen 8.11) e incluye testimonios como: «Los nativos me aseguran que a dos horas está el nacimiento del río Casanare», que hacen evidente el uso de Humboldt de conocimientos locales. Si bien el mapa del Orinoco cuenta con todos los requerimientos técnicos de su época para servir de guía al navegante, también es historia oral indígena. Esta es una carta dictada por los indígenas, del cual Humboldt fue el redactor o traductor que poseía los instrumentos necesarios para transformarla en un texto geográfico bajo los códigos científicos y simbólicos europeos de su momento; un mapa en el que el conocimiento nativo y la tecnología europea se funden en un producto de carácter científico, del cual el explorador europeo se presenta como autor.
+
+
+
+8.11 Alexander von Humboldt (1769-1859), «Carte itineraire du cours de l’orenoque de l’atabapo, du cesifuiere et du Rio Negro» en Relation historique. Atlas geographique et physique du nouveau continent, París, Chez Schoell 1814-1834.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918 H85.
+
+A lo largo del siglo XIX, cuando los Estados nacionales latinoamericanos se encontraban en proceso de formación, fue objeto de debate el problema de las diferentes interpretaciones geográficas y cartográficas del curso de los ríos y la delimitación de fronteras en la región amazónica. La atención sobre la región y su importancia comercial incrementó en buena medida con el auge de la economía del caucho en la segunda mitad del siglo XIX, y Brasil, Venezuela, Nueva Granada, Ecuador, Bolivia y Perú buscaron aumentar sus territorios para controlar los recursos naturales, los ríos y los habitantes.
+
+
+
+
+
+9. EL CANAL
+
+INTEROCEÁNICO
+
+
+
+EL SUEÑO EUROPEO DE ENCONTRAR una ruta comercial con Oriente se vio frustrado por la existencia del continente americano en medio del camino. En 1520, Fernando de Magallanes encontró un paso al océano Pacífico, pero la hazaña de rodear el continente americano por el sur presentaba enormes dificultades.
+
+La corta distancia entre los océanos Pacífico y Atlántico en el istmo de Panamá despertó desde el siglo XVI la idea de construir de una canal navegable entre los océanos. Si bien los primeros proyectos consistieron en establecer una ruta terrestre que conectara puertos en los dos océanos, la búsqueda de alternativas para generar una ruta navegable fue de interés de españoles, portugueses y otros europeos a lo largo de los siglos XVII y XVIII. Ejemplo de ello es la licencia dada en 1695 a William Patterson para construir un canal interoceánico en el Darién bajo la bandera del inglés Guillermo III, o la corta expedición escocesa al Darién (1698-1700) durante la cual fundaron la colonia de Caledonia, con el fin de construir una ruta para el comercio con China y Japón. Los fracasos reiterados no impidieron que en el siglo XIX se reavivaran las esperanzas de construir un canal en Centroamérica o en el actual Chocó colombiano, tal y como resaltó Humboldt en sus Consideraciones generales sobre la posibilidad de unir el océano Pacífico con el Atlántico, de 1822, donde destacó que «en el interior de la provincia de Chocó […] un fraile muy activo, cura del pueblo de Nóvita, hizo abrir por sus feligreses un pequeño canal en la barranca de la Raspadura; y siendo este canal navegable cuando las lluvias eran abundantes, pasaron por él de un mar a otro canoas cargadas de cacao. He aquí una comunicación interior que existe desde 1788, y de la cual no se tiene noticia en Europa».
+
+Los desarrollos industriales impulsaron nuevos proyectos de canal y de ferrocarril, y en este contexto la cartografía contribuyó a su planeación y publicidad y a la consecución de recursos. La anexión de California a Estados Unidos de América en 1848, la fiebre del oro y el rápido incremento del desplazamiento de colonos estadounidenses a la Costa Oeste hicieron aumentar la demanda de una ruta rápida entre los océanos y la proliferación de mapas norteamericanos en que se resaltaban las posibilidades de los proyectos interoceánicos (imagen 9.1).
+
+El ferrocarril de Panamá se construyó entre 1850 y 1855, lo que motivó nuevos estudios como el del francés Ferdinand de Lesseps, quien había completado la excavación del canal de Suez y quien fundó la Compagnie Universelle du Canal Interocéanique de Panama (1879), empresa que quebró y cuyos derechos de explotación fueron vendidos a los norteamericanos, en el marco de los sucesos que condujeron a la separación de Panamá de Colombia, en 1903 (imagen 9.2).
+
+
+
+9.1 Tanner, Henry, Venezuela New Granada & Ecuador, 1836.
+
+Facilitado por: Casa Tierra Firme/Bolivar Old Prints.
+
+
+
+9.2 Samuel Mitchell, «Map showing the proposed Atratointer Oceanic Canal routes, for connecting the Atlantic and Pacific Oceans» en Map os South America, showing its political divisions, Mitchell’s new general atlas, Filadelfia, 1870, 35 x 28 cm.
+
+Facilitado por: Casa Tierra Firme/Bolivar Old Prints.
+
+Menos conocido, no obstante, es el proyecto francés de canalización por colonización, titulado Canal interocéanique par l’isthme du Darien. Nouvelle-Grenade (Amérique du Sud). Canalisation par la colonisation, promovido por el negociante francés Athanase Airiau, quien presentó a las autoridades neogranadinas una propuesta que incluía varios planos dedicados a los presidentes Pedro Alcántara Herrán (1841-1845) y Mariano Ospina Pérez (1857-1861). Los mapas de Airiau sintetizan bien el carácter utópico de su proyecto, basado en la fundación de 150 ciudades granja para una población de 100.000 colonos de origen europeo, dedicados al cultivo de cacao y tabaco, el levantamiento de 1.500.000 cabezas de ganado para la producción de carne de conserva y la construcción del canal (imágenes 9.3; 9.4; 9.5 y 9.6).
+
+
+
+9.3
+
+
+
+9.4
+
+
+
+9.5
+
+
+
+9.3 a 9.6 Athanase Airia, Canal interocéanique par l’Isthme du Darien Nouvelle-Grenade (Amérique du Sud); canalisation par la colonisation, París, Chez France, 1860, 24 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 386.443 A47C.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+
+
+10. LA EXPEDICIÓN
+
+BOTÁNICA Y EL
+
+OBSERVATORIO
+
+ASTRONÓMICO
+
+DE BOGOTÁ
+
+
+
+EL SIGLO XVIII ES EL SIGLO DE Carl von Linné, de los grandes jardines botánicos y museos de historia natural; es el siglo de la clasificación. En el marco de las reformas de los Borbones no sólo hubo un creciente interés en los viajes y el conocimiento, sino el surgimiento de un nuevo tipo de exploración en un proyecto a gran escala de apropiación de la tierra, que aparte de incluir las líneas costeras, los ríos, el oro y la plata, también sistematizaba cada objeto de la naturaleza. El propósito de la expedición, tal y como lo especificaba la Corona era:
+
+El examen y conocimiento de las producciones Naturales de mis Dominios de América, no sólo para promover los progresos de las ciencias Phisicas, sino también para desterrar las dudas, y adulteraciones, que hai en la Medicina, Pintura y otras Artes importantes, y para aumentar el Comercio, y que se formen Herbarios, y Colecciones de productos Naturales, descriviendo y deliniando las Plantas que se encuentren en aquellos mis fértiles Dominios para enriquecer mi Gavinete de Historia Natural y Jardín Botánico de la Corte.
+
+Los exploradores recolectaron e hicieron dibujos de un enorme número de plantas y tomaron nota sobre aquellas prácticas medicinales locales que ellos consideraban que podrían tener algún valor (imagen 10.1). Sus manuscritos, colecciones y su gigante producción de ilustraciones fueron embarcadas a España en 1815. Los proyectos de exploración europeos tuvieron un visible impacto en las élites criollas de comienzos del siglo XIX. Un legado indeleble de la Expedición Botánica fue la construcción del Observatorio Astronómico de Santafé de Bogotá, finalizado en 1803 (imagen 10.2).
+
+
+
+10.1 «Determinatio specierum generis Cinchonae», en Flora de la Real Expedición Botánica del Nuevo Reino de Granada, tomo XLIV: Quinas de la Real Expedición Botánica del Nuevo Reino de Granada, lámina 1.
+
+
+
+10.2 «Secciones y planta del edificio del Observatorio Astronómico». Dibujo de Mercedes Carol.
+
+
+
+La existencia de un observatorio cerca del Ecuador ofrecía ventajas enormes, hecho que Caldas destaca en repetidas ocasiones, al exaltar las ventajas geográficas de la Nueva Granada: «Dueño de ambos hemisferios, todos los días se le presenta el cielo con todas sus riquezas». Para entonces, Caldas había logrado reunir un equipo completo de astronomía moderna: un telescopio Dolland, un cuadrante de John Bird, un péndulo Graham, un octante de Hadley, un termómetro y un barómetro.
+
+Cuando llegó a Santafé para asumir su cargo como geógrafo y astrónomo del virreinato, Caldas tenía suficientes instrumentos y un completo dominio de las técnicas de la astronomía europea. El Observatorio fue un lugar de reunión de los criollos vinculados con la Real Expedición Botánica y el centro de acopio donde Francisco José de Caldas le dio forma a su gran proyecto de un Atlas del Nuevo Reino de Granada.
+
+En las primeras décadas del siglo XIX hubo cambios definitivos para el futuro de las nuevas naciones americanas. Los criollos ilustrados reclamaron y proclamaron su autoridad y su derecho para gobernar. Dicha autoridad tiene una profunda relación con su sangre, sus tierras y su lugar en la sociedad colonial; pero también con el conocimiento, la geografía, la historia natural, la medicina, la agricultura, la minería, la economía política y, sin la menor duda, la cartografía. Los mapas de América, desde el descubrimiento, fueron poderosos instrumentos de conquista y dominio imperial. De manera similar para los españoles nacidos en América del siglo XIX, entrenados en las técnicas y las ciencias europeas, la cartografía seguía operando como instrumento de apropiación y de control, pero esta vez muy lejos de Madrid, de repente sin un rey a quien servir y con un nuevo Estado por construir.
+
+
+
+
+
+11. FRANCISCO JOSÉ
+
+CALDAS: GEOGRAFÍA
+
+ECONÓMICA Y LOS
+
+ILUSTRADOS DE LA
+
+NUEVA GRANADA
+
+
+
+LA GEOGRAFÍA Y LA CARTOGRAFÍA se convirtieron en una necesidad para los proyectos políticos de los criollos y ocuparon un lugar central dentro de las preocupaciones de las élites americanas. En el periodo de la Ilustración, y para Caldas en particular, la geografía reunía ciertas preocupaciones que tienen en común su carácter utilitario e incluso indispensable para «obrar sobre la naturaleza», para el «buen gobierno» y la «prosperidad» de los pueblos; en este caso, del Nuevo Reino de Granada. «La Geografia […] es […] tan necesaria al estado, como lo puede ser á un propietario el conocimiento perfecto de sus heredades».
+
+En la obra de Caldas es evidente la estrecha relación entre geografía, gobierno y propiedad, y podemos identificar no sólo la intención de Caldas de explorar y conocer el territorio, de inventariarlo, sino justamente la necesidad que hay de ordenar lo que la naturaleza ofrece para transformarlo en riqueza. En la memoria que inaugura el Seminario del Nuevo Reyno de Granada, «Estado de la Geografía del Virreynato de Santafe de Bogotá», Caldas explica el sentido instrumental y político de la geografía: «Los conocimientos geográficos son el termómetro con que se mide la ilustración, el comercio, la agricultura y la prosperidad de un pueblo. Su estupidez y su barbarie siempre es proporcionada á su ignorancia en este punto: la Geografía es la base fundamental de toda especulación política» (imagen 11.1).
+
+
+
+11.1 Francisco José de Caldas, Semanario del Nuevo Reyno de Granada, Bogotá, Imprenta de Don Bruno Espinosa de los Monteros, 1808-1809.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: P0458.
+
+
+
+
+
+12. LA OBRA
+
+CARTOGRÁFICA
+
+DE FRANCISCO JOSÉ
+
+DE CALDAS
+
+
+
+EL MAYOR INTERÉS DE FRANCISCO José de Caldas fue la geografía y su proyecto más importante fue construir una «carta» del Nuevo Reino de Granada, esto es, elaborar un gran atlas de esta región. Son muchas las evidencias de que Caldas realizó durante su vida una amplia obra cartográfica. El 14 de marzo de 1817, Pascual Enrile informa al secretario de Estado y del despacho Universal sobre las disposiciones que llevó a cabo el general del ejército «pacificador» Pablo Morillo para salvar los resultados de los trabajos de la Expedición de José Celestino Mutis:
+
+Los insurgentes se ocuparon mucho de la Geografía del País, y después quisieron enterarse de la topografía. Sacaron de los Archivos del Virrey, Audiencia, Monasterios, y quanto había, lo vendieron a los encargados de la botánica y teniendo a la vista las muchas observaciones de Caldas, las de Humboldt, las de los marinos y el mapa de Talledo, emprendieron la grande obra de un mapa del Virreynato […].
+
+Me han sido de suma utilidad los dibujantes de la Comisión Botánica, pues en cinco meses sólo se han ocupado de copiar trabajos topográficos, dejando ya los originales en el Estado Mayor del Ejército […].
+
+[…] he procurado salvar de la destrucción y conservación para el adelanto de la cultura del Género humano unos materiales preciosísimos.
+
+Este documento de 1817 nos permite concluir que para entonces en el Observatorio de Santafé se acumularon más de un centenar de mapas, cortes de las cordilleras y nivelaciones de plantas que cubren buena parte de la Nueva Granada, «un plan colosal» que podemos suponer fue concebido y puesto en marcha por el mismo Caldas.
+
+En archivos históricos en Colombia y España se conserva una colección de mapas manuscritos que evidencia que Caldas había hecho importantes progresos en su proyecto de un gran Atlas del Nuevo Reino de Granada. Un primer mapa general del reino elaborado por Caldas es su corrección del mapa del cartógrafo del rey de Francia, D’Anville. En su versión de la Carta esférica de D’Anville, Caldas construye su propio mapa y selecciona y nombra aquellos lugares que considera más importantes, eliminando el detalle de la información que ofrece el cartógrafo francés. De manera que Caldas muestra su autoridad para redefinir los límites del virreinato, modificar la toponimia y decidir cuál información es pertinente y cuál no (imagen 12.1).
+
+
+
+12.1 Francisco José de Caldas, Carta esférica del Vireynato de Santafe de Bogotá por Mr. D'Anville, corregida en algunas partes según las últimas observacion[e]s p[o]r D[o]n Franc[is]co Joseph de Caldas, ¿1797?
+
+Servicio Geográfico del Ejército, Madrid, España, Cartografía Iberoamericana, signatura: X.SG-J-7-1-13.
+
+En el Archivo Histórico Restrepo se conservan diecinueve imágenes que cubren buena parte de la costa americana en el Atlántico (imagen 12.2). Cada lámina cubre 1º de longitud y 1º 30’ de latitud, y la colección numerada de mapas cubre la zona norte de la Nueva Granada desde los dos grados hasta los cinco grados de longitud, tomando como punto de referencia el meridiano de Cartagena. Se trata de una muestra, al parecer incompleta, de un proyecto mayor que buscaba cubrir toda la Nueva Granada; un proyecto de Caldas mucho antes de la crisis del Imperio español en América y de las revueltas de 1810.
+
+
+
+12.2 Francisco José de Caldas, Provincias Unidas de la Nueva Granada. De orden del gobierno general por el Cno. Francisco José de Caldas, coronel del cuerpo nacional de Yngenieros, 1815.
+
+Archivo Histórico Restrepo, Bogotá, Colombia, fondo XII, vol. 2: «Francisco José de Caldas sus cartas y opúsculos».
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+En el mismo archivo reposan manuscritos de lo que iban a ser las portadas de ese gran atlas, una de 1811 titulada Atlas de una parte de la América meridional que comprende desde el istmo de Panamá hasta las bocas del Amazonas y desde las costas de Maracaibo y Venezuela hasta la orilla austral del Marañón, formado de orden del Exmo. S. Presidente del Estado J. T. Lozano (imagen 12.3). Aquí Caldas recurre a algunos emblemas clásicos del poder imperial. El águila lleva en su pico una cinta con el nombre de Cundinamarca, una evidente manifestación política de diferenciación con el Estado español. El águila tiene en sus garras hojas de laurel y de palma, símbolos de victoria, gloria y dolor, y una granada, fruto europeo que hace referencia a la Nueva Granada. En la parte inferior vemos querubines, emblemas de la evangelización y de sabiduría. Instrumentos astronómicos y libros que sugieren el rigor de una obra científica, un globo terráqueo y un mapa en el que se puede ver Asia son señas de que el territorio americano hace parte de la geografía del mundo. En uno de sus detalles se da crédito al pintor Manuel Martínez. En el mismo archivo reposa una colección de imágenes que hace parte de un gran atlas, esta vez con el título de Provincias Unidas de la Nueva Granada. De orden del Gobierno General: por el C. FJC, coronel del Cuerpo Nacional de Yngenieros (imagen 12.4).
+
+
+
+12.3 Francisco José de Caldas, Atlas de una parte de la Ameryca Merydyonal Que comprende desde el istmo de Panamá desde las bocas de Amazonas y desde las costas del Maracaybo y Venezuela hasta la orilla austral del Marañon Formado de orden del ex[elentísi]mo S. Presidente del Estado D[on] Jorge Tadeo Lozano. Por D[on] Francisco Joseph de Caldas capitan de yngenieros cosmógrafos de Estado y director del observatorio astronómico de Santafé de Bogotá. Año de 1811.
+
+Archivo Histórico Restrepo, Bogotá, Colombia, fondo XII, vol. 2: «Francisco José de Caldas sus cartas y opúsculos».
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+12.4 Francisco José de Caldas, Provincias Unidas de la Nueva Granada. De orden del Gobierno General por el Cno. Francisco José de Caldas, Coronel del Cuerpo Nacional de Yngenieros, 1815, Portada.
+
+Archivo Histórico Restrepo, Bogotá, Colombia, fondo XII, vol. 2: «Francisco José de Caldas sus cartas y opúsculos».
+
+Los mapas más interesantes de Caldas y los de mayor originalidad científica son sus perfiles de los Andes y nivelaciones botánicas. En este caso, el interés está en los relieves geográficos, las montañas y la distribución de los recursos naturales y de las plantas útiles en relación con la altura, estas imágenes evidencian que las montañas son claves para entender la geografía de la Nueva Granada (imagen 12.5).
+
+
+
+12.5.1
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+12.5.2
+
+
+
+12.5.3
+
+
+
+12.5.1-12.5.4 Francisco José de Caldas, Perfil de los Andes de Loja a Quito, láminas 6 a 9.
+
+Servicio Geográfico del Ejército, Madrid, España, Cartografía Iberoamericana, signatura: X.SG-A-11.
+
+En las cercanías del Ecuador, donde no hay estaciones, la variación del clima no depende de la época del año ni de la longitud, sino de la altura. En su memoria sobre el influjo del clima en los seres organizados, Caldas se refiere a las montañas como:
+
+Nuestros Andes son el origen de bienes incalculables, nuestros Andes nos proporcionan todas las delicias, nuestros Andes nos templan, nos varían, y presentan el espectáculo magestuoso de reunir las extremidades del globo, de mantener en su frente los hielos boreales, y en la basa las llamas del Equador. Estas montañas, las más célebres del Universo, sostienen pueblos numerosos a niveles extremadamente diferentes.
+
+En estos mapas, como en su Nivelación de treinta especies, puestas sobre la vista occidental del Ymbabura, de 1803 (imagen 12.6), los elementos primordiales son las mediciones barométricas, las plantas útiles y las distintas alturas a las que se encuentran. Los mapas de la superficie parecen ser insuficientes para representar la riqueza y los climas de los Andes; de ahí la necesidad de elaborar cartas en las cuales la altura es la referencia principal.
+
+No podemos olvidar que la altura de las montañas americanas y su relación con la temperatura cumplieron un papel clave en los debates sobre el influjo del clima en los seres organizados. Entre reputados naturalistas europeos, como el conde de Buffon, el clima era un factor determinante en la constitución de los seres vivos.
+
+El clima americano, en particular para autores como Buffon o De Pauw, produce criaturas débiles y degeneradas. Los criollos aceptan el poder del clima y la autoridad de los naturalistas europeos, pero las implicaciones de los argumentos de Buffon para el Nuevo Mundo fueron matizadas por la enorme variedad de climas que ofrecen las cordilleras americanas. Gracias a su altura, en el trópico existen climas idóneos o incluso mejores que los climas europeos para el florecimiento de la cultura y la civilización.
+
+
+
+12.6 Francisco José de Caldas, Nivelación de treinta especies de plantas, puestas sobre la vista occidental del Ymbabura, montaña de las cercanías de Ibarra, por F[rancisco] J[osé] de Caldas, 1803.
+
+Archivo del Real Jardín Botánico, CSIC, Madrid, España, signatura: M00529.
+
+
+
+12.7 Francisco José de Caldas, Carta del camino de Malbucho desde Ybarra hasta la embocadura del rio de Santiago en el Oceano Pacifico, y bahia de Sanlorenzo: levantada en Julio y Agosto de 1803, por Francisco José de Caldas, 1803.
+
+Servicio Geográfico del Ejército, Madrid, España, Cartografía Iberoamericana, signatura: X.SG-C-/III-N.1. Latitud: 0º 30’ (N) - 1º 10’ (S). Longitud: 0º 20’ - 1º 30’.
+
+
+
+12.8 ¿Francisco José de Caldas?, Caminos Honda-Bogotá.
+
+Servicio Geográfico del Ejército, Madrid, España, Cartografía Iberoamericana. Tomado de Cartografía y relaciones históricas de ultramar, tomo V, Servicio Histórico Militar, Madrid, 1980.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+Geografía y economía resultan indisolubles, ya que la economía próspera no sólo implica el conocimiento de los recursos naturales, sino la necesidad de caminos y vías de comunicación adecuados que faciliten la circulación de bienes y la integración de la Nueva Granada —tanto de sus distintas regiones y provincias como de la región en su conjunto con el mundo—. Algunos ejemplos son La carta del camino de Malbucho desde Ibarra hasta la embocadura del río de Santiago en el océano Pacífico (imagen 12.7) o los caminos de Honda-Bogotá (imagen 12.8) o sus cartas del río Magdalena (imagen 12.9). La articulación de los mercados internos y externos depende de la capacidad de movilización y transporte, caminos transitables y ríos navegables. Este es un problema que Caldas vivió en carne propia cuando tenía que llevar a lomo de mula mercancías de Popayán a Quito y en otros viajes en los Andes americanos.
+
+El hecho de que la mayoría de los mapas de Caldas reposen en los archivos militares no es trivial ni accidental. Con la crisis política del Imperio español inició una última etapa de Caldas como geógrafo, esta vez al servicio del ejército del nuevo gobierno. Elaboró cartas con un claro propósito militar, y estos materiales, una vez fueron decomisados por el ejército «pacificador», fueron motivo de preocupación para los militares españoles, quienes se sorprendieron de las habilidades y conocimientos cartográficos de los criollos, y seguramente fueron una razón más para el fusilamiento de Caldas por su participación en la lucha contra el gobierno peninsular (imagen 12.10).
+
+
+
+12.9 Francisco José de Caldas, Mapa del río Magdalena desde Jagua hasta Honda.
+
+Archivo Histórico Restrepo, Bogotá, Colombia, fondo XII, vol. 2: «Francisco José de Caldas sus cartas y opúsculos».
+
+
+
+12.10 Francisco José de Caldas, Topografía de la confluencia del Nare y Magdalena, de la de Samaná y Rio-negro, y la de angostura de Carare con el plano de los fuertes q[u]e deben formarse, para cubrir el alto magdalena; p[o]r F[rancisco] J[osé] de Caldas, Coron[e]l de Yng[eniero]s S[an]tafe y Noveimb[r]e de[1]815.
+
+Servicio Geográfico del Ejército, Madrid, España, Cartografía Iberoamericana, signatura: X.SG-J-7-3-148.
+
+La relación entre geografía, cartografía y estrategia militar es presentada con detalle en el «Discurso preliminar que leyó el ciudadano coronel Francisco José de Caldas el día en que dio principio al curso militar del cuerpo de ingenieros de la República de Antioquia». En dicho texto, Caldas insiste en la necesidad de sólidos conocimientos científicos y técnicos para la milicia: «No hay que engañarse, jóvenes; a las cualidades del corazón deben acompañar los conocimientos, para ser un soldado perfecto». Entre los conocimientos que debe poseer un buen soldado no podrían faltar la geografía y la cartografía: «Diseño, grabado, signos de convención, golpe de ojo, planos y cartas militares…».
+
+
+
+
+
+13. LA GEOGRAFÍA
+
+DE LAS PLANTAS
+
+DE HUMBOLDT Y LOS
+
+ANDES AMERICANOS
+
+
+
+LA EXPEDICIÓN AMERICANA ES la base de la gran obra de Humboldt y le da elementos para sustentar las ideas centrales de su Geografía de las plantas. Regresó a Europa con más de 60.000 muestras de plantas pertenecientes a más de 6.200 especies, envió colecciones de piedras a Berlín y a Madrid, semillas, plantas, insectos, aves y otros especímenes animales al Museo de Historia Natural de París y, lo más importante, publicó una extensa obra de estudios sobre América que incluye un detallado conocimiento geográfico, botánico, histórico, observaciones astronómicas y estudios sobre los habitantes de América y sobre algunas culturas precolombinas.
+
+Una vez en Europa, Humboldt inició la tarea de escribir una obra que se tituló Cosmos, con la cual buscaba unificar todo el conocimiento de la naturaleza y que dice mucho de su gran empresa filosófica de comprender el orden de la naturaleza en su totalidad.
+
+En la Geografía de las plantas, Humboldt busca condensar en un solo cuadro la inmensa variedad de la naturaleza y poner las experiencias de largos viajes en una representación sobre el papel. «Puede mirarse este cuadro como resumen de todas las cuestiones que he estudiado en el curso de mis viajes en los trópicos…» (imágenes 13.1 y 13.2). La idea de cuadro de la naturaleza también invita a pensar en una obra de arte. Cuando Humboldt explica su dibujo y las dificultades técnicas que presenta, hace evidente que se trata de una estética particular: «La ejecución de esta pintura exige muchas precauciones para reunir la exactitud de la proyección, con la claridad y efecto pintoresco». Se puede apreciar, entonces, el orden natural a través de la tecnología, la ciencia y el arte (imágenes 13.3 y 13.4).
+
+
+
+13.1 Alexander von Humboldt (1769-1859) et Aimé Bonpland, Géographie des plantes équinoxiales: tableau physique des Andes et pays voisins; dressé d’apres des observations & des mesures prises sur les lieux depuis le 10e. degre de latitude boréale jusqu’au 10e. de latitude australe en 1799-1803; dessiné par Schönberger et Taupin a París en 1805. París, Langlois, 37 x 82 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H2.
+
+
+
+13.2 Alexander von Humboldt (1769-1859), Geographie des plantes pres de l’equateur: tableau physique des Andes et pais voisins, dressé sur les observations et mesures faites sur les lieux en 1799-1803, 37 x 49 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H1
+
+Para comprender la naturaleza en su totalidad no son suficientes las grandes colecciones de pequeñas muestras, es necesario poner su grandeza y su diversidad en una sola escena, es decir, en cuadros, tablas y textos que puedan acumular y combinar datos y observadores. El viaje de Humboldt, sus instrumentos y mediciones le permiten hacer de las montañas un laboratorio en el cual se tiene el control necesario para poner la naturaleza en orden, en una lámina de dos dimensiones donde se representa la naturaleza no sólo de América, sino del mundo entero.
+
+
+
+13.3 Alexander von Humboldt (1769-1859), «Chute du Tequendama», en Voyage de Humboldt et Bonpland: vues des cordilleres, et monuments des peuples indigenes de l’Amérique, premiere partie: relation historique, Atlas pittoresque, París, Chez F. Schoell, 1810, 65 x 45 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918 H85V3.
+
+
+
+13.4 Alexander von Humboldt (1769-1859), «Ponts naturels d’Icononzo», en Voyage de Humboldt et Bonpland: vues des cordilleres, et monuments des peuples indigenes de l’Amérique, premiere partie: relation historique, Atlas pittoresque, París, Chez F. Schoell, 1810, 65 x 45 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918 H85V3.
+
+
+
+
+
+14. LOS MAPAS
+
+DE CALDAS Y SU
+
+ENCUENTRO CON
+
+ALEXANDER VON
+
+HUMBOLDT
+
+
+
+CALDAS CONVIVE ALGUNOS meses con Humboldt y Bonpland, y su encuentro fue un acontecimiento importante, tanto para el geógrafo criollo como para los viajeros europeos. Las diversas nivelaciones de plantas elaboradas por Caldas guardan similitudes con el propósito y los métodos de la Geografía de las plantas del naturalista prusiano. Sin embargo, el interés por establecer relaciones entre altitud y distribución de las especies no es algo extraño a Caldas antes de su encuentro con los exploradores europeos.
+
+Si comparamos, por ejemplo, los cortes y nivelaciones de Caldas hechos en los Andes ecuatorianos sólo algunos meses después de la partida de Humboldt (imágenes 14.1 y 14.2) y las ya inmortalizadas imágenes de los Andes y del Chimborazo publicadas por Humboldt (imágenes 14.3 y 14.4), vemos elementos comunes en la forma de representación geográfica, pero también una clara diferencia en sus objetivos finales. Caldas busca aportar conocimientos que encuentra útiles para el desarrollo económico del Nuevo Reino de Granada, mientras Humboldt quiere comprender el mundo entero y recrear el orden natural teniendo como muestra los Andes americanos.
+
+
+
+14.1 Francisco José de Caldas, Nivelación de treinta especies de plantas, puestas sobre la vista occidental del Ymbabura, montaña de las cercanías de Ibarra, por F[rancisco] J[osé] de Caldas, 1803.
+
+Archivo del Real Jardín Botánico, CSIC, Madrid, España, signatura: M00529.
+
+
+
+14.2 Francisco José de Caldas, Nivelación de las Quinas en g[ene]r[a]l y de la de Loxa en particular o de la Cinchona officinalis por Fran[cis]co José de Caldas, 1803.
+
+Archivo del Real Jardín Botánico, CSIC, Madrid, España, signaturas: M00514, M00525.
+
+
+
+14.3 Alexander von Humboldt (1769-1859), Nivelación Barométrica desde Cartagena hasta Santafé, 1805, copia de 1816.
+
+Museo Naval de Madrid, España, signatura: X.MN-27-B-6.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+14.4 Alexander von Humboldt (1769-1859), Voyage vers la cime du Chimborazo, tenté le 23juin 1802 par Alexandre de Humboldt, Aimé Bonpland et Carlos Montufar (Esquisse de la Geographie des plantes dans les Andes de Quito, entre les 0º 20’ de lat. bor. Et les 1º 12’ de lat. aust.), en Voyage de Humboldt et Bonpland: vues des cordilleres, et monuments des peuples indigenes de l’Amérique, premiere partie: relation historique, Atlas pittoresque, París: Chez F. Schoell, 1810, 65 x 45 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918 H85V3.
+
+Esta misma diferencia es apreciable en los textos que presentan sus obras: por un lado, tenemos la idea de geografía de las plantas de Humboldt y, por el otro, lo que Caldas entiende por geografía económica. El primero insiste en el propósito holístico de la geografía de las plantas, que «pinta con rasgos majestuosos la inmensa extensión que ocupan los vegetales desde la región de la nieves perpetuas hasta el fondo del océano y el interior del globo»; mientras que el segundo enfatiza el carácter instrumental de la geografía económica, «que da la extensión del país sobre el que se quiere obrar».
+
+Sin embargo, las diferencias entre estos dos hombres de ciencia no las podemos reducir a la esfera de lo conceptual. La más obvia y significativa está en el hecho de que Caldas no publicó su trabajo y Humboldt, por el contrario, invirtió buena parte de su fortuna y de su vida en París y Berlín en la edición, publicación y distribución de su obra. Esto se explica en parte porque Caldas fue fusilado en plena madurez y en un momento de gran producción científica, pero más porque Alexander von Humboldt, además de vivir hasta los noventa años, contó con todos los recursos y vínculos que un hombre de ciencia del siglo XIX en Europa podría tener; mientras que Caldas, tal como él lo manifiesta una y otra vez, se siente marginado y sin los recursos necesarios para sus proyectos.
+
+
+
+
+
+15. AMERICANISMO
+
+Y EUROCENTRISMO:
+
+NATURALEZA Y
+
+CULTURA EN LA
+
+OBRA DE HUMBOLDT
+
+
+
+ALEXANDER VON HUMBOLDT es una figura emblemática de los viajes de exploración en el periodo de la Ilustración. Sus escritos sobre América se convirtieron en el paradigma de una nueva mirada al Nuevo Mundo y, en ocasiones, ha sido presentado como el «segundo descubridor de América». Su obra, para algunos, es una muestra de un aclamado «americanismo» e incluso se ha argumentado que influyó en los movimientos de emancipación americana.
+
+La imagen elegida por Humboldt como portada de su gran Atlas Géographique (imagen 15.1), al igual que su obra escrita, ha sido útil para exaltar el americanismo humboldtiano; la pintura parece celebrar un encuentro amigable y respetuoso entre el Viejo y el Nuevo Mundo, en el cual de hecho se exalta la incorporación de América y sus culturas aborígenes a la civilización. Teniendo como fondo en el paisaje la inmensidad del Chimborazo, aparecen Hermes-Mercurio —dios del comercio y mensajero de los dioses— y Atenea-Minerva —diosa de la sabiduría y de las artes—, quienes representan la civilización europea. Estas deidades parecen mirar con compasión y, tal vez, lástima a una América triste, abnegada y humilde que se levanta de la mano de Mercurio.
+
+Europa, la cultura, el arte y el conocimiento, ayuda a América a recuperar su dignidad y a ponerse de pie. Al lado de la figura que presenta a América —un príncipe azteca que lleva una túnica y una corona muestra de nobleza— son visibles restos de una civilización perdida. Por un lado, la estatua de una sacerdotisa azteca y, por el otro, las armas en el suelo de un guerrero alguna vez derrotado. Minerva lleva en su mano un ramo de olivo que parece entregar a América como símbolo de paz. América fue vencida, pero ahora, guiada por la mano sabia y generosa de sus conquistadores, podría hacer parte del mundo civilizado. En el fondo son visibles un cactus, algunas palmeras y una pirámide. La naturaleza y la población americana, sin la necesidad de la brutalidad de los conquistadores, son dominadas por la razón.
+
+En la parte inferior se leen las palabras Humanitas, Litterae, Fruges, que el mismo Humboldt relaciona con la idea —ya expresada antes por Plinio el Joven— de que los griegos les han heredado a los demás pueblos la civilización, las letras y el trigo. Así, los dioses griegos y romanos representan la riqueza, la superioridad de Europa y la cultura que ahora es llevada al Nuevo Mundo por los europeos ilustrados. La imagen va acompañada de una leyenda que afirma: «L’Amerique relevée de sa ruine par le commerce et par l’industrie» [América recuperada de su ruina por el comercio y la industria]. Si bien esta imagen ha sido utilizada en reiteradas ocasiones como una muestra de la simpatía de Humboldt por el Nuevo Mundo y que expresa su deseo de integración respetuosa de los pueblos, es también una potente celebración del eurocentrismo.
+
+El viaje de Humboldt tiene un carácter político distinto al de las expediciones oficiales de los Estados imperiales, por ejemplo, las financiadas por la Corona española. Más que sus obligaciones oficiales, nos interesa examinar su trabajo en el marco de un gran proyecto de la Ilustración europea por comprender, clasificar y ordenar el mundo entero. Su trabajo, en la medida en que busca el establecimiento del orden natural, es una obra de carácter político, en un sentido amplio y profundo.
+
+
+
+15.1 Alexander von Humboldt (1769-1859), Frontispicio de Atlas géographique et physique du nouveau continent, París, 1814. Edición Facsimilar, Ámsterdam, Theatrvm Orbis Terrarvm Ltd, 1971, 51 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 912.8 H85A.
+
+
+
+
+
+16. LA CARTOGRAFÍA Y
+
+EL RECONOCIMIENTO
+
+DE LA REPÚBLICA EN UN
+
+NUEVO ORDEN MUNDIAL
+
+
+
+LA CARTOGRAFÍA DE LA REPÚBLICA de Colombia durante las primeras décadas del Gobierno independiente tuvo dos objetivos fundamentales: definir su organización territorial y ser reconocida en el ámbito internacional como república independiente. El problema de este reconocimiento se inscribía en un complejo contexto diplomático europeo. Rusia, Prusia y Austria eran adversas al reconocimiento de la independencia de las repúblicas americanas y habían formado la Santa Alianza, con el fin de proteger a las monarquías absolutas e impedir la difusión de las ideas republicanas, inspiradas en las revoluciones norteamericana y francesa; de manera que sólo reconocerían las independencias americanas si Fernando VII, el entonces rey de España, abdicaba de sus derechos sobre estos territorios. El rey de España rechazaba la autonomía de las antiguas colonias y continuaba con su proyecto de someter militarmente a los rebeldes de América con el apoyo de la Santa Alianza y de la monarquía francesa.
+
+Por otro lado, tanto en Estados Unidos como en Gran Bretaña había intereses orientados al reconocimiento de las nuevas naciones y de las relaciones comerciales y políticas que se habían establecido. En este complejo contexto diplomático se tenían que desenvolver los agentes de las nuevas repúblicas para negociar el reconocimiento internacional como Estados independientes. Por ende, imprimir el mapa oficial de la nueva república en Filadelfia, Londres o en París era fundamental, y los mapas producidos por iniciativa directa o indirecta de miembros del Gobierno colombiano se sitúan, precisamente, en el contexto de este esfuerzo diplomático y comercial (imágenes 16.1 y 16.2).
+
+
+
+16.1 John Cary, Guiljemus Blaeuw, Viceroyalty of New Granada, and Government of Caracas, Londres, 1813, 23 x 29 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H220.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+16.2 J. Arrowsmith, Colombia, dedicated to Colonel Belford Hinton Wilson, late Aid de Camp to the Liberator, Simon Bolivar by his obliged Servents, Londres, 1824.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H387.
+
+
+
+
+
+17. LA DOCTRINA
+
+MONROE Y EL ATLAS
+
+DE 1822
+
+
+
+LA PUBLICACIÓN DEL PRIMER mapa impreso de la República de Colombia tuvo lugar en Filadelfia, capital provisional de Estados Unidos, y ocurrió en 1822, el mismo año en que este país reconoció la independencia de Colombia. El atlas fue producido en el marco de las políticas de la doctrina Monroe, la cual reconocía la independencia de las nuevas repúblicas e indicaba que cualquier incursión colonial europea en el continente sería entendida por Estados Unidos como una amenaza. El atlas de 1822 estaba dedicado específicamente a examinar el continente, y para ello tenía la particularidad de acompañar cada mapa con información geográfica, histórica, comercial y política (imagen 17.1).
+
+Los textos que acompañan el mapa también permiten entender mejor la compleja situación política del continente. En Colombia, por ejemplo, se mencionan los triunfos militares de Bolívar en 1819, al señalar que «there appears to be considerable reason to believe that the independence of this country is now finally established» [parece haber suficientes razones para creer que la independencia está finalmente establecida en este país]. También se menciona que «On the 17th of December, 1819, an union between the Republics of Granada and Venezuela was solemnly decreed. The new confederation bears the title of the Republic of Colombia» [El 17 de diciembre de 1819, una unión entre las repúblicas de Granada y Venezuela quedó finalmente decretada. La nueva confederación lleva el título de la República de Colombia].
+
+De todos los lugares del hemisferio occidental, en el atlas sólo se reconocen dos países como repúblicas independientes: Estados Unidos de América y Colombia. El mapa señala, por ejemplo: «The revolution in political affairs produced by the capture of Lima, has been too recent to enable us to give satisfactory information as to the present government of Peru, which will probably, however, be established on a republican basis» [La revolución en asuntos políticos producida por la captura de Lima es muy reciente para permitirnos dar información satisfactoria sobre el presente gobierno del Perú, que probablemente, sin embargo, sea establecido en bases republicanas]. En cuanto a las naciones del sur, el mapa indica que «Since the declaration of independence, political revolutions have been frequent in Buenos Ayres. All parties, however, favor the cause of independence» [Desde la declaración de independencia, las revoluciones políticas han sido frecuentes en Buenos Aires. Todas las partes, sin embargo, comparten la causa de la independencia]. Asimismo, en Chile: «A free constitution has been established, and from the intelligence and courage of the people, will probably be maintained» [Una constitución libre ha sido finalmente establecida y probablemente será mantenida con la inteligencia y coraje de la gente]. La independencia de Brasil también se presenta: «to be an event not far distant» [es un evento que no tardará mucho en suceder]. México, en cambio, sigue apareciendo como Nueva España, con su división territorial colonial por intendencias y con una frontera norte reducida, que anticipa la expansión estadounidense a regiones mexicanas como California, apetecidas por el Gobierno norteamericano.
+
+
+
+17.1 John Finlayson, Geographical, Statistical and Historical, Map of Colombia, Filadelfia, 1822. 30 x 27 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 4, Ref. X-68.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+La propia existencia de Haití, la segunda república independiente —después de Estados Unidos—, por su parte, es invisibilizada y presentada en términos amenazantes y negativos: el lugar en el que debía aparecer el toponímico Haití es «Hispaniola or St. Domingo». Estados Unidos sólo reconoció la independencia haitiana en 1862, de manera que no sorprende que en el atlas se dude de la viabilidad del país y se le niegue la categoría de república.
+
+
+
+
+
+18. FRANCISCO
+
+ANTONIO ZEA: DIPLOMACIA,
+
+COMERCIO Y
+
+CARTOGRAFÍA
+
+
+
+EL PRIMER MAPA DE COLOMBIA producto de la iniciativa del gobierno republicano fue grabado e impreso en Londres, en 1823, y se titula Colombia tomada de Humboldt y de otras autoridades recientes. Se incluyó en un libro publicado tanto en inglés como en español por encargo de Francisco Antonio Zea, quien se desempeñaba como representante internacional de Colombia, con el fin de promover la inversión, el comercio y la migración europea al país (imágenes 18.1 y 18.2).
+
+
+
+18.1 Francisco Antonio Zea (1766-1822), «Colombia tomado de Humboldt y de otras autoridades recientes» en Colombia: Being a Geographical, Statistical, Agricultural, Commercial, and Political account of that country, Londres, Baldwin, Cradock, and Joy, 1822, 22 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918.6Z31C6.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+18.2 Francisco Antonio Zea (1766-1822), Colombia: Being a Geographical, Statistical, Agricultural, Commercial, and Political account of that country, Londres, Baldwin, Cradock, and Joy, 1822, 22 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918.6Z31C6.
+
+Pese a la alusión que hace el título a Humboldt, la fuente más importante del mapa parece ser la carta elaborada por el hidrógrafo del príncipe de Gales, Aaron Arrowsmith, en 1811. Esta elección como modelo físico y político se asoció con el reconocimiento diplomático de Colombia por parte de Gran Bretaña, e implicó aceptar las fronteras reconocidas por Gran Bretaña a Portugal en esta región de Suramérica (imágenes 18.3 y 18.4).
+
+
+
+18.3 Aaron Arrowsmith, Outlines of The Physical and Political Divisions of South America: Delineated By A. Arrowsmith Partly from scarce and Original Documents, Published before the Year 1806 But Principally From Manuscript Maps & Surveys Made between the Years 1771 and 1806, Corrected From Accurate Astronomical Observations To 1810. London, Published 4th January 1811 by A. Arrowsmith No. 10 Soho Square, Hydrographer to H.R.H. the Prince of Wales. Additions to 1814. Engraved by Edwd. Jones… (inset map of the southern tip of South America), Londres, 1814, 139 x 199 cm.
+
+Facilitado por: Casa Tierra Firme/Bolivar Old Prints.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+18.4 Nova carta do Brazil e da America Portugueza, 1821, 53,5 x 41,6 cm. en Inocêncio Francisco da Silva, Diccionário bibliographico portuguez: estudos applicaveis a Portugal e ao Brasil, Lisboa, Imprensa Nacional, 1894. vol. XVII, página 210.
+
+Facilitado por Casa Tierra Firme/Bolivar Old Prints
+
+Adoptar estos límites era una herramienta de negociación diplomática que tenía como propósito el reconocimiento internacional de la independencia y del carácter republicano de Colombia. José Rafael Revenga, diplomático del país en Madrid, tenía la orden específica de Simón Bolívar para que «si no fuere posible conseguir la paz sino a ese precio», se pudieran devolver a Madrid los territorios de Ecuador y el istmo de Panamá.
+
+El mapa de Zea hace del relieve montañoso el elemento principal del territorio colombiano. Se trata de una característica importante y, tal vez, forma parte de su interés por fomentar la migración al país. El mapa se inscribe en un contexto en que los criollos ilustrados otorgaban una gran importancia a las montañas en la reivindicación del continente americano como lugar apto para el desarrollo de la vida civilizada al estilo europeo. La alusión a Humboldt en el título y su evocación implícita con la imagen del Chimborazo parecen jugar en el mismo sentido, argumentando visualmente la riqueza natural del territorio, su situación privilegiada como tierra bañada por dos océanos, la posesión de dos grandes ríos —el Orinoco y Magdalena— y la viabilidad de la civilización europea en la nueva república (detalle 18.1.1).
+
+
+
+18.1.1 Detalle.
+
+
+
+
+
+19. JOSÉ MANUEL
+
+RESTREPO: HISTORIADOR
+
+Y CARTÓGRAFO
+
+OFICIAL DEL GOBIERNO
+
+COLOMBIANO
+
+
+
+LA CARTA DE LA REPÚBLICA de Colombia fue producida por las autoridades colombianas antes de la disolución del país en tres repúblicas diferentes —Ecuador, Nueva Granada y Venezuela— y fue diseñada en Colombia, pero grabada e impresa en París, en 1827. La publicación incluyó mapas particulares de los doce departamentos creados por la ley del 25 de junio de 1824. La carta general y los mapas departamentales conformaban el volumen XI de la Historia de la revolución de Colombia, de José Manuel Restrepo, entonces secretario del Interior de la República de Colombia. La publicación del atlas y textos de Restrepo se dio en un periodo en que circulaban en Europa diferentes mapas y documentos que presentaban una visión del territorio que divergía de la que los representantes del Gobierno colombiano tenían y querían transmitir (imágenes 19.2 y 19.3).
+
+
+
+19.1 José Manuel Restrepo (1781-1863), Historia de la revolución de Colombia, París, Librería Americana, tomo XI, 1827, 25 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912 R37h.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+19.2 Sidney Hall, Colombia, Londres, Longman, Rees, 1828, 41 x 51 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H4.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+19.3 L. Vivien, Carte de la République de Colombie, París, Giraldon-Bovinet, 1826, 31 x 48 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H692.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+Los mapas de Restrepo y de Zea presentan fronteras muy diferentes, pese a que sólo hay una diferencia de pocos años en la fecha de publicación. Bajo el principio del uti possidetis juris, según el cual la República de Colombia heredaba la extensión de los territorios del virreinato de la Nueva Granada y la capitanía de Venezuela vigentes en 1810, Restrepo le confiere al país mayores territorios en Centroamérica, la Amazonía y la Orinoquía. La organización política del territorio republicano es el elemento más importante del mapa, por cuanto da cuenta de uno de los retos internos más críticos de la República de Colombia tras la independencia: la transformación del complejo sistema de jurisdicciones y entidades territoriales heredado de la Colonia en un sistema político, homogéneo y ordenado del territorio.
+
+El mapa de Restrepo presenta una imagen ideal de la organización territorial interna del país, claramente definida y jerarquizada en departamentos y provincias. El texto introductorio del atlas señala que, además de estar conforme a la división política republicana, el mapa incluye los «lugares donde se han dado las principales batallas de la independencia». Tres años después de la publicación del atlas y de la Historia de la revolución de Colombia en París, el sueño bolivariano de unidad colombiana terminó.
+
+Existieron buenas razones para que José Manuel Restrepo fuera encargado de coordinar la elaboración del mapa oficial de la República de Colombia, publicado en 1827. Restrepo había sido formado por Caldas en astronomía, geografía y cartografía y había elaborado el mapa de la provincia de Antioquia en 1809 (imagen 19.4), con base en las mediciones geodésicas y barométricas realizadas durante 1807 en 102 localidades de la provincia. También había publicado en el Semanario del Nuevo Reyno de Granada su «Ensayo sobre la geografía, producciones, industria y población de la provincia de Antioquia, en el Nuevo Reino de Granada», basado en estas observaciones y en el desarrollo de la concepción de geografía económica abanderada por Caldas.
+
+
+
+19.4 José Manuel Restrepo «Mapa de la provincia de Antioquia», 1809.
+
+Biblioteca Nacional de Colombia, Bogotá, Fondo Pineda, signatura: 103, pza.19.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+Pese a que el mapa de Antioquia elaborado por Restrepo en 1809 no fue publicado en su momento, pues las prensas existentes en la capital carecían de la tecnología para imprimir imágenes o mapas, algunas copias circularon desde entonces con éxito entre los ilustrados neogranadinos (imagen 19.5). La reputación ganada por Restrepo como principal geógrafo y cartógrafo de la provincia de Antioquia en 1810 le facilitaron acceder a cargos importantes de las autoridades civiles y militares de las primeras repúblicas. Las habilidades de Restrepo como geógrafo y cartógrafo fueron decisivas para ganar la confianza de los militares que gobernaron el país durante la segunda década del siglo XIX, y el mapa de Antioquia de 1809 sirvió de carta de presentación de Restrepo a Santander, quien lo consideró útil para la defensa de la región, pese a no haber sido elaborado por un militar.
+
+
+
+19.5 Anónimo. «Provincia de Antioquia según operaciones […] del Dr. Josef M. de Restrepo».
+
+Tomado de Cartografía y relaciones históricas de ultramar, tomo V, Servicio Histórico Militar, Madrid, 1980.
+
+
+
+
+
+20. EL ENSAMBLAJE
+
+DE COLOMBIA EN EL
+
+ATLAS DE RESTREPO
+
+
+
+LA PRODUCCIÓN DE MAPAS es un proceso complejo, en el cual es esencial el uso de mapas anteriores y la recopilación de datos y ubicaciones para ensamblar un nuevo plano cartográfico. El atlas que forma parte de la Historia de la revolución, publicado por José Manuel Restrepo, en París en 1827 (imagen 19.1), es particularmente explicativo a este respecto:
+
+Este nuevo Mapa de la República de Colombia, se ha trabajado bajo la inspección del secretario del interior de la misma República [José Manuel Restrepo]. Fue proyectado y trazado en dos hojas de regular tamaño por el señor coronel José Lanz, matemático bien conocido, especialmente en Francia, por las obras que ha dado a luz sobre máquinas y otros objetos científicos […]. Las costas del Atlántico y del Pacífico se han trazado por las cartas españolas del depósito de hidrográfico de Madrid. El río Orinoco y sus afluentes se han copiado de los trabajos del barón de Humboldt, y en donde estos han faltado se han seguido […] los mapas de Arrowsmith, haciéndoles pequeñas adiciones y mejoras tomadas de las observaciones astronómicas de los señores Rivero y Boussingault […] y de otros mapas. Confesamos francamente que los mapas del interior de esta parte de la república [la antigua capitanía general de Venezuela] están plagados de defectos. […] Podemos asegurar que el Mapa de Colombia es más exacto en los departamentos que antes componían el virreinato de la Nueva Granada. El río Magdalena y el Cauca se han copiado de los trabajos de Humboldt, y de nuestro desgraciado compatriota Caldas […] la cordillera oriental es tomada de los trabajos inéditos del ingeniero español don Vicente Talledo, lo mismo que las provincias de Cartagena, Santa Marta y Riohacha […]. La parte baja del Cauca y la provincia de Antioquia están conformes al mapa que formó por observaciones astronómicas el doctor José Manuel Restrepo. Lo interior de la provincia del Chocó y parte de la de Popayán están considerablemente mejoradas, siguiendo los mapas particulares de los señores Roche y Rafael Arboleda. En los departamentos de la antigua presidencia de Quito […] se ha copiado el mapa de don Pedro Maldonado, que se considera ser bien exacto. […] Los límites de Colombia con Guatemala y el Perú aún están inciertos; hemos seguido, pues, las líneas que nos han parecido más arregladas a las disposiciones vagas del gobierno español acerca del territorio de sus antiguas colonias. Son igualmente inciertos los límites de Colombia con el nuevo imperio del Brasil y con las Guyanas antes holandesas […].
+
+(Imágenes 20.1 a 20.5).
+
+
+
+20.1 Alexander von Humboldt (1769-1859), Carte du cours de Rio Meta et d’une partie de la Chaine Orientale des montagnes de la Nouvelle Grenade: dressé sur des observations astronomiques et (quant au Meta) d’aprés une carte manuscrite de Dn. J. Cortés Madariaga, 1830, 68 x 22 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H448.
+
+
+
+20.2 Vicente Talledo y Rivera, Mapa corográfico de la Provincia de Cartagena de Indias y parte de las de Santa Marta, Jirón, Socorro, Vélez, Antioquia y Chocó del Norte, 1815.
+
+Servicio Geográfico del Ejército, Madrid. Tomado de Cartografía y relaciones históricas de ultramar, tomo V, Servicio Histórico Militar, Madrid, 1980.
+
+
+
+20.3 Vicente Talledo y Rivera, Mapa corográfico del Nuevo Reino de Granada, que comprende desde los 4º de latitud Norte hasta la costa de la mar del Norte, 1815.
+
+Tomado de Cartografía y relaciones históricas de ultramar, tomo V, Servicio Histórico Militar, Madrid, 1980.
+
+
+
+20.4 José Manuel Restrepo, «Mapa de la provincia de Antioquia en la República de Colombia. Copie d'une carte que Monsieur Mallien á aporté de son voyage en Colombie, communiqué par Monsieur de Humboldt en mars de 1824».
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 53.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+20.5 Gabriel de la Roche, «Mapa de la provincia del Chocó», 69 x 72 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 92.
+
+Al igual que los libros o los textos, las representaciones del espacio no son el producto de mentes individuales ni observaciones solitarias. En su mayoría son el resultado de una suma de tareas y de datos recopilados por muchas personas en lugares y tiempos distintos. En particular, las que llegan a la imprenta implican una división de labores amplia y compleja. Mapas, datos o mediciones astronómicas de cartógrafos, viajeros anteriores, dibujantes, grabadores e impresores son procesados, estudiados y compendiados. La construcción de un mapa nacional de «Colombia», tal y como es evidente en el atlas de Restrepo, no es la tarea de un explorador que recorre el territorio y lo plasma objetivamente en una hoja del papel; requiere un cuidadoso trabajo de ensamblaje, desmontaje y reensamblaje de distintas fuentes de información.
+
+
+
+
+
+21. EL ATLAS DE
+
+VENEZUELA Y
+
+LA REACCIÓN
+
+CARTOGRÁFICA DE
+
+LA NUEVA GRANADA
+
+
+
+DESPUÉS DE LA DISOLUCIÓN de Colombia en 1830, no se adelantaron mayores intentos por producir un mapa del territorio de la Nueva Granada, sino hasta el primer mandato de Tomás Cipriano de Mosquera (1845-1849), y esto en buena medida como reacción a la publicación en París del Atlas físico y político de la República de Venezuela, de Agustín Codazzi, en 1840, que presentaba la versión oficial de la extensión de territorio venezolano y su delimitación de fronteras con la Nueva Granada (imágenes 21.1 y 21.2). La carencia de un atlas o un mapa oficial de la Nueva Granada, tanto para uso interno como para las relaciones internacionales, era sin duda una situación grave que exigía pronta solución.
+
+
+
+21.1 y 21.2 Agustín Codazzi (1793-1859), Atlas físico y político de la República de Venezuela dedicado por su autor, el Coronel de Ingenieros Agustín Codazzi al Congreso Constituyente de 1830, Caracas, 1840, 51 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.87 C63a.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+La respuesta provisional mientras se establecía un levantamiento cartográfico definitivo de la república, que sólo fue posible con los resultados de la Comisión Corográfica (1850-1859), fue provista por dos mapas diferentes: el Mapa de la República de la Nueva Granada dedicado al barón de Humboldt, publicado en París en 1847, del coronel Joaquín Acosta (imagen 21.3), y la Carta de la República de Nueva Granada, conforme a su última división política, publicada en Nueva York, en 1852, por el general Tomás Cipriano de Mosquera (imagen 21.4).
+
+
+
+21.3 Joaquín Acosta (1800-1852), Mapa de la República de la Nueva Granada, dedicado al barón de Humboldt, París, 1847.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 2, Ref. 1275.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+21.4 Tomás Cipriano de Mosquera (1798-1878), Carta de la República de Nueva Granada, conforme a su última división política, Nueva York, Mayer, 1852, 42 x 59 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 55.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+21.4.1 Detalle.
+
+
+
+Los dos mapas presentan diferencias notables en la delimitación de las fronteras territoriales: la Nueva Granada de Acosta es mucho más pequeña que la de Mosquera, situación que da cuenta de las diferentes posiciones políticas e ideológicas de sus autores, así como de su distinto uso e interpretación de las fuentes geográficas y cartográficas. Mosquera expresó abiertamente que había elaborado su mapa con el fin de «corregir» las fronteras de la Nueva Granada con Ecuador y Venezuela y pasó por alto las fronteras del mapa de Acosta, pese a que este hubiera participado de las negociaciones limítrofes con Venezuela, en 1844. Tal y como se señala en la nota explicativa del mapa: «Esta carta ha sido trabajada a partir de la del coronel Codazzi en el atlas de Venezuela; pero corregida en cuanto a sus límites».
+
+El mapa de Mosquera representa una posición territorial agresiva frente a sus vecinos, particularmente frente a Brasil, con los señalamientos de «territorios que pretenden y han usurpado en parte los brasileros» (detalle 21.4.1). Su visión sobre la extensión del territorio colombiano influyó en la cartografía posterior del país, como se ve en el mapa de José María Samper de 1858 —que bajo la dirección de Mosquera ajusta las fronteras internas y externas del mapa de Acosta— (imagen 21.5) y el mapa Manuel Ponce de León y Manuel María Paz de 1864 que presenta los resultados de los trabajos de la Comisión Corográfica, bajo la supervisión de Mosquera.
+
+
+
+21.5 Joaquín Acosta (1800-1852), Mapa de la República de la Nueva Granada dedicado al barón de Humboldt arreglado al Sistema Federal de 1858 por J. M. Samper, París, 1858, 41 x 50 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H382.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+
+
+22. LA COMISIÓN
+
+COROGRÁFICA
+
+
+
+LA AMBICIOSA EMPRESA DE construir una «carta general de toda [… la Nueva Granada] i un mapa corográfico de cada una de sus provincias» se puso en marcha en la segunda mitad del siglo XIX. En 1849, el gobierno contrató al ingeniero militar italiano Agustín Codazzi para que dirigiera dos proyectos articulados entre sí: el Colegio Militar y la Comisión Corográfica. El primero se trataba de un colegio en el que se formaran ingenieros y militares entrenados en el conocimiento geográfico y la Comisión buscó suplir la necesidad de un conocimiento exhaustivo del territorio nacional y sus productos naturales. En este sentido, la creación de un mapa y de un inventario geográfico del territorio nacional estuvo vinculada con la búsqueda de construcción de vías de comunicación, con el fomento del comercio y la inversión extranjera y con los intereses por atraer inmigrantes extranjeros:
+
+Es incuestionable la urjente necesidad de que se levante la carta jeográfica de la República. La exploración, mensura i deslinde de nuestros ricos baldíos; el descubrimiento de nuevas minas; el hallazgo de maderas de construcción, de palos de tinte, de bálsamos i recinas; la adquisición de nuevos terrenos para la agricultura i ganadería; el conocimiento de los ríos, del curso de sus aguas, i de su parte navegable; la fijación de las mejores líneas para la mas pronta y fácil comunicación; en fin, todo lo que mas puede influir en el desarrollo de la riqueza i prosperidad del país está íntimamente relacionado con el importante trabajo de que hablo.
+
+La Comisión Corográfica inició sus actividades durante el gobierno de José Hilario López, en 1850, después de que Tomás Cipriano de Mosquera dejó listas las bases administrativas para su contratación, y estuvo adscrita a la Secretaría de Relaciones Exteriores y Mejoras Internas. La Comisión, además de Agustín Codazzi, contó entre sus miembros a Manuel Ancízar, Manuel Ponce de León, Manuel María Paz, Carmelo Fernández, Henry Price y el botánico José Jerónimo Triana. En 1859, la Comisión se vio interrumpida por la muerte de Codazzi.
+
+Entre 1850 y 1859, la Comisión cubrió cerca de 12.000 kilómetros de los Andes, las costas del Pacífico y del Atlántico, el istmo de Panamá y los llanos Orientales. Asimismo, 130 mapas manuscritos e impresos se encuentran actualmente en colecciones públicas y privadas y numerosas láminas fueron construidas a partir de sus expediciones. Si bien la Comisión se ha visto en cierta medida como la mayor empresa geográfica de Colombia durante el siglo XIX, su colosal labor en términos de recorridos y de productos no guarda proporción con lo que salió a la luz pública y pudo ser publicado en su momento (imágenes 22.1; 22.2 y 22.3).
+
+
+
+22.1 Manuel Ponce de León y Manuel María Paz, Carta geográfica de los Estados Unidos de Colombia, antigua Nueva Granada, construida por orden del Gobierno Jeneral por Manuel Ponce de León y Manuel María Paz con arreglo de los trabajos corográficos del Jeneral Agustín Codazzi i otros documentos oficiales, Bogotá, 1864, París, Impr. Monrocq, 1864, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 P65a.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+22.2 Manuel Ponce de León y Manuel María Paz, Carta Corográfica del Estado de Antioquia: cartas construidas con los datos de la Comisión Corográfica y de órden del gobierno general por Manuel Ponce de León y Manuel María Paz, Bogotá, 1864. Carta corográfica del Estado de Antioquia, París, Impr. Monrocq, 1864, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 P65a.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+22.3 Manuel Ponce de León y Manuel María Paz, Atlas de los Estados Unidos de Colombia: cartas construidas con los datos de la Comisión Corográfica y de orden del gobierno general por Manuel Ponce de León y Manuel María Paz, Bogotá, 1864. Carta corográfica del Estado de Bolívar, París, Impr. Monrocq, 1864, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 P65a.
+
+
+
+
+
+23. LA COMISIÓN
+
+COROGRÁFICA Y EL
+
+TRABAJO DE CAMPO
+
+
+
+LA COMISIÓN COROGRÁFICA buscó construir un nuevo inventario de la geografía colombiana, sus recursos y su población, lo cual suponía la tarea de recorrer las regiones para que los viajeros recopilaran información confiable de forma directa. Generalmente se piensa que un mapa es trabajo de una persona y la Comisión Corográfica se ha asociado primordialmente con el trabajo de Agustín Codazzi; pero es una labor colectiva. Botánicos, dibujantes, astrónomos, cartógrafos e ingenieros fueron algunos de los oficios que formaron parte de las expediciones de la Comisión Corográfica y había distintos tipos de miembros. Estaban aquellos que, como Codazzi, Ancízar, Price, Triana, Paz y Ponce de León, eran contratados por el Gobierno. Estos, a su vez, contaron con el apoyo de asistentes, que en su mayoría provenían del Colegio Militar; pero el equipo de viajeros organizaba los recorridos y la información era recolectada usualmente por las instrucciones de guías nativos que les iban indicando el camino y los lugares de interés. Estos guías locales sirvieron como base de la Comisión; sin embargo, sus conocimientos son silenciados y su papel permanece en el anonimato. Asimismo, las expediciones dependían de un alto número de cargueros y bogas que con sus mulas y champanes transportaban a los expedicionarios y todo su equipaje (imágenes 23.1 y 23.2).
+
+
+
+23.1 Carmelo Fernández, «Campamento de la Comisión corográfica en Yarumito», 1850.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 131.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+23.2 Manuel María Paz, Vista del Caquetá frente al puerto de Descanse, 1857.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 93.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+La idea de Codazzi y sus acompañantes como viajeros que recorrían y tomaban datos de la selva virgen es, por esta razón, incompleta; se trata más bien de un equipo de expedicionarios guiados por nativos. Los viajeros iban a su vez con otros mapas, y por medio de instrumentos iban tomando mediciones que les permitían modificar y rectificar las representaciones anteriores. Los instrumentos permitían traducir esa experiencia y las indicaciones de los nativos en datos estandarizados susceptibles de graficar y tabular. Un interesante ejemplo de esto se encuentra en las tablas de itinerarios que articulan el tiempo y el espacio y traducen la experiencia en conocimiento científico (imagen 23.3). Con las mediciones, se podía ubicar las regiones en unas coordenadas válidas en el mundo y transformar la experiencia local del guía en un dato comparable y de fácil lectura para cualquier hombre de ciencia en cualquier lugar del planeta.
+
+
+
+23.3 «Tabla sinóptica de las distancias que medían entre los pueblos de la provincia de Soto», en Agustín Codazzi, Mapa Corográfico de la Provincia de Soto, 1851, 67 x 77 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 24.
+
+
+
+
+
+24. DEL TERRENO AL
+
+PADRÓN: LOS MAPAS
+
+DE LA COMISIÓN
+
+COROGRÁFICA
+
+
+
+LA DIFÍCIL TAREA DEL TRABAJO de campo en la geografía colombiana, así como la inestabilidad de las fronteras y límites de organización política del siglo XIX, contrasta con los mapas que ofrecen una representación exacta del espacio y unos límites definidos. El trabajo cartográfico de la Comisión operó usando un patrón que se repite de región en región: una metodología que servía para ordenar y construir una completa y exacta relación del territorio.
+
+Esta forma de trabajo suponía elaborar tablas que incluían la distancia entre cantones; los productos principales de la región; los ríos, ciénagas y lagunas; los minerales; el estado de los caminos; las particularidades de la región respecto a otras, y una tabla de temperaturas, alturas, actividades económicas y otros aspectos de interés en cada cantón. Se incluyó también en los mapas una «perspectiva ideal de las montañas» que, utilizando la técnica ya empleada por Caldas, buscó resaltar la importancia de las montañas dentro de la geografía colombiana (imágenes 24.1 y 24.2). El mapa no era simplemente un esbozo de la distribución espacial, sino también un completo inventario del territorio.
+
+
+
+24.1 Agustín Codazzi, «Perspectiva ideal», en Mapa corográfico de la provincia de Tuquerres , 1853, Mapa manuscrito en colores, 74 x 52 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 22.
+
+Imagen tomada de Maria Cristina Turchi, La Misura dell’Eldorado: Vita e imprese di emliano romagnoli nelle Americhe, Agostino Codazzi.
+
+http://www.codazzi.mitreum.net/it/misura/cartografiacolombia.php
+
+
+
+24.2 Agustín Codazzi, «Perspectiva ideal», en Mapa corográfico de la provincia de Tundama, 1850, 66 x 63 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 19.
+
+Imagen tomada de Maria Cristina Turchi La Misura dell’Eldorado: Vita e imprese di emliano romagnoli nelle Americhe, Agostino Codazzi. http://www.codazzi.mitreum.net/it/misura/cartografiacolombia.php
+
+
+
+24.3 Agustín Codazzi, [Borrador de un mapa de la región comprendida entre Cabullaro y Arauca, provincia de Casanare] 1856. Mapa manuscrito, 32 x 21 cm.
+
+Biblioteca Nazionale Universitaria di Torino, Italia, Ms. S.III.21(4).
+
+Imagen tomada de Maria Cristina Turchi La Misura dell’Eldorado: Vita e imprese di emliano romagnoli nelle Americhe, Agostino Codazzi.
+
+http://www.codazzi.mitreum.net/it/misura/cartografiacolombia.php
+
+Comparar los mapas en proceso de construcción de la Comisión Corográfica (imagen 24.3) con los mapas ya finalizados nos puede ayudar a comprender cómo para los expedicionarios de la Comisión el mapa era una metodología que posibilitó transformar el espacio y la naturaleza en tablas, datos y mapas. Si en los bocetos de los mapas los datos se van escribiendo al borde de los ríos, a medida que se van haciendo los recorridos, en el mapa final la información ya ha sido procesada y sistematizada, se ha convertido en tablas que se leen de manera simultánea al plano (imagen 24.4).
+
+
+
+24.4 Agustín Codazzi, Mapa corografico de la provincia de Soto, 1851, 67 x 77 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 24.
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+A diferencia de los mapas manuscritos, la cartografía terminada de la Comisión borra toda alusión al recorrido de la expedición. Este mapa ya no es el producto de la experiencia de un observador en el lugar, sino que es una representación objetiva del espacio. En este proceso, las convenciones son necesarias para transformar esa experiencia del trabajo de campo en un producto cartográfico neutro, en el cual desaparece el punto de vista del observador. El territorio se convierte así en un dispositivo móvil, en un dibujo de dos dimensiones que facilita el control a distancia de un inmenso territorio. La sistematización de la información en patrones comunes —distancias, alturas, temperaturas, productos de cultivo y caminos— permitió dar cuenta de las particularidades de cada región y de su importancia dentro de los proyectos nacionales.
+
+
+
+
+
+25. PAISAJES Y
+
+TIPOS HUMANOS
+
+EN LA COMISIÓN
+
+COROGRÁFICA
+
+
+
+LAS LÁMINAS ELABORADAS POR la Comisión Corográfica sugieren la idea de un registro fotográfico, de retratos de escenas que estaban ocurriendo en un lugar y un momento específicos; pero las láminas se entienden también como ensamblajes que cumplen la función de inventarios de los tipos humanos y las características del paisaje de cada región.
+
+De manera similar a un escritor y sus textos, los dibujantes de la Comisión quisieron representar las características de la población, el medio geográfico, los medios de transporte y las actividades productivas. En la lámina de 1853 se puede ver el interés de la Comisión por reflejar las relaciones entre el medio ambiente y la población (imagen 25.1). Allí se percibe claramente un tipo racial, se detallan las actividades principales de la población —como puede ser la orfebrería de aluvión y la pesca— y se pueden observar el río y la vegetación del fondo como un ejemplo del medio geográfico.
+
+Asimismo, con los vestidos, la lámina ofrece información sobre el clima, otro aspecto de gran importancia para definir los lugares desde la perspectiva de la Comisión. La población no sólo se representa en términos raciales, sino también sociales. Los «notables» de cada región, por lo general, aparecen en escenas domésticas y citadinas, mientras que cuando se retrata a otros pobladores estos suelen aparecer en su medio geográfico (imagen 25.2).
+
+Por otra parte, las láminas también tenían una estrecha relación con la difusión de conocimientos geográficos. Si tomamos la imagen «Entrada a Bogotá por San Victorino», por ejemplo, se trata en apariencia de una escena cotidiana de la ciudad (imagen 25.3). Elegantes damas y caballeros se encuentran conversando, otros caminan y algunos más se ocupan en actividades económicas. En la parte superior de la imagen se pueden observar cuatro nevados que se asoman con gran claridad. Ahora bien, los nevados que se percibían desde Bogotá fueron objeto de un acalorado debate en el siglo XIX. Se especulaba que se trataba del volcán Puracé y su definición tenía importancia en la reciente transición al sistema federal. De esta manera, con la lámina y con la segunda parte de su título «Vista lejana de los nevados del Tolima, Quindío, Santa Isabel, Ruiz i Mesa de Herveo», los miembros de la Comisión buscaron difundir y popularizar sus nombres. Cuidadosamente se seleccionó el lugar en que se pudiera observar una escena cotidiana de la ciudad y se pudiera dar término a una confusión respecto a los nombres de los nevados.
+
+
+
+25.1 Manuel María Paz, «Modo de labar oro, Provincia de Barbacoas […]», 1853.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 47.
+
+
+
+25.2 Carmelo Fernández, Tipo de notables de la capital, Provincia de Santander […], 1850.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 127.
+
+
+
+25.3 Manuel María Paz, «Entrada a Bogotá por San Victorino i vista lejana de los nevados del Tolima, Quindío, Santa Isabel, Ruíz i Mesa de Herveo, Provincia de Bogotá […]», 1855.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 116.
+
+Así, entonces, cada lámina era cuidadosamente elaborada y revisada, y consistió en una producción colectiva donde cada detalle buscó dar cuenta del territorio y las características exactas de la población. Las láminas, así como los mapas, son cuidadosamente manufacturadas y cumplen funciones similares y complementarias: acumular tiempo y espacio en representaciones que permitieran ver la nación en su unidad y diversidad.
+
+
+
+
+
+26. EL ATLAS
+
+GEOGRÁFICO
+
+E HISTÓRICO
+
+
+
+EN 1889 SE PUBLICÓ EL ATLAS geográfico e histórico de la República de Colombia —Antigua Nueva Granada—, en el cual se incluyeron veinte mapas organizados en dos partes: la primera hacía un recuento histórico del país y la segunda destacaba sus atributos geográficos. Hay cuatro temas que resaltan fácilmente en el recuento histórico y geográfico del atlas: la conquista, la independencia, los límites y el inventario del territorio.
+
+En el mapa titulado «Carta de Colombia que representa la ruta de los conquistadores y exploradores en el territorio que forma la República, la posición de las tribus y las primeras fundaciones y divisiones políticas» (imagen 26.1) se relata la historia de la conquista. Los conquistadores se señalan con flechas que recorren el mapa y los indígenas se inscriben en territorios específicos. Es llamativa aquí la proyección de algunas características republicanas al territorio de la conquista. Así, el mapa se llama «Carta de Colombia», y se introducen convenciones como «capital de la República», «capital del departamento» y aparece Medellín. La continuidad del nombre, las ciudades y las fronteras proyectan la nación al pasado, como si Colombia hubiera existido desde siempre. Los mapas presentan el territorio como una unidad inmutable, como una verdad que está allí y a partir de ella se pueden reconstruir los sucesos históricos.
+
+
+
+26.1
+
+
+
+Un segundo hito del atlas es la narración de las batallas de independencia. Así, los mapas 6, 7 y 8 llevan el título de «Teatro de las guerras de Independencia» (imágenes 26.2 y 26.3). Así como el territorio y los grupos nativos se habían planteado como un escenario para el avance de los conquistadores españoles, ahora el territorio es un «teatro» que despliega el avance y el enfrentamiento de patriotas y españoles. En este caso, los protagonistas que se mueven por el territorio son Bolívar, Santander y los demás hombres criollos que lideran el ejército. Los mapas reafirman una visión batallista de la independencia y la identifican como un logro de los líderes criollos. Así como la Conquista, la Independencia es un momento fundacional, en el cual la República es obra de los criollos.
+
+
+
+26.2
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+26.3
+
+
+
+Las fronteras y el inventario del territorio son también fundamentales en el Atlas. Si bien las fronteras externas siguen fijas e inmóviles, los límites internos cambian cuando se toman diferentes modelos administrativos. Al igual, los mapas posteriores y sus textos respectivos muestran el territorio como un compendio o un inventario y describen su población, sus recursos naturales y sus características geográficas (imágenes 26.4; 26.5 y 26.6).
+
+
+
+26.4
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+26.1 a 26.7 Agustín Codazzi (1793-1859), Atlas geográfico e histórico de la República de Colombia —Antigua Nueva Granada—, el cual comprende las repúblicas de Venezuela y Ecuador, con arreglo a los trabajos geográficos del General de ingenieros Agustín Codazzi ejecutados en Venezuela y Nueva Granada; construída la parte cartográfica por Manuel M. Paz y redactado el texto explicativo por el doctor Felipe Pérez, París, A. Lahure, 1889, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 c63a.
+
+
+
+26.5
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+26.6
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+
+
+26.7
+
+IMAGEN A COLOR AL FINAL DEL LIBRO
+
+El Atlas geográfico e histórico de la República de Colombia constituye una narración que entrelaza el espacio y el pasado de la nación. El punto de inicio del atlas es la llegada de los españoles. Con la conquista se «descubrió» el territorio y se «fundaron» las ciudades. Por otra parte, con la Independencia, los criollos tomaron control del territorio y dieron inicio a la República. En todo este proceso, el espacio es un escenario, un telón de fondo delimitado y definido, que proyecta al pasado un territorio nacional y en el cual se narra una historia lineal, una historia patria que proyecta el presente en el pasado.
+
+El atlas buscó darle una dimensión histórica a la nación, y por ello no sorprende que fuera exhibido junto con acuarelas y piezas prehispánicas en la exposición universal de París, en 1889. El mapa, así como los objetos del museo, se convertía en un ícono, en un logo, que podía simbolizar rápidamente la nación. En el atlas, la geografía y la historia son efectivos medios para hacer de la nación un hecho natural y consolidar el sentido de pertenencia a un territorio y a una comunidad política imaginada (imagen 26.7).
+
+
+
+
+
+27. INDÍGENAS,
+
+CARTOGRAFÍA,
+
+ANTIGÜEDADES
+
+Y NACIÓN
+
+
+
+UNO DE LOS EJES QUE MUESTRAN las ambigüedades de la construcción del mapa nacional es el lugar que ocupa la población indígena. Así, en los mapas del siglo XVIII de D’Anville, Olmedilla y Arrowsmith la población indígena sobresale en el mapa. Los grupos nativos incluidos son abundantes y resaltan como en control del territorio. Es curioso, entonces, que posteriormente estos grupos se encontraran menos visibles en los mapas de Francisco José de Caldas, José Manuel Restrepo y Joaquín Acosta. Caldas realizó un mapa con base en el mapa de D’Anville y José Manuel Restrepo menciona que entre sus fuentes para el atlas estaban Olmedilla y Arrowsmith; sin embargo, a pesar de que los mapas que tomaron como referente marcaron la presencia de grupos indígenas, en ambos casos fueron borrados de estos.
+
+Posteriormente, con la Comisión Corográfica hubo un giro importante en la representación de los grupos nativos. Si bien estos continuaron ausentes de los mapas, a sus antigüedades y restos arqueológicos se les dieron gran importancia.
+
+En numerosas láminas encontramos piezas de cerámica, jeroglíficos y distintas muestras de las poblaciones nativas antiguas (imagen 27.1).
+
+
+
+27.1 Manuel María Paz (1820-1902), Piedra con jeroglíficos, que se halla cerca de Aipe […], 1857.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 151.
+
+Los grupos nativos vuelven a aparecer en el primer mapa del Atlas geográfico e histórico de la República de Colombia. Se trata de un mapa de la Conquista y es claro que los conquistadores son los protagonistas del episodio. A diferencia de las rutas de los conquistadores, los grupos nativos aparecen inscritos como parte del territorio y su presencia cobra sentido sólo cuando llegan los españoles. Así, por ejemplo, en los textos que acompañan el mapa los verbos que describen las acciones de los españoles son pasó, exploró, cruzó, descubrió y fundó. Los españoles van «descubriendo» el territorio y «fundando» poblaciones, y de este modo van iniciando el poblamiento y la historia de Colombia.
+
+En ninguno de los siguientes mapas del Atlas geográfico e histórico vuelven a aparecer las poblaciones nativas. De acuerdo con el relato del atlas, los grupos nativos desaparecieron con la Conquista y únicamente permanecen residuos fragmentados y dispersos de esas comunidades. En el texto, la presencia de las poblaciones indígenas no se hace notoria por sus acciones, sino por sus características. A lo largo del territorio se encuentran «indios salvajes», «indios antropófagos», «indios con cierto grado de civilización», «indios que creen en Dios y en el Diablo, pero no tienen una idea clara de la divinidad».
+
+La población nativa fue usada de manera ambivalente para referir a otros pobladores que se oponían al «nosotros» de la nación, para aludir a territorios que no se encontraban sujetos al Estado, sino que eran «fronteras salvajes», y para darle una dimensión histórica a Colombia. Así, los mapas representaron a los indios como grandes civilizaciones del pasado, antigüedades y monumentos físicos a partir de los cuales se daba una profundidad temporal al país. Sin embargo, los del presente eran vistos como reductos salvajes que entorpecían el progreso de la nación.
+
+
+
+27.2 Manuel María Paz (1820-1902), Indios Correguajes con sus adornos […], 1857.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 151.
+
+
+
+
+
+BIBLIOGRAFÍA
+
+
+
+ACEVEDO LATORRE, Eduardo, Atlas de los mapas antiguos de Colombia. Siglos XVI a XVI, Bogotá, Litografía Arco, 1971.
+
+ACEVEDO LATORRE, Eduardo, «Geografía, cartografía», en Academia Colombiana de Historia, Historia extensa de Colombia, vol. XXIV, Bogotá, Lerner, 1974, págs. 1-284.
+
+BLANCO, Agustín (ed.), Atlas histórico geográfico, Bogotá, Archivo General de la Nación, Comisión V Centenario Colombia, Norma, 1992.
+
+CUÉLLAR SÁNCHEZ, Marcela, MEJÍA PAVONY, Germán, Atlas histórico de Bogotá. Cartografía 1791-2007, Bogotá, Instituto Distrital de Patrimonio Cultural, Planeta, 2007.
+
+DEL CASTILLO, Lina, The Science of Nation Building: A History of Geographic Sciences in Colombia, 1821-1921, Dissertation submitted to the University of Miami in partial fulfillment of the requirements for the degree of Doctor of Philosophy, 2007.
+
+DEL CASTILLO, Lina, «Una Gran Colombia hecha para los ojos de Gran Bretaña. La importancia del lugar en la producción de imágenes nacionales, 1819-1830», en Araucaria. Revista Iberoamericana de Filosofía, Política y Humanidades (en prensa).
+
+DÍAZ ÁNGEL, Sebastián, «Aportes de Brian Harley a la nueva historia de la cartografía, y escenario actual del campo en Colombia, América Latina y el mundo», en Historia Crítica, núm. 39, 2009, págs. 180-200.
+
+DÍAZ ÁNGEL, Sebastián, «Contribuciones a la historia de la cartografía en Colombia», monografía para optar al título de Historiador, Universidad Nacional de Colombia, Bogotá, 2008.
+
+DOMÍNGUEZ OSSA, Camilo, «Territorio e identidad nacional. 1760-1860», en Museo, Memorias, Nación: Memorias del Simposio Internacional y IV Cátedra Anual de Historia Ernesto Tirado Mejía, Bogotá, Ministerio de Cultura, Museo Nacional de Colombia, 2000, págs. 335-348.
+
+DUQUE MUÑOZ, Lucía, «Territorio nacional, cartografía y poder en la Nueva Granada a mediados del siglo XIX», en Les Cahiers ALHIM, n.º 15, Université Paris 8, 2008, págs. 119-137.
+
+DUQUE MUÑOZ, Lucía, «Geografía y cartografía en la Nueva Granada (1840-1865). Producción, clasificación temática e intereses», en Anuario Colombiano de Historia Social y de la Cultura, núm. 33, 2006, págs. 11-30.
+
+FUENTES CRISPÍN, Nara, «Cartografía de mares y costas colombianas», en LOIS, Carla (coord.), Imágenes y lenguajes cartográficos en las representaciones del espacio y del tiempo, Buenos Aires, 2006, págs. 80-100.
+
+JAGDMANN, Anna Telse, Del poder y la geografía. La cartografía como fuente de legitimación en Colombia, Tesis de doctorado, Freie Universitat, Berlín, 2007.
+
+JAGDMANN, Anna Telse, «La biografía visual de Colombia. El Atlas de 1889 leído como símbolo nacional», en Revista de Estudios Sociales, núm. 13, octubre 2002, págs. 56-65.
+
+MUÑOZ ARBELÁEZ, Santiago, «“Medir y amojonar”. La cartografía y la producción del espacio colonial en la provincia de Santa Marta, siglo XVIII», en Historia Crítica, núm. 34, Bogotá, julio-diciembre 2007, págs. 208-231.
+
+NIETO OLARTE, Mauricio, Americanismo y eurocentrismo. Alexander von Humboldt y su paso por el Nuevo Reino de Granada, Bogotá. Universidad de los Andes, 2010.
+
+NIETO OLARTE, Mauricio, La obra cartográfica de Francisco José de Caldas, Bogotá. Universidad de los Andes, 2006.
+
+NIETO OLARTE, Mauricio, Orden social y orden natural. Ciencia y política en el Semanario del Nuevo Reino de Granada, Madrid. CSIC, 2007.
+
+NIETO OLARTE, Mauricio, Remedios para el Imperio. Historia natural y la apropiación del nuevo mundo, Bogotá, Instituto Colombiano de Antropología e Historia, 2000.
+
+PÉREZ MEJÍA, Ángela, La geografía de los tiempos difíciles. Escritura de viajes a Sur América durante los procesos de independencia 1780-1849, Medellín. Editorial Universidad de Antioquia, 2002.
+
+RESTREPO, Olga, «Un imaginario de la nación. Lectura de láminas y descripciones de la Comisión Corográfica», en Anuario Colombiano de Historia Social y de la Cultura, núm. 26, 1999, págs. 31-58.
+
+SÁNCHEZ CABRA, Efraín, Gobierno y geografía. Agustín Codazzi y la Comisión Corográfica de la Nueva Granada, Bogotá, Banco de la República, El Áncora, 1998.
+
+
+
+
+
+IMÁGENES
+
+
+
+IMÁGENES EN ALTA RESOLUCIÓN EN:
+
+
+
+http://razoncartografica.wordpress.com/
+
+http://historiadelaciencia-mnieto.uniandes.edu.co/
+
+https://www.banrepcultural.org/biblioteca-virtual
+
+
+
+
+
+4.1 Abraham Ortelius (1527-1598), «Peruviae Auriferae Regionis Typus», Theatrum Orbis Terrarum, Amberres 1584-1602.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 4, REF.X-64a.
+
+
+
+
+
+4.1.1 Abraham Ortelius (1527-1598), «Peruvia. Florida. Guastecan», Theatrum Orbis Terrarum, Amberes 1584-1602.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 4, REF.X-64.
+
+
+
+
+
+4.2 Hessel Gerritsz (1581-1632), Terra Firma item Nuevo Reyno de Granada atque Popayan, Leiden, 1625-1630.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 4, REF.X-63
+
+
+
+
+
+6.1 Joseph Aparicio Morata y Francisco Antonio Moreno y Escandón (1736-1792), Plan geográfico del Virreynato de Santafé de Bogotá, Nuevo Reyno de Granada, que manifiesta su demarcación territorial, islas, ríos principales, provincias y plazas de armas, Santafé de Bogotá, 1772, 56 x 80 cm. Copia facsimilar de 1936.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H5A.
+
+
+
+
+
+7.3 I. Andrews, A plan of the city of Carthagena, Londres?, 1772, 18 x 23 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: PH0062.
+
+
+
+
+
+7.1 Theodor de Bry (1528-1598), «Franciscus Draco Carthagenam Civitatem Expugnat», Americae Pars VIII, Fráncfort 1599, 15 x 21 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: PH0070.
+
+
+
+
+
+7.6 Juan López, Carta plana de la provincia de La Hacha situada entre las de Santa Marta y Maracaybo, 1786, 44 x 59 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H568.
+
+
+
+
+
+7.9 West Indies from de Cabo la Vela to Cayos Ratones, Londres, s. n., 1837, 50 x 68 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H579.
+
+
+
+
+
+7.7 Jacques Nicolás Bellin (1703-1772), Plan du port de Ste. Marthe dans l’Amérique Méridionale, Paris, 1764, 22 x 17 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: PH0019.
+
+
+
+
+
+8.1 ¿Juan Nieto?, Carta corographica de lo contenido en los tres brazos que cerca de la […] hace la coordillera de las sierras que se continuan desde el estrecho de[…], ca. 1570, 40 x 26 cm.
+
+Real Academia de Historia, Madrid, Colección Muñoz, núm. 89.
+
+Tomado de Eduardo Acevedo Latorre, Atlas de mapas antiguos de Colombia: siglos XVI a XIX, Bogotá, Litografía Arco, 1986.
+
+
+
+
+
+8.2 [Anónimo] Mapa del Río Grande de la Magdalena, desde su desembocadura hasta más arriba de la Ciudad de Mariquita, con expresión de gran número de poblaciones y de ríos que en él desembocan, manuscrito, 1601.
+
+Archivo General de Indias, Sevilla, Mapas, planos, etcétera.: Panamá, Santafé y Quito; código de referencia: ES.41091.AGI/1.16418.20//MP-PANAMÁ, 24.
+
+Tomado de Eduardo Acevedo Latorre, Atlas de mapas antiguos de Colombia: siglos XVI a XIX, Bogotá, Litografía Arco, 1986.
+
+
+
+
+
+8.4 Alexander von Humboldt (1769-1859), Carta del curso del río de la Magdalena desde Honda hasta el dique de Mahares, formada sobre las observaciones astronómicas hechas en abril, mayo y junio de 1801, Plan topográfico de la Angostura de Carare en dos partes, Observaciones astronómicas hechas desde el rio Sinú hasta Santa Fé, notas sobre el Estrecho de Cararé, 1801, 140 x 31 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H3.
+
+
+
+
+
+8.8 Joseph Gumilla (1686-1750), El Orinoco ilustrado y defendido: historia natural civil y geográfica de este gran río y de sus caudolosas vertientes govierno, usos y costumbres de los indios escrita por Joseph Gumilla de la compañia de Jesús, Madrid, Manuel Fernández, 1741, 21 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 987 G85o6.
+
+
+
+
+
+5.6 Charles Marie de La Condamine (1701-1774), «Carte du cours du Maragnon ou de la Grande Riviere des Amazones», en Relation abrégée d’un voyage fait dans l’interieur de l’Amerique Meridionale, Depuis la cote de la Mer du Sud, jusqu’aux cotes du Brésil and de la Guiane, en descendant la riviere des Amazones, Avec une carte du Maragnon, ou de la Riviere des Amazones, levée par la meme, Nouvelle edition augmentée de la Relation de l’emeute populaire de Cuenca au Pérou et d’une Lettres de M. Godin des Odonais, Maestricht, Jean- Edme Dufor et Phillippe Roux, 1778, 21 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918 L12r3.
+
+
+
+
+
+8.10 Robert de Vaugaudy, Terres Ferme, Perou, Brésil, Pays de L’Amazone: corrigés par C. F. Delamarche, Gravé par E. Dussy, París, 1806, 24 x 28 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H230.
+
+
+
+
+
+9.3 Athanase Airiau, «Carte Géographique pour servir a L’Etude du Canal Interoceanique par L’Isthme du Darien», en Canal interocéanique par l’Isthme du Darien Nouvelle-Grenade (Amérique du Sud); canalisation par la colonisation, París, Chez France, 1860, 24 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 386.443 A47C
+
+
+
+
+
+9.4 Athanase Airiau, «Plan-Projet. Ferme coloniale et estratégique de canalisation agricole, industrielle, commerciale et maritime», en Canal interocéanique par l’Isthme du Darien Nouvelle-Grenade (Amérique du Sud); canalisation par la colonisation, París, Libr. Quai Voltaire, 1860, 24 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 386.443 A47c.
+
+
+
+
+
+9.5 Athanase Airiau, «Plan de la ville projetée sur le parcours du canal de jonction de L’Atlantique au Pacifique», en Canal interocéanique par l’Isthme du Darien Nouvelle-Grenade (Amérique du Sud); canalisation par la colonisation, París, Libr. Quai Voltaire, 1860, 24 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 386.443 A47c.
+
+
+
+
+
+12.3 Francisco José de Caldas, Atlas de una parte de la Ameryca Merydyonal Que comprende desde el istmo de Panamá desde las bocas de Amazonas y desde las costas del Maracaybo y Venezuela hasta la orilla austral del Marañon Formado de orden del ex[elentísi]mo S. Presidente del Estado D[on] Jorge Tadeo Lozano. Por D[on] Francisco Joseph de Caldas capitan de yngenieros cosmógrafos de Estado y director del observatorio astronómico de Santafé de Bogotá. Año de 1811.
+
+Archivo Histórico Restrepo, Bogotá, Colombia, fondo XII, vol. 2: «Francisco José de Caldas sus cartas y opúsculos».
+
+
+
+
+
+12.5 Francisco José de Caldas, perfil de los Andes de Loja a Quito, lámina 9.
+
+Servicio Geográfico del Ejército, Madrid, España, Cartografía Iberoamericana, signatura: X.SG-a-11.
+
+
+
+
+
+12.2 Francisco José de Caldas, Provincias Unidas de la Nueva Granada. De orden del gobierno general por el Cno. Francisco José de Caldas, coronel del cuerpo nacional de Yngenieros, 1815.
+
+Archivo Histórico Restrepo, Bogotá, Colombia, fondo XII, vol. 2: «Francisco José de Caldas sus cartas y opúsculos».
+
+
+
+
+
+12.8 ¿Francisco José de Caldas?, Caminos Honda-Bogotá, Servicio Geográfico del Ejército, Madrid, España, Cartografía Iberoamericana.
+
+Tomado de Cartografía y relaciones históricas de ultramar, tomo V, Servicio Histórico Militar, Madrid, 1980.
+
+
+
+
+
+14.3 Alexander von Humboldt (1769-1859), Nivelación Barométrica desde Cartagena hasta Santafé, 1805, copia de 1816.
+
+Museo Naval de Madrid, España, signatura: X.MN-27-B-6.
+
+
+
+
+
+16.1 John Cary, Viceroyalty of New Granada, and Government of Caracas, Londres, 1813, 23 x 29 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H220.
+
+
+
+
+
+17.1 John Finlayson, Geographical, Statistical and Historical, Map of Colombia, Filadelfia, 1822, 30 x 27 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 4, Ref. X-68
+
+
+
+
+
+18.1 ¿Francisco Antonio Zea? (1766-1822), «Colombia tomada de Humboldt y de varias otras autoridades recientes», en Alexander Walker, Colombia: Being a Geographical, Statistical, Agricultural, Commercial, and Political Account of that Country, Londres, Baldwin, Cradock, and Joy, 1822, 22 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: 918.6 Z31C6.
+
+
+
+
+
+18.3 Aaron Arrowsmith, Outlines of the Physical and Political Divisions of South America: Delineated by A. Arrowsmith Partly from Scarce and Original Documents, Published before the Year 1806 but Principally from Manuscript Maps & Surveys Made between the Years 1771 and 1806, Corrected from Accurate Astronomical Observations to 1810. London, Published 4th January 1811 by A. Arrowsmith No. 10 Soho Square, Hydrographer to H.R.H. the Prince of Wales. Additions to 1814. Engraved by Edwd. Jones… (inset map of the southern tip of South America), Londres, 1814, 139 x 199 cm.
+
+Facilitado por: Casa Tierra Firme/Bolivar Old Prints.
+
+
+
+
+
+19.1 José Manuel Restrepo (1781-1863), «Carta de la República de Colombia», en Historia de la revolución de Colombia, París, Librería Americana, tomo XI, 1827, 25 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912 R37h.
+
+
+
+
+
+19.2 Sidney Hall, Colombia, Londres, Longman, Rees, 1828, 41 x 51 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H4.
+
+
+
+
+
+19.3 L. Vivien, Carte de la République de Colombie, Paris, Giraldon-Bovinet, 1826, 31 x 48 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H692.
+
+
+
+
+
+19.4 José Manuel Restrepo, «Mapa de la provincia de Antioquia», 1809.
+
+Biblioteca Nacional de Colombia, Bogotá, Fondo Pineda, signatura: 103, pza.19.
+
+
+
+
+
+20.4 José Manuel Restrepo, «Mapa de la provincia de Antioquia en la República de Colombia. Copie d'une carte que Monsieur Mallien á aporté de son voyage en Colombie, communiqué par Monsieur de Humboldt en mars de 1824».
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 53.
+
+
+
+
+
+21.1 Agustín Codazzi (1793-1859), «Carta de la República de Colombia, dividida en departamentos», en Atlas físico y político de la República de Venezuela dedicado por su autor, el Coronel de Ingenieros Agustín Codazzi al Congreso Constituyente de 1830, Caracas, 1840, 51 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.87 c63a.
+
+
+
+
+
+21.3 Joaquín Acosta (1800-1852), Mapa de la República de la Nueva Granada, dedicado al barón de Humboldt, París, 1847.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 2, Ref. 1275.
+
+
+
+
+
+21.4 Tomás Cipriano de Mosquera (1798-1878), Carta de la República de Nueva Granada, conforme a su última división política, Nueva York, Mayer, 1852, 42 x 59 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 55.
+
+
+
+
+
+21.5 Joaquín Acosta (1800-1852), Mapa de la República de la Nueva Granada dedicado al barón de Humboldt arreglado al Sistema Federal de 1858 por J. M. Samper, París, 1858, 41 x 50 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: H382.
+
+
+
+
+
+22.1 Manuel Ponce de León y Manuel María Paz, Carta geográfica de los Estados Unidos de Colombia, antigua Nueva Granada, construida por orden del Gobierno Jeneral por Manuel Ponce de León y Manuel María Paz con arreglo de los trabajos corográficos del Jeneral Agustín Codazzi i otros documentos oficiales, Bogotá, 1864, París, Impr. Monrocq, 1864, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 P65a.
+
+
+
+
+
+22.2 Manuel Ponce de León y Manuel María Paz, Carta corográfica del Estado de Antioquia: cartas construídas con los datos de la Comisión Corográfica y de órden del gobierno general por Manuel Ponce de León y Manuel María Paz, Bogotá, 1864. Carta corográfica del Estado de Antioquia, París, Impr. Monrocq, 1864, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 P65a.
+
+
+
+
+
+23.1 Carmelo Fernández, «Campamento de la Comisión Corográfica en Yarumito», 1850.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 131.
+
+
+
+
+
+23.2 Manuel María Paz, Vista del Caquetá frente al puerto de Descanse, 1857.
+
+Biblioteca Nacional de Colombia, Fondo Comisión Corográfica, signatura: 93.
+
+
+
+
+
+24.4 Agustín Codazzi, Mapa corográfico de la provincia de Soto, 1851, 67 x 77 cm.
+
+Archivo General de la Nación, Bogotá, Colombia, Sección Mapas y Planos, Mapoteca 6, Ref. 24.
+
+
+
+
+
+26.2 Manuel María Paz, «Carta de Colombia que representa al teatro de la guerra de independencia», en Atlas geográfico e histórico de la República de Colombia (antigua Nueva Granada), el cual comprende las repúblicas de Venezuela y Ecuador, con arreglo a los trabajos geográficos del General de ingenieros Agustín Codazzi ejecutados en Venezuela y Nueva Granada; construida la parte cartográfica por Manuel M. Paz y redactado el texto explicativo por el doctor Felipe Pérez, París, A. Lahure, 1889, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 c63a.
+
+
+
+
+
+26.4 Manuel María Paz, «Carta de Colombia que representa las primeras divisiones coloniales», en Atlas geográfico e histórico de la República de Colombia (antigua Nueva Granada), el cual comprende las repúblicas de Venezuela y Ecuador, con arreglo a los trabajos geográficos del General de ingenieros Agustín Codazzi ejecutados en Venezuela y Nueva Granada; construida la parte cartográfica por Manuel M. Paz y redactado el texto explicativo por el doctor Felipe Pérez, París, A. Lahure, 1889, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 c63a
+
+
+
+
+
+26.5 Manuel María Paz, «División política de Colombia en 1824», en Atlas geográfico e histórico de la República de Colombia (antigua Nueva Granada), el cual comprende las repúblicas de Venezuela y Ecuador, con arreglo a los trabajos geográficos del General de ingenieros Agustín Codazzi ejecutados en Venezuela y Nueva Granada; construida la parte cartográfica por Manuel M. Paz y redactado el texto explicativo por el doctor Felipe Pérez, París, A. Lahure, 1889, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 c63a.
+
+
+
+
+
+26.6 Manuel María Paz, «Carta de la Nueva Granada dividida en Provincias entre 1832 y 1855», en Atlas geográfico e histórico de la República de Colombia (antigua Nueva Granada), el cual comprende las repúblicas de Venezuela y Ecuador, con arreglo a los trabajos geográficos del General de ingenieros Agustín Codazzi ejecutados en Venezuela y Nueva Granada; construida la parte cartográfica por Manuel M. Paz y redactado el texto explicativo por el doctor Felipe Pérez, París, A. Lahure, 1889, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 c63a.
+
+
+
+
+
+26.7 Manuel María Paz, «Plano de Bogotá», en Atlás histórico y geográfico de la República de Colombia (antigua Nueva Granada), el cual comprende las repúblicas de Venezuela y Ecuador, con arreglo a los trabajos geográficos del General de ingenieros Agustín Codazzi ejecutados en Venezuela y Nueva Granada; construida la parte cartográfica por Manuel M. Paz y redactado el texto explicativo por el doctor Felipe Pérez, París, A. Lahure, 1889, 54 cm.
+
+Biblioteca Luis Ángel Arango, Bogotá, Colombia, Sala de Libros Raros y Manuscritos, signatura: R912.86 c63a.
+
+
+
+
+

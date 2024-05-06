@@ -1,0 +1,901 @@
+Catalogación en la publicación – Biblioteca Nacional de Colombia
+
+Rosa, Amira de la, 1903-1974, autor
+
+Marsolaire [recurso electrónico] / Amira de la Rosa [presentación, José Antonio Carbonell]. – Bogotá : Ministerio de Cultura : Biblioteca Nacional de Colombia, 2016.
+
+1 recurso en línea : archivo de texto Epub (1,9 MB). – (Biblioteca Básica de Cultura Colombiana. Literatura / Biblioteca Nacional de Colombia)
+
+
+
+ISBN 978-958-8959-24-5
+
+
+
+1. Cuentos colombianos - Siglo XX 2. Libro digital I. Carbonell Blanco, José Antonio II. Título III. Serie
+
+
+
+CDD: Co863.44 ed. 23
+
+CO-BoBN– a990133
+
+
+
+
+
+Mariana Garcés Córdoba
+
+MINISTRA DE CULTURA
+
+Zulia Mena García
+
+VICEMINISTRA DE CULTURA
+
+Enzo Rafael Ariza Ayala
+
+SECRETARIO GENERAL
+
+Consuelo Gaitán
+
+DIRECTORA DE LA BIBLIOTECA NACIONAL
+
+
+
+
+Javier Beltrán
+
+COORDINADOR GENERAL
+
+Jesús Goyeneche
+
+ASISTENTE EDITORIAL Y DE INVESTIGACIÓN
+
+Sandra Angulo
+
+COORDINADORA GRUPO DE CONSERVACIÓN
+
+Paola Caballero
+
+RESPONSABLE DE ALIANZAS
+
+Talia Méndez
+
+PROYECTOS DIGITALES
+
+Camilo Páez
+
+COORDINADOR GRUPO DE COLECCIONES Y SERVICIOS
+
+Patricia Rodríguez
+
+COORDINADORA DE PROCESOS ORGANIZACIONALES
+
+Fabio Tuso
+
+COORDINADOR DE PROCESOS TÉCNICOS
+
+Sergio Zapata
+
+ACTIVIDAD CULTURAL Y DIVULGACIÓN
+
+José Antonio Carbonell
+
+Mario Jursich
+
+Julio Paredes
+
+COMITÉ EDITORIAL
+
+Taller de Edición • Rocca®
+
+REVISIÓN Y CORRECCIÓN DE TEXTOS,
+
+DISEÑO EDITORIAL Y DIAGRAMACIÓN
+
+eLibros
+
+CONVERSIÓN DIGITAL
+
+Adán Farías
+
+CONCEPTO Y DISEÑO GRÁFICO
+
+Con el apoyo de:
+
+BibloAmigos
+
+
+
+ISBN: 978-958-8959-24-5
+
+Bogotá D. C., diciembre de 2016
+
+
+
+© 1941, Sección editorial de Talleres Gráficos Rasch
+
+© De esta edición: 2016, Ministerio de Cultura – Biblioteca Nacional de Colombia
+
+© Presentación: José Antonio Carbonell
+
+
+
+Material digital de acceso y descarga gratuitos con fines didácticos y culturales, principalmente dirigido a los usuarios de la Red Nacional de Bibliotecas Públicas de Colombia. Esta publicación no puede ser reproducida, total o parcialmente con ánimo de lucro, en ninguna forma ni por ningún medio, sin la autorización expresa para ello.
+
+
+
+
+
+ÍNDICE
+
+
+▪ Presentación
+
+
+Marsolaire
+
+
+
+
+
+▪ PRESENTACIÓN
+
+
+▪ MARSOLAIRE: ENTRE EL
+
+SILENCIO Y LA GRACIA
+
+
+EL ÚNICO LIBRO QUE PUBLICÓ en vida Amira de la Rosa fue Marsolaire. Lo hizo en una pequeña y sobria edición de trescientos ejemplares que mandó a la imprenta en enero de 1941 en Barranquilla, la cual repartió íntegra entre sus amigos y conocidos. Llama la atención esa parquedad para publicar su obra, pues entre 2006 y 2007, después de más de treinta años de su muerte, se editó en dos tomos, con el título de Obra reunida[1], que suman más de mil cien páginas, buena parte de su producción literaria. Allí se agruparon relatos, cuentos, prosas dispersas, notas de viajes, varias obras de teatro, más de tres decenas de piezas radiofónicas, comentarios sobre literatura, música y arte, algo de poesía, apuntes de pedagogía, entrevistas y textos diversos. Y, aunque nunca tuvo reparos en enviar a la prensa decenas de artículos y notas que no salían con regularidad, pero sí de forma asidua, sobre todo en El Tiempo, de Bogotá, en El Heraldo, de su ciudad, y en algunos medios españoles, sorprende que su trabajo más literario no hubiera trascendido en forma de libro la efímera aparición periodística o emisión radial. Si tenemos en cuenta que ella se movió desde el comienzo de su carrera en círculos intelectuales y sociales donde no le hubiera sido difícil conseguir respaldo para publicar, se puede sospechar que, más que obstáculos que lo impidieran, obedecía a una decisión personal. Sus últimos meses de vida los pasó reuniendo materiales para un proyectado libro de relatos infantiles, que no vio la luz sino casi veinte años después de su fallecimiento. Por la lectura de algunas cartas y reportajes que concedió, se sabe que a lo largo de su vida barajó la posibilidad de reunir parte de su obra, y para ello hasta ensayó los nombres de libros inminentes (Girándula, Geografía iluminada, Rescoldo, Naturaleza emocionada) que no dudó en anunciar como proyectos en los que se encontraba trabajando, pero que tampoco cedió a la luz pública. Quizá lo más extraño sucedió al inicio de su carrera, en 1934, cuando un libro de poemas ya definido y al parecer maduro (Poemas de la leche) —que inédito recibió, con un prólogo puntual y amoroso de Gabriela Mistral, el respaldo necesario para surgir del anonimato de la mano de quien era entonces una eminencia literaria y moral en América Latina— no fue publicado. ¿Qué la hizo desistir si, incluso, el prólogo y buena parte de los poemas habían aparecido con despliegue en páginas centrales de las Lecturas Dominicales de El Tiempo? ¿La autocrítica en un género —la poesía en verso— que fue abandonado casi súbitamente después de ello? ¿O fue, tal vez, el comienzo de su marcada indiferencia por el libro impreso, en términos de que su estancia en el mundo fuera menos prominente y bulliciosa?
+
+En un breve texto poético, aparecido en la prensa muchos años después, afirmaba que «Un día la tierra se quedará sin mí. / Y echará de menos mi presencia porque pasé por ella sin dejar huellas duras. / He procurado ir por los caminos sin romper el césped ni triturar la arena», y, más adelante, «Si alguna vez he roto la tierra para sembrar me han quedado doliendo los dedos y la he acariciado luego, larga, disimuladamente…», y, «ni al valle ni la montaña he pretendido cambiar sus hechuras». Hay en estas palabras una confesión de reticencia desde la que se aprecia una postura existencial en la que publicar, sacar libros y promoverlos en charlas y eventos, era, quizás, parte de un esfuerzo excesivo y ruidoso que no se compaginaba con la necesidad de no dejar esas «huellas duras» en una tierra frágil y sensitiva. «No me atrae la publicidad. Solo escribo para mí misma», había admitido en una de sus últimas declaraciones. Sin embargo, quien lo afirmaba era, paradójicamente, alguien que no vivió ni aislada ni solitaria en una arcadia remota, sino en un largo ejercicio diplomático, expuesta a un continuo roce social y burocrático, lejos de su tierra natal. Y en Barranquilla ejerció, en sus primeros años, como popular promotora teatral y radiofónica, y luego, en la intermitencia de sus apariciones por la ciudad, como personaje notorio, ícono municipal que no evadió halagos, reconocimientos ni presentaciones públicas. Críticos y escritores de la época, que podían leerla y oírla de primera mano, recibieron su obra con una amplia acogida. Luis Enrique Osorio, Carlos Martín, Luis López de Mesa, Enrique Santos Castillo “Calibán”, Luis Eduardo Nieto Caballero, entre otros, redactaron en los años cuarenta efusivos comentarios sobre sus textos y la veían como una figura más que promisoria. Estos dos últimos, incluso, llegaron a afirmar, tal vez con exageración, que la gran literatura colombiana escrita por mujeres daba un salto histórico desde el siglo XVIII, con la madre Francisca Josefa del Castillo, hasta Amira de la Rosa. Sin embargo, este tipo de declaraciones se fueron apaciguando en las dos décadas posteriores, sobre todo por la reserva que se impuso, de alguna manera, en su larga estadía en España, y por la aparición en el país de nuevas formas narrativas y dramáticas.
+
+Sea como fuere, la negativa para reunir y dar a conocer su obra se constituyó a la postre en una fuente de amplia desinformación. En realidad, pocos podían preciarse de haberla leído, y menos estudiado, pues su trabajo disperso, fragmentario, sólo permanecía en la memoria de quien la hojeaba con la intermitencia de sus artículos periodísticos, o de quienes habían asistido en los años cuarenta a alguna de sus pocas representaciones teatrales o habían escuchado alguna de sus piezas radiofónicas en las emisoras locales. A la desinformación se sumó cierto rechazo y menosprecio cuando irrumpió en la ciudad y en la región, desde mediados de los años cincuenta, la generación de escritores y artistas que irían a producir una ruptura drástica con los lenguajes y las técnicas literarias que se venían aceptando. En efecto, la aparición del llamado Grupo de Barranquilla, con Álvaro Cepeda Samudio y Gabriel García Márquez a la cabeza, con su producción rutilante, novedosa y de alcance internacional, desembocó en que la escritora no fuera tenida en cuenta sino como un personaje anecdótico de la historia de las letras de la ciudad, más anclado en el pasado del idioma que en el presente de la innovación y la experimentación literaria. Situación que perdura casi hasta hoy, cuando pese a que se ha venido conociendo en distintas ediciones buena parte de su producción, y la crítica por ello ha podido apreciar, rescatar y señalar interesantes valores en su obra para la mayoría de la población, Amira de la Rosa sólo representa el nombre con que se denomina al teatro municipal.
+
+Sin embargo, miembros prominentes de esa generación como Alfonso Fuenmayor y Germán Vargas le dieron, en su momento y después de la muerte de la autora, reconocimiento público a su trabajo. Vargas, incluso, editó y prologó una selección de sus textos en 1998[2]. Allí afirma que «parecía vivir en permanente estado de gracia. Y esa gracia se reflejaba en todo lo que escribía». La poetisa Meira Delmar encontró en ella también «la gracia definitiva». Y don Ramón Vinyes, el famoso “sabio catalán” y patrocinador intelectual del grupo, escribió varias veces en términos muy elogiosos sobre aspectos de su obra. Fue él uno de los cronistas locales que recibió con admiración la aparición de Marsolaire. Indica que la novela «es un modelo de prosa, elaborada con claridad… Podría leerse en la oscuridad, tanto su prosa está mezclada con sol tropical y con todos los colores que ese sol desvela y agudiza… Qué prosa candente, sensual, panal… se sale de ella embriagado»[3]. El único defecto que le encuentra es su brevedad: le parece que es un texto que podría desarrollarse mucho más para llegar a ser una gran novela. Presiente personajes, situaciones y un tono que prometía sugestivas evoluciones.
+
+Ariel Castillo Mier, el crítico contemporáneo que más ha estudiado e intuido las motivaciones profundas que se esconden en la trama de Marsolaire, y en general la obra de Amira, también considera una falta de visión el que no haga parte del canon establecido y «que haya adquirido la paradójica y precaria existencia de los clásicos, a quienes todos mencionan con entusiasmo y certeza, sin leerlos»[4]. Con todo, si no la obra completa, el relato Marsolaire ya es objeto de análisis y ha venido apareciendo en varias antologías de cuentos nacionales, regionales y locales. También ha propiciado debates de diversa índole, entre ellos el que busca desentrañar la posición que manifestó la escritora en defensa de la mujer a lo largo de su obra, y cómo puede ser evaluada en la actualidad desde la perspectiva de género[5].
+
+***
+
+Amira Hortensia Arrieta MacGregor (su verdadero nombre) nació en Barranquilla el 7 de enero de 1900, si nos atenemos a lo anotado en su fe de bautismo, o en 1896, si se mira su partida de matrimonio. Se casó muy joven con Reginaldo de la Rosa, primo del poeta Leopoldo de la Rosa. Se graduó como normalista y puso a funcionar, con mucho éxito, un colegio con sus hermanas. En 1930 viajó a Madrid, España, donde estudió periodismo. Pero allí se interesó sobre todo por la dramaturgia, por lo que se especializó en teatro y crítica teatral. En 1932 marchó a Barcelona para inscribirse en el famoso curso internacional que dictaba la prestigiosa pedagoga María Montessori. Una de las alumnas era Gabriela Mistral, con quien estableció una estrecha amistad que perduró hasta el final de la vida de la premio Nobel, quien, además, fue la madrina de su único hijo, Ramiro, que la sobrevivió y murió de forma trágica en 1980. Por esta época escribe Madre borrada, su obra teatral más reconocida y representada. También se relaciona con varios de los exponentes del teatro de costumbres y tradicional español como los hermanos Álvarez Quintero, José María Pemán y Jacinto Benavente, a quienes lee sus primeras producciones. En 1936, en los inicios de la Guerra Civil española, regresa a Barranquilla y retoma sus actividades pedagógicas. Escribe Los hijos de ella, drama que es montado en Caracas por un destacado grupo teatral. En Barranquilla comienza una activa producción de obras para radioteatro y otros programas radiofónicos. Publica, como vimos, Marsolaire, su único libro. En 1943, Madre borrada es escenificada en España por una importante compañía teatral, la cual obtiene un gran éxito en la gira que emprende por varias ciudades. Ese mismo año, se representa por primera vez la obra en Colombia, en una breve temporada en Barranquilla y Cartagena por parte de un grupo que mezclaba actores profesionales y aficionados, y donde actuaba la propia autora. Al año siguiente, escribe e interpreta con el mismo grupo Las viudas de Zacarías, drama de costumbres con el que obtiene una gran acogida regional; es la única de sus obras que ha sido puesta en escena después de su muerte. A finales de 1945 se representa en la ciudad Piltrafa, obra de ambiente local en la que se retratan las secuelas de la drogadicción; también se muestra en España, donde recibe un premio hispanoamericano de teatro.
+
+En 1946 es nombrada consejera cultural de la embajada de Colombia en España; entre 1953 y 1957 es designada cónsul en Sevilla, y después agregada cultural en Madrid. Emprende, con esta actividad diplomática, un periplo que se prolonga por veinticinco años, interrumpido sólo por dos breves visitas a su ciudad. En el país ibérico desarrolla una activa promoción cultural de Colombia. Colaboró en varias revistas españolas y para la Radio Nacional de España escribió y produjo más de cien piezas de radioteatro, muchas con su propia voz, lo que se constituyó en un notable intento por relacionarse, a través del melodrama radial, con amplios sectores populares amantes del género. Sin embargo, su casa y su oficina fueron un espacio abierto y público, de permanente congregación de personajes del arte y las letras. Mantuvo relación con tres premios Nobel (Mistral, Benavente, Marañón) y con la élite literaria española y la colombiana que visitaba ese país. Remite, durante ese lapso, colaboraciones a periódicos de Barranquilla y Bogotá. Retorna en 1972, y, mientras se dedica a organizar parte de sus escritos con miras a publicar un libro de cuentos para niños y otros textos, muere en su ciudad natal el 1 de septiembre de 1974.
+
+***
+
+Marsolaire es un cuento o novela corta de aproximadamente treinta y cinco páginas que se desarrolla en Puerto Colombia, aldea de pescadores que, según la narradora, vivió una época de esplendor, de actividad portuaria y comercial que se desvaneció. («Puerto sin barcos ni trajinería. Ya esto no es más que mar, sol, aire. Debería llamarse Marsolaire. Así, todo unido, como nombre de mujer», comenta el personaje masculino al comienzo del relato.) Allí vive, en una casa sencilla, una pareja humilde, Candelaria (la niña Cande) y su esposo Desiderio, que se dedica a las faenas de la pesca artesanal. Tienen una hermosa hija adolescente, María Julia, que provoca la visita de su padrino, Gabriel Méndez Olaya, hombre de cuarenta y cinco años, quien vive y trabaja en Bogotá. Mientras este mantiene una conversación formal con los padres no deja, desde el primer momento, de sentirse atraído por la muchacha, a la que halaga con palabras incitantes, celos exagerados y promesas de regalos. Unos días más tarde, cuando renueva la visita a la familia, encuentra que María Julia está enferma, con una fiebre alta. Mientras la madre va en busca del médico, el padre pesca mar adentro y el hermano, Manué, desobedeciendo la orden materna de quedarse cuidándola, se divierte afuera volando una cometa. Gabriel y María Julia, solos, inician un diálogo lleno de sugerencias y veladas insinuaciones en el que la interesada lisonja del hombre y la ingenua coquetería de la joven desatan una atmósfera de incitación. El personaje, aprovechando la situación y su ascendiente sobre ella, termina por abusar de la joven. Acto seguido, abandona a la familia y al pueblo para siempre.
+
+Meses más tarde, cuando María Julia da a luz una niña, en el poblado parecen desencadenarse una serie de acontecimientos funestos que sus habitantes no dudan en achacarlos al “pecado” cometido y a la convivencia entre ellos de la madre soltera. El clima se torna borrascoso y premonitorio, y cobra, por la fuerza de las aguas embravecidas, la vida de un joven aldeano. Cuando el cadáver del ahogado es rescatado y traído a tierra, nadie duda de la maldición que los golpea, ni de la presencia de fuerzas malignas, sobrenaturales y del mismo diablo que azota castigando las piernas de María Julia. La señora Juana, bruja y “sortílega”, esparce la cizaña y los rumores. Reconoce con satírica voz alta, en la recién nacida, los rasgos del padre. Desiderio se consume, casi ciego, entre el llanto y la “afrenta” cometida por su hija, mientras sólo la madre ofrece consuelo y compañía a María Julia. Al darse cuenta de que un cura ha llegado al pueblo para oficiar por el difunto, Candelaria ve la posibilidad de aprovechar la ocasión para pedir el bautizo de su nieta, cosa que espanta a María Julia, que no ve apropiado un funeral y un bautizo simultáneos. Sin embargo, acepta obligada y dolorida, pues nadie en los alrededores, pese a varias gestiones, está dispuesto a ser padrino de la criatura para que “el crimen” no se repita. Para colmo, a la joven mamá no se le permite asistir al acto religioso.
+
+El relato concluye cuando los lamentos de la madre del ahogado, que se oyen a lo lejos, se mezclan con las bendiciones “redentoras” (confluencia simbólica de voces y de aguas: la que mata y la que “salva”) del sacerdote, que caen sobre la niña y la única madrina, la abuela, y con la entronización del nombre Marsolaire, «ese nombre ’e perra» que María Julia ha defendido arduamente y con añoranza, contra todas las insinuaciones de que buscara otro distinto, pues es «como la hubiera puesto su padre».
+
+Esta trama, que tiene apariencia folletinesca —casi todo el teatro de Amira de la Rosa tiene ese tinte— ha sido elaborada, sin embargo, con deliberada delicadeza. Posee un lenguaje escogido y dispuesto con pericia. La narración se despliega en once breves cuadros o escenas en las que se desarrolla la acción, y que la autora ha marcado con detalle, dejando un espacio tipográfico generoso entre cada una, y creando pausas que señalan un ritmo de lectura muy preciso y dinámico (recurso proveniente de la habilidad teatral de la autora, e incluso del cine). Infortunadamente, algunas ediciones posteriores no han respetado esa marcación de la edición original, lo que ha arruinado, a nuestra manera ver, una pauta de comprensión y fluidez del relato. La historia se apoya esencialmente en los diálogos, construidos también con mucha concisión y exactitud, y es a través de ellos, más que en las descripciones, que el lector deduce los hechos, con la consecuencia de que con lo que los personajes dicen, callan o insinúan es cómo el relato se va configurando. Como escritora de teatro, Amira poseía un sentido muy desarrollado del diálogo, que aquí plasma con destreza. (En efecto, para la época de Marsolaire ya había escrito varias de sus piezas teatrales y de radioteatro, entre ellas, Madre borrada, donde también expone el caso de la madre soltera y abandonada.) Sin embargo, en dos de las escenas la narradora incluye breves líneas descriptivas en las que su voz contrasta con la de los personajes dialogantes. En uno, dedica un párrafo poético a la representación del trupillo, emblemático y generoso arbusto de la vegetación del Caribe; en otro, a la colorida e intrincada armazón de la cometa, popular juguete de jóvenes de la región. Estos elementos, el uno natural, estático, afincado en la tierra, pero dotado con características antropomorfas «es un árbol que tiene maneras», y el otro de fabricación humana, aéreo y volátil, zoomorfo «como un palomo sabio», se instalan como imágenes metafóricas, elocuentes y contrastantes para el sentido no explícito del relato.
+
+Varios comentaristas han destacado la riqueza del idioma y la amplitud del vocabulario utilizado por la autora en esta novela. «La construcción palabra a palabra de la soberbia arquitectura de Marsolaire, con el más esmerado léxico…», escribe Jairo Mercado para acreditar su inclusión en la gran antología de cuentos regionales que elaboró en compañía de Roberto Montes Mathieu[6]. En efecto, el uso del lenguaje es, quizá, la característica más relevante de esta obra. Amira lo aplica con desenvoltura y elegancia. Las palabras y frases son contenidas y meditadas sin que por ello se afecte la claridad, la espontaneidad y la persuasión para transmitir la acción y dar pautas para esbozar la psicología de los personajes. La rica expresión que usa la narradora en las partes descriptivas del relato, con abundancia de melódicos términos castizos, algunos de los cuales, por designar objetos que se utilizaban hace setenta años o estar asociados a las labores específicas del campo, la pesca y la costura, pueden sonar arcaicos o rebuscados, crea, sin embargo, un agradable contrapunto, con el vivaz y colorido idioma popular pronunciado por los personajes, y que la autora trata de reproducir con cuidado y gracia. Como lo señala su biógrafo, Enrique Dávila Martínez, Amira vivió en una especie de «ebriedad del lenguaje» tanto en lo que respecta a los temas más baladíes o trascendentales, como en lo referente al idioma culto o el popular o «lengua de monte», como ella lo llamaba, y que, según explica uno de los actores en una de sus obras de teatro, «es una habla preciosa, arrastrando las erres y comiéndose las eses… Esa gente guarda unos giros lindos y un vocabulario con enjundia. Lo dicen todo con honradez de forma, es como el sancocho hecho en olla de barro»[7]. Con esta inclusión del habla popular, Amira de la Rosa afianzaba también una técnica de la tradición narrativa, todavía vigente, y que tuvo sus exponentes más conspicuos en Tomás Carrasquilla, José Eustasio Rivera y Eduardo Caballero Calderón (escritores muy admirados por Amira, a quienes dedicó notas críticas; Rivera, además, es el personaje-héroe de uno sus cuentos), pero que veinte años más tarde, a comienzos de los sesenta, era ya un artificio literario desueto, asociado a formas primarias del costumbrismo.
+
+Como en la vida real, en Marsolaire los personajes son gente común y corriente, cuyos prejuicios, actitudes y temores atávicos provocan y diseminan la desdicha de forma desigual y en apariencia injusta; el villano huye, incólume, mientras sobresale la figura de Candelaria, con su visión y entereza para encarar los hechos. No hay un afán discursivo (aunque el bautismo del final se incluya como una proclama de signo religioso y edificante). Con un manejo más evocador que detallista, se exploran muchas de las circunstancias sociales y psicológicas que caracterizaban el mundo rural de la costa Caribe a comienzos del siglo XX. Allí se encuentra no sólo el retrato de las precarias condiciones materiales de sus habitantes, sino la amenaza inminente del desarrollo urbano con su poder disociador, representado por el traslado del puerto a otro lugar, lo que afecta profundamente la economía del caserío y, especialmente, por el padrino que viene de la gran ciudad a trastocar profundamente un orden establecido y compartido por los vecinos. También se encuentran manifiestos muchos de los utensilios, los atuendos (por ejemplo, el uso y significado que las mujeres le dan al «pañuelón de merino»), las conductas, las creencias y las supersticiones de ese ambiente rural que precipita, de alguna manera, el desarrollo de los acontecimientos. No cabe duda de que el centro de la trama se ubica en el acto sexual de los protagonistas y en sus amplias consecuencias, aunque la narradora no lo describa directamente sino de forma alusiva, y siempre a través de parlamentos casi monosilábicos, pero sugerentes. Las imágenes, diestramente desplegadas por la escritora, de los ejercicios de volar la cometa que el hermano de María Julia ejecuta simultáneamente en el espacio aledaño, acentúan lo que acontece dentro de la vivienda, así como el carácter erótico y dramático de que está impregnado el momento. Algunos críticos han señalado, a propósito, las connotaciones incestuosas que se desprenden del comportamiento sexual de Gabriel Méndez con su ahijada, que afectan negativamente la vida colectiva y el destino de la narración: es la forma incestuosa la que sobre todo horroriza a la población, por franquear un tabú que es eminentemente público, y no tanto la relación inusual de la pareja, cuestión hasta cierto punto privada; como lo dice Desiderio: «Yo tampoco me casé con su mae, pero éramos ná má que una mujé y un hombre… sin impedimenta e por medio». La asociación del padrino con el padre es notoria. En Tipacoque, la obra de Caballero Calderón dedicada a relatar la vida del campo boyacense, publicada también en 1941, se dice: «los parentescos que nacen de ahí [del compadrazgo] se respetan más que los otros, que los reales, que tienen su fuente bien oscura e incierta en la sangre. Para un muchacho lo importante no es tanto el padre, como el padrino. Por lo general el padre se cree descargado de sus obligaciones cuando aparece esa figura llena de prestigio y autoridad, que es el compadre. Casi siempre el compadre es el amo, o el vecino rico, o el regidor...»[8].
+
+Aunque la literatura de Amira de la Rosa no pretendió transgredir ni revolucionar, sino que, por el contrario, estaba en muchos aspectos apaciblemente instalada en principios y procedimientos convencionales, llama la atención la audacia y valentía con que abordó, no sólo en Marsolaire sino en varias obras de teatro y radiofónicas un tema —la mujer utilizada sexualmente y despojada— que criticaba abiertamente una conducta machista, lo que era prácticamente un proceder aceptado y hasta aplaudido en su momento.
+
+Ariel Castillo ha señalado también cómo muchos de los temas que se tocan en Marsolaire fueron desarrollados y ampliados, sin que se reconozca este ancestro y quizás de forma intuitiva, por escritores de la región de generaciones posteriores; el mismo motivo del incesto, la figura del ahogado, el escenario marino y sus connotaciones telúricas y ambientales, así como el perfil de personajes femeninos como la adivina, o doña Cande, prototipo de una estirpe de mujeres que se enfrentan valientemente a las circunstancias, aparecieron en las obras de escritores como Héctor Rojas Herazo, Álvaro Cepeda Samudio, Gabriel García Márquez, Fanny Buitrago, Marvel Moreno o Germán Espinosa[9]. Podríamos añadir que la superposición conflictiva de lo urbano y rural, su mirada amable y comprensiva para la gente humilde, que son los protagonistas, se dan también en algunos cuentos de José Félix Fuenmayor, o algunos recursos técnicos, como el diseño de diálogos escuetos y eficientes en que se sustenta buena parte del relato, son anticipaciones del uso extraordinario que le dio a ese método Cepeda Samudio en La casa grande, en la famosa escena de los soldados. Su peculiar manera de expresar con emoción la naturaleza y el entorno, el esmero para escoger vocablos e imágenes también ha dejado secuelas en una poesía tan personal como la de Meira Delmar.
+
+La obra de Amira ha sido asociada a las diferentes escuelas o movimientos literarios que campeaban a comienzos del siglo XX en Colombia como el modernismo, el posmodernismo, el piedracielismo y hasta el costumbrismo. Aunque está muy alejada del moroso retrato realista y esquemático de ambientes, tipos y costumbres de su región para ser llamada costumbrista, especialmente en este relato, su prosa llena de aliento poético y metáforas deslumbrantes, su culto al lenguaje, su afición por la literatura española y su relación personal con algunos de los piedracielistas (Eduardo Carranza o Carlos Martín; este último, por ejemplo, recibió con una larga alabanza la aparición de Marsolaire), la vinculan con aspectos de los movimientos citados. Pero más que influencias son «proximidades inevitables de tiempo y espacio», para usar la expresión que ella misma aplicó para relacionar a José Asunción Silva con sus contemporáneos. Sin embargo, en Marsolaire se encuentran entreverados aspectos de la narrativa tradicional al uso, y, en forma embrionaria, algunas de las características que van a admirar los narradores de la generación subsiguiente: el papel preponderante del diálogo, personajes sacados del común, la eficacia de una prosa sugerente y poética en vez de únicamente descriptiva, la historia abierta que deja porvenir a variadas interpretaciones. Por ello, este relato se insinuaba hacia una transición de formas narrativas más actuales que, desafortunadamente, la autora no llevó a término en textos posteriores.
+
+Pero razón tiene Ariel Castillo cuando dice que el escritor que más influyó en su obra fue Eduardo Caballero Calderón. En efecto, Tipacoque. Estampas de provincia, publicado como vimos el mismo año que Marsolaire, fue un libro que ella ponderó extraordinariamente. «Es un libro que cuando termino lo vuelvo a empezar», escribió en un texto sobre la obra del escritor. No es difícil deducir que el género que establece Tipacoque, amenos cuadros descriptivos, “estampas” de la topografía y la gente de la comarca, fueron un modelo literario que Amira siguió en decenas de breves y refinados artículos para la prensa, donde apuntó recuerdos de la infancia, impresiones de viaje, descripciones de su entorno, perfiles y reflexiones de distinta índole. Por otra parte, coincidió con Caballero en España, donde se hicieron muy amigos, viajaron juntos por la península y llegaron hasta plantearse ediciones conjuntas —nunca realizadas— en la efímera editorial que el escritor fundó en ese país.
+
+Quizás con mayor evidencia que el resto de su obra, la breve narración Marsolaire sobrevive a la inevitable ejecutoria del tiempo y de los cambios de gusto y precepción. A casi ochenta años de su creación, convoca nuevas miradas y comentarios, no sólo desde los temas, hoy vigentes, que abordó, sino por la limpia y elegante manera de su escritura, por el equilibrio de su prosa, la inteligencia y finura con que supo urdir palabras y motivos. Y por poseer —lo que tantos han señalado en su obra— esa «habilidad y soltura en la ejecución de algo» que el Diccionario de la Lengua Española denomina gracia.
+
+JOSÉ ANTONIO CARBONELL
+
+
+
+[1] Amira de la Rosa, Obra reunida, vol. 2, Barranquilla: Maremágnum, 2006-2007.
+
+[2] Amira de la Rosa, Prosa, Bogotá: Fundación Simón y Lola Guberek, 1998.
+
+[3] Ramón Vinyes, Marsolaire, El Heraldo, 3 de junio de 1941.
+
+[4] Ariel Castillo Mier, «En torno a Marsolaire», en Amira de la Rosa, op. cit., p. 44.
+
+[5] Al respecto vale la pena referirse al interesante estudio que Isabel Rodríguez Vergara, de la George Washington University, hiciera sobre el particular. Se encuentra en: Jaramillo, María Mercedes et ál. Literatura y diferencia. Escritoras colombianas del siglo XX. Bogotá-Medellín: Universidades de Los Andes y Antioquia, 1995.
+
+[6] Jairo Mercado, «Prólogo», en Mercado, J., Montes, R., Antología del cuento caribeño. Santa Marta: Universidad del Magdalena, 2003.
+
+[7] Enrique Dávila, «Semblanza de Amira de la Rosa», en Amira de la Rosa. Obra reunida (I), Bogotá: Maremágnum, 2005, p. 22.
+
+[8] Eduardo Caballero Calderón, Tipacoque, Bogotá: Talleres Gráficos El Mundo al Día, 1941, p. 60.
+
+[9] Castillo, op. cit., pág. 55.
+
+
+
+
+
+Al doctor Juan A. Donado V.
+
+por su elegante manera espiritual.
+
+
+
+LA CASITA ESTÁ SOBRE UNA loma guijarreña. Techo de anea y paredes sin encalar. Sobre la pared, a dos colores, junto a la puerta de entrada, un nombre: El Lucerito.
+
+El solar, sin lindes ni heredad cercana. Un atajadizo de cañas para torcer el rumbo de las corrientes invernizas. Redes tendidas al aire. Una lata con brea. Andando por todos lados, un cerdo gordísimo, que barre, con la cogullada, cáscaras de yuca, zuros, ventallas de legumbres, barro y lodo.
+
+Una cocina sin fábrica, sostenida la techumbre sólo por horcones. La olla en el suelo, sobre ladrillos. Un horno para cocer pan, y al pie, leña rocera y hornija. Sobre una tabla, que hace de mesa, un pescado sin agalluelas, con las ijadas rotas al sesgo y en cura de sal. Sobre un asiento vacarí, albarda y mochila de colores. En el rincón, la tinaja húmeda, fresca, por el agua recalada, que lleva en su vientre, con letras blancas, una leyenda tierna: Te quiero. Se la trajo de arriba, a María Julia, un primo hermano que viaja.
+
+Separada de la cocina, una salita, y paredaño un cuarto pequeñito. En la sala, con el piso de tierra endurecida, una mecedora, tres banquetas, una mesa de cativo y una máquina de coser. Sobre la máquina un pote de barro con unas clavellinas de papel crespón. Por las paredes cometas de todas clases y colores, un aviso del café Sabroso y otro de manteca La Mejor. En el cuarto, una cama de viento, abierta, con el lienzo blanquísimo, y dos más, cerradas, sobre la pared, cubiertas con una colcha de retazos. Baúles viejos; una mesa de altar con el Ánima Sola de yeso, metida entre llamas, y unas oleografías de Santa Rita de Casia, San Expedito y el beato Claret. En el marco de la santa, una lacinia seca de palma de Ramos.
+
+
+
+
+
+—¿Cómo fue esto de vení, padrino, después de tanto tiempo?
+
+—Me tiraba la tierra. Bogotá está bien y amarra, pero la tierra tira, tira; la tierra y… las ahijadas bonitas.
+
+La señora Candelaria dice medio resentida:
+
+—Mentira, mija. Ni siquiera se acordaba de ti. ¡Uf! ¡Qué padrino más ingrato! La difunta misiá Josefita, mi comadre, esa sí que nos quería. ¡Buena mujé aquella! Y el hijo, aquí presente, ¡sí!, ¡no voy a negalo!, cuando estabas chiquita no dejaba la ía por la venía, y sus buenos pares e zapatos te pusites con su plata.
+
+—Se los volverá a poner, comadre. Se los volverá a poner.
+
+—Dios lo oiga. Toma niña, endúrzale er café.
+
+La niña recibe la tacita de manos de la señora Cande, que sale a buscar los pollos sacudiendo el afrecho en una totuma:
+
+—Pito…, pito…, pito…, pito…
+
+En un plato de peltre azul hay dos o tres puñados de azúcar y María Julia, con el recazo del cuchillo, va llevándola al café poquito a poco:
+
+—¿Ya? ¿Ya? ¿Ya? Usté dirá, padrino.
+
+—Echa hasta que te canses.
+
+—¡Usso! Esto es pura azúcar.
+
+El padrino ha puesto los ojos sobre las manos de la doncella, su ahijada. Las tiene limpias, morenas y nuevas. No tiene color en las uñas ni aliño alguno. Son unas manos de mujer, comunes y corrientes; pero tiene un modo, la niña, de volver hacia arriba la palma y de recoger los dedos, que parece que llevara agua en el cuenco.
+
+María Julia se siente mirada con regalo y se azora toda:
+
+—¡Que me se derrama er café!
+
+—¿No te han dicho que tienes las manos lindas?
+
+—No señó.
+
+—Ya tendrás novio, de seguro.
+
+—Mire… ¡Ni siquiera! ¿Quién se va a fijá en mí?
+
+—Cualquiera que tenga ojos.
+
+—¿Ojos?
+
+Y levanta los de ella, verdes y jubilosos. Al padrino se le clavan con miseria de pecado en el ánimo:
+
+—Llama a tu madre, muchacha.
+
+—Mi papa es er que viene ahí.
+
+El padre saluda:
+
+—Compae Grabié, ¿usté por aquí?
+
+—Por aquí, compadre. ¿Mucha pesca?
+
+—Noo señó. Si ajora no se coge ná. Los pejes se han vuerto juyilones. Sí señó. En las nasas no cae ná y en las atarrayas tampoco. Si tuviera otra embarcación, me abriría ajuera. Sí señó. Pero así, atenío ar remo y a la vela… Er pargo se pesca lejos, er buré hay que corretealo. Ahí, anzueliando, coge uno cualquier cosa. Le digo, compa, que se cansa uno sin gracia. Se jueron los barcos y se jue er pescao. Sí señó.
+
+—Se fueron los barcos y se ha quedado el puerto vacío, ¿no?
+
+—Requetevacío. Sí señó. ¡Lo que era este Puerto Colombia antonces, ¿no, compae?, cuando usté bautizó a la niña! Barcos van y barcos vienen. Sí señó. Güenos jornales, los trenes llenos e gente, las casas baratas, musiules por toas partes… Sí señó. Toíto se ha perdío. Jasta er condenao má la ha cogío con uno. Ca rato tumba un barranco. ¿Lo ve cómo se va metiendo?
+
+El pescador arrastra las redes y arrastra las quejas y arrastra las palabras por el patiecillo, y va hacia la mujer:
+
+—¡Cande! ¡Niña Cande…!
+
+Gabriel Méndez Olaya queda en pie, junto a la puerta de la salita, con la cara vuelta al mar y con la voz serena:
+
+—No debiera llamarse esto Puerto Colombia. Es un escarnio. Puerto sin barcos y sin trajinería. Ya esto no es más que mar, sol y aire. Debería llamarse Marsolaire. Así, todo unido, como un nombre de mujer.
+
+—¿Cómo padrino?
+
+—Marsolaire.
+
+La doncella aprende el nombre que se abre como un abanico sobre el calor de sus años.
+
+—Marsolaire.
+
+—¿Te gusta, niña?
+
+—Me gusta, sí señó.
+
+—Si tuviera una hija la llamaría así.
+
+—¿No tiene ninguna… por ahí? —escudriña ella con malicia.
+
+—Ninguna.
+
+—¡Qué raro!
+
+—Nunca fui mujeriego.
+
+—Pues cásese…
+
+El padrino mira lejos y responde desde lejos:
+
+—Ya es tarde.
+
+—¿Por qué? —insiste María Julia.
+
+Ahora la mira él, y vuelve a la realidad.
+
+—¿Por qué? Porque… soy ya viejo.
+
+—¿Cuántos años tiene?
+
+—Cuarentaicinco.
+
+—Eso no es se viejo —responde ella alabancera—; además…, usté no los representa.
+
+—¿Qué sabes tú, chiquita? —replica él agradecido.
+
+Y se va lejos otra vez.
+
+Gabriel Méndez Olaya es un hombre bizarro, fuerte y ágil. Tiene la cabeza alzada, de venado en celo, airosa y bien vista, con canas a lo gris y cabello espeso. Los dientes enteros y bien unidos, blancos y sensuales. La boca fresca aún. Tiene larga la línea de los ojos y el mentón partido. En el entrecejo se le hace una tajadura fina de mal genio, desmentida por un perenne comienzo de sonrisa. El cuerpo, ni de vencedor ni de vencido, de hombre sano, sin alardes, con el equilibrio del varón que no se fatigó en correrías ni despilfarros.
+
+María Julia le reclama:
+
+—Hace un mes, cuando allegó, me gustaba usté más.
+
+—¿Cómo nena?
+
+—No sé. Era como más entrao en cariño y venía más a la casa.
+
+El padrino sonríe afable:
+
+—Es que estoy ocupado.
+
+—¿Ocupao…, en qué?
+
+—Escribiendo muchas cartas.
+
+—¿Quiere que vaya yo a Viña del Mar?
+
+—No, mija, no. Vendré más a menudo.
+
+Y con la tajadura del ceño honda:
+
+—No bajes allá por donde están los choferes. Quietecita en casa, ayudando a tu madre.
+
+La madre llega a tiempo de nombrada:
+
+—Regáñela. Sí señó. Que ná más quiere está con el espejito y por ahí me ha hecho fiale un traje y que pa dí a la cumbiamba…
+
+El padrino se vuelve a la muchacha con un fuerte virazón de genio:
+
+—¿Tú a la cumbiamba? ¿Tú? ¿En qué estás pensando? ¿Te volviste loca? ¿Tú a la cumbiamba? ¡No faltaba más!
+
+Y tal celo pone y tan corajuda hace la voz, que la muchacha baja la cabeza dolida y asustada.
+
+La madre conviene con palabras mediadoras:
+
+—¿Tas viendo, niña? No tenga cuidao, compa, que no irá. Si a su pae tampoco le gustan esas cosas. ¡Ge! Hay que promediá las arciones como es debío. Y ná. Basta que usté no quiera. ¡Ge!
+
+Volvió Gabriel a buenas vías; sacó del bolsillo un billete de cinco pesos y se lo dio a la comadre:
+
+—Pague el traje y que se lo ponga para estar por aquí o cuando salga con ustedes.
+
+Y salió de la casa sin mirar a la ahijada, señor de pasos contados, por la veredita de trupillos.
+
+
+
+El trupillo es el árbol del pueblo. Lo hay por todas partes, en llano y en cumbre y en ladera y en barranco y en calles y plazas. Es niño y es doncel y es maduro y grandevo y pasado de años, pero en todo momento, airoso y cortesano y con apostura de galán. Sus ramas no las tiende como un árbol cualquiera, sino con estilo y con linaje. Siempre parece que se adiestra en una reverencia o que dice un cumplido. Podría decirse que es un árbol que tiene maneras. Estando como está, por todos los sitios, no se contamina de mal vivir y sigue en todo caso su tono y su línea. Según la estación, cambia de verdes pero no se queda desnudo nunca. Da una flor, verde también, que no se distingue de las hojas: un escapo de felpilla, retorcido como un ricillo de criatura o como un gorgorito. Y la vaina que da a comer a los cabritos y al ganado mayor, no la hace igual de línea, sino con la gracia dulce del filete de orejuelas que se borda al canto de la ropa blanca. Tiene en tronco, hojas y flor una suave fragancia que no llega a ser aroma. Es una exhalación discreta de cosa viva o de llovizna de mayo. El follaje es espeso pero transparente, como una mantilla de blonda. Las hojas las echa en macillos, fieles a su base. Cada hojita nace mirada en la otra, su pareja; y si una rama cae, arrancada, ellas se buscan y se cierran, y la juntura es apretada como la de las valvas de los mejillones. Las espinas le salen en cada retoñecida sin encono y sin escuela de mal hacer. Son como un pico fino de colibrí, o también como las uñas de la paloma, que presionan sin herir.
+
+
+
+Gabriel Méndez Olaya deja la veredita de trupillos y entra en el caserío apretado.
+
+Pensamientos y crudezas de alma le hicieron inquietud y desazón. Bajó y subió cuestecitas con el disgusto en calzas de arena, con la pasioncilla en agraz, inconsciente, inaceptada. «¡La muchacha a la cumbiamba!, con los mozos llenos de sudor y aguardiente. Tendría él, Gabriel Méndez, que agarrar a las pocas vueltas a uno, o a dos, por el cuello. María Julia, con su traje corto y las piernas sin medias, allí, en la ola de hombres. Ella, con sus manos bonitas, chorreadas de esperma. Ella, con el cuerpecito nuevo, sometido a los esguinces del bailador, en sesgo, sobre el ritmo caliente, aventado en el deseo de la media noche de tragos y de lujuria. Ella, María Julia… ¡No y no!».
+
+De una casa en canillas sale una voz pasada del medio siglo:
+
+—Es Gabrielito Méndez. ¡Quién lo vio y quién lo ve! ¡Tan dergaíto que era!
+
+Más adelante, de un ventano con jaulita de pájaros, trote de máquina de coser y risitas sofocadas, viene otro decir:
+
+—Es el padrino e María Julia, la hija e Desiderio. Buen mozo, ¿nosverdá?
+
+Llegó al hotel y cayó como un fardo sobre uno de los sillones del comedor; presto levantóse, inquieto, y vino a la escalera. Subió las gradas de dos en dos y se hundió, pesado, sobre la otomana del cuarto. Ni descansó ni encauzó la dolencia. Se irguió y fue al balconcillo, respirando fuerte. Halló cansada la línea mansa de los cerros de Cupino y Pan de Azúcar y achatado el follaje costanero y ofensivo el brillo de las paredes enlucidas. Fue al espejo, se alisó el cabello con las manos, moderó la expresión tormentosa y repitió con miedosa certidumbre:
+
+—Buen mozo, ¿nosverdá?
+
+
+
+
+
+—¿Qué tiene María Julia?
+
+—Fiebre y mucho acaloro.
+
+—¿Desde cuándo?
+
+—Ayer tarde le prencipió.
+
+—¿Por qué no me avisaron?
+
+—Da pena, compae, molestalo tanto.
+
+—¿Hay médico en el pueblo?
+
+—Ahora allega, a las cuatro, en la farmacia.
+
+—Que vayan a buscarle.
+
+—Yo misma iré.
+
+—¿Y Desiderio?
+
+—Tá pescando.
+
+—Iré yo entonces.
+
+—No compae. No se moleste usté. Enseguía güervo.
+
+Y dando una voz:
+
+—¡Niño Manué! Deja la cometa y ven pa acá, pa si tu hermana quiere argo.
+
+La madre se va. El niño Manué sigue volando la cometa, y Gabriel Méndez queda solo con la enferma en la casa.
+
+En el cuartico, frente a la puerta, está María Julia en una cama de viento. Tiene el cabello suelto y marañoso; los brazos, desde el comienzo, al aire, sin un filo de manga; la sábana a la cintura; el corpiño es de una muselina artificial, desteñida y resbalosa.
+
+El padrino le habla con ternura:
+
+—María Julia… ¡Nena!
+
+—¿Qué dice, padrino?
+
+—¿Qué tienes?
+
+—Malrespiro… y fiebre.
+
+—¿Qué diablura hiciste?
+
+—Me bañé en el aguacero.
+
+—¿Con quién?
+
+—Sola. Detrás e la casa, con el chorro e la canal. Dice mi papa que estaría sofocá.
+
+—¿Sola? ¿Solita…?
+
+—Sí…, padrino.
+
+De repente cambia la expresión godesca por una sombría:
+
+—¿Y el primo de la tinaja?
+
+María Julia calla.
+
+—¿No me contestas?
+
+—Se fue er mismo día ese…
+
+—¿Para dónde?
+
+—Pa’ Barranquilla, a cogé su buque. Como es despensero…
+
+—¿Qué te dijo?
+
+—Me trajo un lebrillo y un adorote e casabe.
+
+—¿Que qué te dijo?
+
+—Náa, ¿qué va a decime?
+
+—Te enamora…
+
+—No señó.
+
+—Sí. Te enamora. Y a ti te gusta. ¿Por qué no lo dices de una vez?
+
+Y dominando el golpe de ira:
+
+—Si te gusta te casas. Eso no es problema.
+
+—No señó. No me gusta —responde ella con entereza.
+
+—¿Por qué? Es joven…
+
+—Tiene la cara picá e viruelas.
+
+El padrino ríe impulsivo:
+
+—Diableja —dice tirándole el vocablo a la cara como una piedrecita de travesura.
+
+Ella ríe también.
+
+—¿Por qué no dentra, padrino?
+
+Gabriel no contesta. Se queda mirándola, en lucha, con evidente malestar nervioso.
+
+A María Julia se le cae la almohada. Ahora es la perversidad de las cosas inanimadas la que fogariza.
+
+—Me se cayó la armuada.
+
+Gabriel Méndez la recoge:
+
+—Espera, muchacha. No sabes estar en la cama.
+
+—Es que me se refalan las cosas.
+
+El padrino la incorpora. Con la mano izquierda, abierta toda como una hoja de vid, el varón sostiene la espalda virgen, y con la otra dobla los cogujones de la almohada para hacerla más alta, y empuja hacia el centro el relleno, que es de lana limpia de Castilla.
+
+—Así. ¿No estás mejor?
+
+—Sí, padrino.
+
+—¿Quieres otra?
+
+—No hay más.
+
+—¡Qué aliento tienes, hija!
+
+—¿Caliente?
+
+—No, sabroso.
+
+—Que me dieron una toma e yerbabuena.
+
+—Échamelo a la cara —pide entre suplicante y dueño.
+
+—¿Qué?
+
+—El aliento.
+
+—Noo.
+
+—¿Por qué?
+
+—Me da pena.
+
+—¿Pena de mí?
+
+—A usté le tengo más pena que a nadie en er mundo.
+
+—¿Por qué?
+
+—¡Hum! —y se tapa la cara.
+
+Gabriel la urge:
+
+—¿Por qué?
+
+—Porque sí —y se mueve con desasosiego.
+
+—¿Qué tienes?
+
+—Me se ruedan las armuadas.
+
+—¿Te arreglo otra vez?
+
+La niña quiebra una risita angustiosa. Gabriel vuelve a levantarla y ella se agarra con los brazos al cuello del hombre.
+
+—¡Quemas!
+
+Ella calla.
+
+—Quemas, María Julia.
+
+—Se le va a pegá la fiebre.
+
+—No importa.
+
+—¡Qué va! Si usté ya no me quiere.
+
+—¡Niña, calla!
+
+—No me quiere —insiste exigente y mujercita.
+
+Gabriel la besa en el cuello y en los brazos.
+
+—¡Quemas! ¡Quemas!
+
+—El otro día se fue bravo.
+
+—No hables.
+
+—Me regañó.
+
+—¡Porque te quiero!
+
+—¿De verdá?
+
+—Sí. Te quiero.
+
+Y le besa los cabellos voltizos sobre los hombros de piedra. Ella le mira de cerca los dientes enteros, bien unidos, blancos.
+
+—Padrino, ¡déjeme! —ruega con entrega y dulzura.
+
+—¡Nena! ¡Nena!
+
+La cabeza gris está llena de hilos azogados. La carne joven de María Julia huele a fiebre y a cogollos de hierba.
+
+—¡Nena! ¡Nena! ¡Mi vida…!
+
+Fuera, la cometa del niño Manué runrunea suave y galana, como un palomo sabio. Sopla viento marero y el bramante tenso corta con una raya la montaña verdeazul. Se oyen los gritos de las voces alborozadas: «¡Cóbrala!». «¡Cóbrala!». «¡Que se cabecea!». «Déjala que se vaya». «Échale toa la pita». «¡Cóbrala!».
+
+
+
+El niño Manué es un cometero excelente. Tiene en su conocimiento todas las formas y todos los vuelos. La cometa estrella, la flor de lis, el barrilete… Posee geometría instintiva y razón natural de línea pura. Sabe la medida justa del rabo y de los trazados y de la hicadura. Hace de la guadua hebras y filetes y sabe dar al arco la perfecta curva de Eros. En su cometa las verticales tienen fuerza de flechas, y en el nudo de encuentro, las pegaduras no se hallan. Es un trabajo fino, de artesano maduro, pero con la ternura de las manos sin durezas y del tacto sin hieles. Para los perendengues, que son como las arracadas de la cometa, el niño Manué tiene en su tijera los mil calados y celosías. En los bordes hace un repicado lujoso de gorguera de ricadueña, y, hacia adentro, en las lonjas angostas, que son como las márgenes del aire, hace círculos y ranuras que, sin saberlo, le dan, como en la rosa de los vientos, los treintaidós rumbos de la vuelta del horizonte.
+
+
+
+Por la veredita de trupillos viene la niña Cande.
+
+—Niño Manué, ¿y tu hermana?
+
+—Aentro con don Grabié.
+
+—Anda tú pallá, soo bandolero. Te dije que te jueras a está con ella.
+
+La niña Cande lleva traje negro y pañuelón de merino. La mujer legítima de nuestro pueblo, por ley de rubor puro, no se atreve a salir en cuerpo. Ni el sombrero de jipa como la sabanera del altiplano, ni el rebozo como en otras partes; pero requiere, para los hombros y el escriño materno de su cuerpo, velo claro o espeso. Es un hacer de la casta de madres señoril y ritual casi. Y, para decir que una perdió el equilibrio y la excelencia de obra, la paremiología, así como en la península dice: «Se soltó el pelo», aquí exclama: «Soltó el pañolón».
+
+Cuando la niña Cande entra en casa, no halla a don Gabriel:
+
+—Niña. ¿Y mi compae?
+
+—Se jué. Como usté no venía… Dijo que le pasaran a er la cuenta de tóo.
+
+—Pobre mi compae. ¡Tan güeno! ¿Y esta armuá en er suelo?
+
+—Me se refala ca rato…
+
+—Pa' ve, ¿te has refrescao?
+
+—No, señora.
+
+—Muchacha, si estás que ardes. Y ese condenao médico que no allega. Claro, como tiene su güena plata guardá y su güen artomovi, ¿a er qué le importa?
+
+La señora Cande, preocupada, se detiene ante la mesa del altar, hace un rezo y prende un cirio.
+
+—Niña, ¿por qué te tapas la cara?
+
+—Me molesta la luz.
+
+La señora Cande apaga la vela que encendió para el beato Claret.
+
+—¡Ave María Purísima! —y se santigua supersticiosa.
+
+Fuera, la cometa del niño Manué sigue volando con viento de mar. Ahora tiene un runrún estremecido y agorero, y eso que el aire es limpio y que los colores de su estrella se abren sobre la tarde como un pañuelo jovial de retazos encendidos.
+
+
+
+
+
+El día, lleno de relámpagos y truenos y tormenta, trajo al filo de la noche el cuento de un ahogado. Y la noche, que sufre de insomnios y cree en brujerías, lo repitió a su modo con hilazas de miedo y graznidos de lechuzas.
+
+El mar está terriblemente oscuro y el cielo cerrado también a toda luz. Por debajo del barranco van y vienen hombres descalzos, con los pantalones a media pierna, batiendo con las plantas el agua de la orilla. El chapaleo es, en la noche, un chasquido funesto y en el ánimo produce destiento y sobresalto.
+
+El pueblo está lleno de linternas y desvelos y preguntas:
+
+—¿Lo encontraron?
+
+—Noo.
+
+—¡Pobre hombre!
+
+Era joven. Estaba al canto de los veinte años. Iba para Guaruco, pero el arroyo de Boca e Caña estaba crecido y torrentoso, y se lo llevó agarrado por las piernas. Se salvó la bestia, y él, de más valía pero menos esforzado, halló la muerte de agua, que dicen que es horrible.
+
+—Agua mala la que ajoga —refunfuña un viejo que viene de los lados de Morro Hermoso.
+
+Las mujeres le preguntan:
+
+—¿Usté lo vio?
+
+—No lo han jallao. Argún peje grande, a lo mejó…
+
+—Jesús, ¡Dios mío!
+
+Y las mujeres se hacen cruces sobre el rostro.
+
+Con la amanecida se le ve la dolencia al mar. Lleva en el lomo las cuchilladas amarillas del arroyo y, a flor de lumbre, las grandes manchas rojas del aserrín que hizo el aguacero en la molienda de maderas viejas por el monte. La orilla está llena de troncos retorcidos, de árboles rotos y de hierbas sin nombre. Al fondo, la greca oscura del muelle inútil y el barco negro refugiado en la bahía levantan el cartelón lúgubre de entierro.
+
+Sube el primer sol y se engruesan los grupos y se inflaman los comentarios.
+
+Hay dos mocitas en la yema de los años:
+
+—Es que el pueblo está de malas desde aquello…
+
+—Cállate, que las paredes oyen.
+
+—¡Adiós! ¿Y no es verdá? Creyeron que no iban a salí los malos jechos ar so.
+
+—¿Tú la viste?
+
+—Tá escondía.
+
+—¡Pobrecita! Me prestaba su chalina pa dí a misa…
+
+—Ahora, ¡no irás por allá!
+
+—No. No va nadien por ese lao. Dicen que en er trupillá se oye un vajío de cosa mala.
+
+—Y que le han quedao los tobillos hinchaos…
+
+—La señora Juana dijo que era cosa er diablo, que por las madrugás le afuetiaba las piernas con er rabo.
+
+—¡Virgen Santísima!
+
+—Nadie pue decí: desta agua no beberé; pero yo…, manque me quedara sin marío toa la vida…, ¡ju!
+
+—¡Dios nos libre!
+
+—El pobre viejo y que se está quedando ciego e llorá.
+
+—Yo la hubiera contramatao, a la perra esa…
+
+Hay un revuelo y un rizadillo de exclamaciones:
+
+—Míralo. ¡Ya traen al ahogado!
+
+—¿Lo traen?
+
+—Sí, señora. Allá en los botes.
+
+—En el más grande.
+
+—¿El de la vela?
+
+—Sí, señó. En ese.
+
+—¡Pobre mae!
+
+—¿Quién lo encontró?
+
+—El viejo Tiberio. Un pae puede mucho, por viejo que esté.
+
+—¿Por qué lao?
+
+—Ahí mismo estaba. La señora Juana le evocó el espíritu y él dijo que no salía porque estaba cogío en una palizá, que lo sacaran ligero, porque ya por momentos reventaba.
+
+Los botes arriman a la playa. El cadáver tiene los pies amarillos como las cuchilladas del mar y la cara tapada con un lienzo de vela. El buzo que lo halló dice que tenía, allá en el fondo, los ojos abiertos sobre una cinta de algas.
+
+Un perro deshambrido quiere lamerle.
+
+—¡Usschi, animal! —y le dan patadas crueles.
+
+—¡Ay!, ¡que era su amo!
+
+—¡Pobre perro! —dice una muchacha con la voz desgarrada.
+
+Y se riega un murmullo de espanto.
+
+
+
+
+
+Por la veredita de trupillos llega a El Lucerito una vieja que es comadre y es sortílega y lenguaraz:
+
+—¡Candelaria! —grita desde la puerta.
+
+—Dentre, señora Juana.
+
+En el cuartico, sobre la cama de lienzo blanquísimo, hay una criatura dormida. Tiene larga la línea de los ojos y el mentón partido. En el entrecejo lleva una tajadura fina de mal genio, desmentida por un perenne comienzo de sonrisa.
+
+La señora Juana dice a sovoz a María Julia:
+
+—Es clavá su padre. ¡Qué parejura! Muchacha, es iguá, iguá.
+
+María Julia tiene un silencio solemne. La señora Cande pregunta tímida:
+
+—¿Cómo sabe que hay cura, señora Juana?
+
+—Viene ahora a ponele los olios al ahogao. Quiere decí que se aprovecha. ¿Hasta cuándo va a está morá?
+
+La muchacha protesta supersticiosa:
+
+—¡Ay! ¿Con el cura del ahogao…?
+
+—Qué se va jacé, mija —interviene Candelaria.
+
+—¿Quién la lleva… mama?
+
+—Yo, mija. Yo soy la madrina. ¿Quién va a sé más que tu mae?
+
+Hay un silencio grave y doloroso. La muchacha se atreve al fin con la pregunta:
+
+—¿Jayó padrino?
+
+—No.
+
+Y la señora Juana, cruel:
+
+—No quiere nadie, niña.
+
+—¿No le dijo a mi primo antiyeil, cuando estuvo usté en Barranquilla, mama?
+
+—Sí le dije.
+
+—¿No quiso tampoco?
+
+La señora Cande contesta con la voz en lágrimas:
+
+—Me dio la esparda y se puso a llorá.
+
+María Julia traga nudos de angustia. Los ojos verdes perdieron el júbilo y son ahora como dos manchas de agua estadiza.
+
+La sortílega tercia:
+
+—Pero güeno, niña, ¡si er cura dijo que la bautizaran manque juera sin padrino! Y la gente dice que así es mejó, porque no hay peligro de que er crimen se…
+
+—Cállese —rompe María Julia con ira.
+
+—Niña, te lo digo por la confianza… que tengo, no por ná. Ya ve que soy la única amistá que les ha quedao…
+
+Y va carantoñera a la muchacha y le cuenta con misterio que el naipe ha dicho que vendrá una carta por camino de agua…
+
+A la niña la visten casi dormida. La señora Cande la acoge en el escriño materno bajo su pañuelón de merino. La afrentadita se rebulle, pero halla en la abuela roce tibio y pega de nuevo la hebrita de sueño.
+
+La señora Juana indica:
+
+—Se llamará María er Carmen, como la patrona.
+
+—No —replica María Julia.
+
+—Candelaria, como tu madre.
+
+—No, señora.
+
+—Desideria… María Julia…
+
+—Noo.
+
+—¿Y cómo, pues?
+
+—Marsolaire.
+
+Y el nombre se abre como un abanico de rubores sobre su vergüenza.
+
+La sortílega protesta:
+
+—Niña, ese es nombre e perra.
+
+—Que la pongan ¡Marsolaire!
+
+La señora Cande insinúa:
+
+—Niña Julia, no querrá er cura…
+
+Ella replica desazonada, impúdica:
+
+—¡Marsolaire! Como la hubiera puesto… su padre.
+
+
+
+El padre de María Julia, el viejo pescador, arrastra su amarulencia por el patiecillo y da mordiscos rabiosos al tabaco. La cara le escuece. «¡Como si no hubiera habío más hombres en er mundo! Tampoco yo me casé con su mae, pero éramos ná más que una mujé y un hombre. Sí señó. Sin impedimenta e por medio. Sí señó. ¡Esgraciá muchacha!».
+
+María Julia se queda de pie en la puerta falsa, cara al camino. Allá va el pedacito de su alma, el pedacito de carne que le dieran, chiquitito en su ternura de madre nueva, como un grano de incienso o como un puñadito de flor de harina. Allá va la sin padrino, bajando por la vereda de trupillos verdes.
+
+Hasta El Lucerito llegan los gritos de la otra madre triste, la del ahogado, que vive allí a la bajada de la loma.
+
+—¡Hijo de mi arma! ¡Mijo! ¡Mijito!
+
+Y la campana trémula de almas da el eco macabro.
+
+
+
+
+
+En la iglesia, el agua pura, el agua bendita, que no sabe de rencores, pone gracia y nombre sobre la frentecita de jacintos.
+
+Y una voz solemne:
+
+—Yo te bautizo, Marsolaire, en el nombre del Padre y del Hijo y del Espíritu Santo…
+
+
+
+
+

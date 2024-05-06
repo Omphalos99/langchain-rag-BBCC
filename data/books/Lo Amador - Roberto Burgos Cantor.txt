@@ -1,0 +1,996 @@
+Catalogación en la publicación – Biblioteca Nacional de Colombia
+
+Burgos Cantor, Roberto Eliécer, 1948-, autor
+
+Lo Amador / Roberto Burgos Cantor ; presentación, Emiro Martínez-Osorio. – Bogotá : Ministerio de Cultura : Biblioteca Nacional de Colombia, 2017.
+
+1 recurso en línea : archivo de texto ePUB (2,1 MB). – (Biblioteca Básica de Cultura Colombiana. Literatura / Biblioteca Nacional de Colombia)
+
+
+
+ISBN 978-958-5419-86-5
+
+
+
+1. Cuentos colombianos - Siglo XX 2. Libro digital I. Martínez-Osorio, Emiro, autor de introducción II. Título III. Serie
+
+
+
+CDD: Co863.44 ed. 23
+
+CO-BoBN– a1018344
+
+
+
+
+
+Mariana Garcés Córdoba
+
+MINISTRA DE CULTURA
+
+Zulia Mena García
+
+VICEMINISTRA DE CULTURA
+
+Enzo Rafael Ariza Ayala
+
+SECRETARIO GENERAL
+
+Consuelo Gaitán
+
+DIRECTORA DE LA BIBLIOTECA NACIONAL
+
+
+
+
+Javier Beltrán
+
+COORDINADOR GENERAL
+
+Isabel Pradilla
+
+GESTORA EDITORIAL
+
+Jesús Goyeneche
+
+ASISTENTE EDITORIAL Y DE INVESTIGACIÓN
+
+
+
+José Antonio Carbonell
+
+Mario Jursich
+
+Julio Paredes
+
+COMITÉ EDITORIAL
+
+Taller de Edición • Rocca®
+
+REVISIÓN Y CORRECCIÓN DE TEXTOS,
+
+DISEÑO EDITORIAL Y DIAGRAMACIÓN
+
+eLibros
+
+CONVERSIÓN DIGITAL
+
+PixelClub S. A. S.
+
+ADAPTACIÓN DIGITAL HTML
+
+Adán Farías
+
+CONCEPTO Y DISEÑO GRÁFICO
+
+Con el apoyo de:
+
+BibloAmigos
+
+
+
+ISBN: 978-958-5419-86-5
+
+Bogotá D. C., diciembre de 2017
+
+
+
+© Roberto Burgos Cantos
+
+© 2012, Editorial Planeta Colombiana, S. A.
+
+© 2017, De esta edición: Ministerio de Cultura –
+
+Biblioteca Nacional de Colombia
+
+© Presentación: Emiro Martínez-Osorio y Catherine Sawyer
+
+
+
+Material digital de acceso y descarga gratuitos con fines didácticos y culturales, principalmente dirigido a los usuarios de la Red Nacional de Bibliotecas Públicas de Colombia. Esta publicación no puede ser reproducida, total o parcialmente con ánimo de lucro, en ninguna forma ni por ningún medio, sin la autorización expresa para ello.
+
+
+
+
+
+ÍNDICE
+
+
+Presentación
+
+
+
+
+
+Historias de cantantes
+
+El otro
+
+Era una vez una reina que tenía
+
+Estas frases de amor que se repiten tanto
+
+Aquí donde usted me ve
+
+Los misterios gozosos
+
+En esta angosta esquina de la tierra
+
+
+
+
+
+PRESENTACIÓN
+
+
+
+EN 1984, SANTIAGO MUTIS Durán publicó una breve reseña de los cuentos reunidos por Roberto Burgos Cantor en Lo Amador (1981). Para Mutis Durán, Lo Amador es un libro «hecho con una desconcertante honradez literaria y humana, con una clara visión de lo que debe ser la literatura y con un respeto total por aquel hombre [o mujer] que se sienta solo ante un libro en el que espera encontrar el lugar del tiempo y la tierra en donde se halla»[1]. Más de tres décadas después de la publicación inicial de Lo Amador, la apreciación de Mutis Durán se mantiene vigente y expresa la excepcional mezcla de experimentación y poesía que plasmó el escritor cartagenero en su primer libro.
+
+Lo Amador ofrece la carta de presentación de entrañables personajes como Mabel Herrera y Atenor Jugada, los cuales reaparecerán más tarde en relatos como «Encarnación Mancera mi negra del alma» y novelas como El patio de los vientos perdidos (1984). Desde la perspectiva de la relación entre memoria histórica y ficción, Lo Amador establece las pautas de una innovadora propuesta literaria que enaltece el poder de la voz y que encontrará renovada expresión en la polifonía de voces que convergen en la novela La ceiba de la memoria (2007)[2]. Cabe destacar también que Lo Amador propone una aguda reflexión sobre los empalmes entre raza, género y nación y, al hacerlo, anticipa las contribuciones de estudios recientes sobre el significado simbólico de eventos como el Reinado Nacional de Belleza en Colombia y, a nivel teórico, las reflexiones de filósofos como Judith Butler sobre la interseccionalidad de género[3]. Asimismo, Lo Amador da inicio a un lúcido diálogo entre literatura y cine que perdurará a lo largo de la obra narrativa de Burgos Cantor y que enriquecerá relatos como «La estrella», de su más reciente colección de cuentos titulada El secreto de Alicia (2013)[4].
+
+Al evocar los orígenes y el progresivo deterioro de un barrio popular en el Caribe colombiano, Burgos Cantor le infunde a su prosa la flexibilidad de la palabra hablada y construye relatos que expresan el desasosiego de los habitantes del barrio ante el desgaste de las expectativas de transformación social y que celebran el papel de la música y el canto como estrategias de empoderamiento. Al mismo tiempo, los enlaces que unen los siete cuentos urden el tejido social que conecta las vivencias de obreros, mecánicos, celadores, conductores de buses, modistas, cantantes, periodistas, boxeadores, trabajadoras sexuales, empleadas domésticas, lectoras de cartas, reinas populares de belleza y líderes sindicales. Pero al urdirlo, despojan la desilusión de todo fatalismo y revelan las contradicciones, los prejuicios y las desigualdades que se traducen en atropellos, marginalidad y violencia. Así las cosas, Lo Amador socava una imagen mágica, exótica o folclórica del Caribe colombiano, y les otorga un papel central en la narrativa a los habitantes de las «nuevas centralidades» (Deavila, 142) que surgieron en Cartagena de Indias durante el período en que las élites locales y nacionales redefinían el antiguo puerto negrero como destino turístico.
+
+EL TEATRO LAURINA:
+
+DE LA CIUDAD LETRADA
+
+A LA CIUDAD CINÉFILA
+
+
+
+A lo largo del siglo pasado, Cartagena de Indias llegó a contar con más de veinticinco salas de cine ubicadas en distintos sectores del casco urbano. El radioteatro Miramar en el Pie de la Popa; el teatro Miriam en el barrio El Bosque; el teatro La Matuna en el sector de La Matuna; los teatros Padilla, Calamarí, Bucanero, Cartagena, Colón y Rialto en Getsemaní; el Teatro Caribe y el cine Anita en el barrio Torices; el teatro Colonial cerca de los barrios La Quinta y La Esperanza; y el teatro Laurina, ubicado en el barrio Lo Amador, que recibió su nombre por el de la esposa del alcalde de Cartagena en el momento de su inauguración (Lo Amador, 72)[5]. A la propagación de salas de cine de barrio debemos agregar la apertura de cineclubes universitarios a inicios de los años sesenta, al igual que el impacto local del Festival Internacional de Cine de Cartagena y el uso de la ciudad para el rodaje de películas. Ahora bien, el cine implica un proceso colectivo de creación y recepción. Esta característica propia del cine encaja con el modelo narrativo que propone Lo Amador, cuyo protagonista es ante todo el barrio, la colectividad; y cuyo esfuerzo por recuperar la memoria de dicho barrio incluye la reconstrucción de las prácticas sociales generadas en relación con el consumo de películas y el vínculo que sus habitantes establecen con la sala de cine. En este sentido, los testimonios del conductor de bus y de la anciana analfabeta que protagonizan los cuentos «Aquí donde usted me ve» y «En esta angosta esquina de la tierra» dan cuenta de nuevos procesos de socialización y reconfiguración de la subjetividad de acuerdo con los cuales la parroquia y la escuela pública, los baluartes tradicionales del conocimiento y el aprendizaje promovidos por la Iglesia católica y el Estado colombiano, habían empezado a ser reemplazados por las salas de cine.
+
+Lo Amador dialoga con un variado conjunto de producciones cinematográficas entre las cuales se destacan películas con un alto contenido político como La batalla de Argel (1966) y Queimada (1969) de Gillo Pontecorvo. Películas producidas por el cine italiano de la posguerra como Rocco y sus hermanos (1960) de Luchino Visconti. Melodramas emblemáticos de la época de oro del cine mexicano tales como Nosotros los pobres (1948) de Ismael Rodríguez, y cortometrajes colombianos como Paloma (1976) de Alberto Duque López. Las alusiones a las películas antes mencionadas sirven para erigir el trasfondo macrohistórico global sobre el cual los habitantes del barrio interpretan sus propias circunstancias y narran sus microhistorias. El diálogo con películas como La batalla de Argel, en particular, permite establecer paralelos entre los conflictos sociales y el tipo de represión evocados en Lo Amador y la violencia ejercida por los aparatos represivos del Estado francés y los grupos subversivos durante la lucha por la independencia de Algeria entre 1954 y 1962. Por otra parte, las alusiones a la película Queimada establecen un vínculo directo entre el pasado colonial de la ciudad y su función en el comercio transatlántico de esclavizados, y el racismo prevalente en Cartagena, y en sectores de la sociedad colombiana en general, en el momento en que se llevó a cabo el rodaje de la película[6]. Por otro lado, las referencias a películas como Rocco y sus hermanos y Nosotros los pobres no sólo contribuyen a matizar los rasgos particulares que Lo Amador explora en relación con el fenómeno de la migración forzada del campo a la ciudad, sino que además invitan a reflexionar sobre la conexión entre el capitalismo y el cine como industria[7]. Finalmente, al referirse al cortometraje Paloma como «un film de un novelista que cuenta películas» (62), Lo Amador enfoca la atención de los lectores en los aportes de la industria cinematográfica en Colombia y celebra la posibilidad de transformar la narrativa breve a través de la asimilación de la gramática visual del cine. Es precisamente este empeño el que queda plasmado en la primera frase del libro, en la que el narrador produce la impresión de un primer plano en un documental cinematográfico al declarar:
+
+LA FOTO: es en blanco y negro y no tiene artificio.
+
+Esta frase resalta la propiedad visual del conocimiento e interpela a los lectores tanto en su capacidad para descifrar signos lingüísticos como en su condición de consumidores de imágenes. Conjuntamente, las descripciones del tamaño, el color y la falta de artificio de la fotografía sirven de manera análoga para describir las características materiales de la página del libro, creando así un discurso que oscila entre los mecanismos que rigen el funcionamiento del lenguaje escrito y las imágenes visuales. La fina tensión entre escritura alfabética e imágenes visuales volverá a ocupar un lugar central en Lo Amador en el desenlace del cuento titulado «Estas frases de amor que se repiten tanto», en el momento en el que antes de abandonar a su amante la joven militante escribe una frase sobre un afiche que reproduce un cuadro del pintor surrealista belga René Magritte:
+
+Al levantarme descubro que en la nube que está dentro del ala que está en el ave que está encima del mar que está dentro del cuadro dejaste escrito: te quiero mucho. No puedo evitarlo y es cursi: con mi lápiz verde le pinto alrededor un corazón.
+
+Si, como observó Policarpo Varón, el «elemento capital de Lo Amador es el lenguaje», es oportuno señalar que en los textos reunidos en Lo Amador, como ocurre en la poesía, el lenguaje atraviesa por un proceso de alquimia que transmuta las páginas del libro en fotografías, cuadros, grafitis inscritos en una dilapidada pared o escenas de películas. En otros casos, el uso de neologismos, la omisión de signos de puntuación, la alteración de la sintaxis y las repeticiones producen un lenguaje ágil e irónico que conecta las secuelas psicológicas del desarraigo y la experiencia de habitar en los espacios periféricos de la ciudad con la sensación de indignación, frustración o rabia. No obstante, en todos los casos, el concienzudo esmero por el lenguaje y la exaltación de la «materialidad sensual de la[s] palabra[s]» (Sarabia, 474), lejos de ofrecer un mero ejercicio de virtuosismo, sirven como estrategias imprescindibles para deslegitimar los actos de opresión y desnaturalizar las estructuras que los sostienen.
+
+HACER VISIBLE
+
+LO INVISIBLE
+
+
+
+Los cuentos reunidos en Lo Amador están enmarcados entre dos viñetas o palabras-imágenes[8] que ocupan menos de una página y aparecen al inicio y al final del libro. Estas dos viñetas son en cierto modo invisibles porque no llevan título y tampoco aparecen en la tabla de contenidos. Sin embargo, ambas problematizan la noción de autor y de texto literario, y cumplen múltiples funciones específicas tales como demarcar el período histórico en que transcurren los eventos narrados en el libro y reiterar el protagonismo de la colectividad. Más importante aún, al exponer las posibles repercusiones políticas e ideológicas de actos aparentemente banales como visitar una peluquería de barrio o deambular por las calles de una ciudad del Caribe en los años setenta, las dos viñetas encuadran las historias narradas en Lo Amador dentro de una serie de relaciones regionales, nacionales y continentales marcadas por los efectos de la hegemonía estadounidense en el Caribe y las medidas represivas del Estatuto de Seguridad implementado por el gobierno del presidente Julio César Turbay Ayala.
+
+En su libro Señas particulares: testimonio de una vocación literaria (2001), Burgos Cantor comenta que «Lo Amador fue concebido como un conjunto de cuentos que guardarían ciertos vínculos entre sí» (52). Las viñetas con las cuales inicia y termina Lo Amador confirman que los vínculos a los cuales se refiere el autor no se limitan a la reiteración de temas, espacios y personajes a lo largo de cada uno de los siete cuentos, sino también a los múltiples planos que reflejan los enlaces ideológicos y estructurales que tejen la sociedad misma retratada en el libro. En el caso de cuentos como «Estas frases de amor que se repiten tanto» y del conmovedor homenaje que Burgos Cantor rinde al líder sindical José Raquel Mercado, dichos enlaces empalman la esperanzadora aventura del amor con nuestras atávicas luchas armadas; y la vocación de un joven periodista por escribir sobre un espacio social marginado con las luminosas cadencias de un saxofón y la exquisita poesía de Pedro Salinas y Constantino Cavafis. En cuentos como «El otro», los vínculos entre el individuo y la colectividad revelan no sólo la riqueza del diálogo intertextual que Burgos Cantor entabla con un cuento homónimo publicado por Jorge Luis Borges[9], sino también la imperante necesidad de aseverar el derecho a disentir ante el deterioro de las posibilidades de apertura democrática. En este sentido, «El otro» y todo Lo Amador recuperan la memoria de una comunidad radicalmente transformada a partir de la impune desaparición de uno de sus miembros, y ofrecen una dolorosa metáfora de lo ocurrido en Colombia tras los recurrentes asesinatos de sus líderes populares.
+
+Con la edición digital de Lo Amador, la Biblioteca Básica de Cultura Colombiana pone a disposición de sus usuarios la más sugestiva colección de cuentos publicada en Colombia, y una de las más generosas ofrendas de la literatura que da testimonio del Gran Caribe tanto como comunidad afectiva como producto del colonialismo. Con el transcurrir de los años, sus nuevos lectores nos alertarán de las maneras en que Lo Amador también puede ser interpretado como un emblema de un nuevo tipo de escritura apta para los procesos de democratización y letramiento auspiciados por el auge de las tecnologías digitales.
+
+EMIRO MARTÍNEZ-OSORIO
+
+CATHERINE SAWYER
+
+REFERENCIAS BIBLIOGRÁFICAS
+
+
+
+Aristizábal, Alonso. «Burgos Cantor: el Caribe, patio del cielo y la tierra (Anotaciones sobre la primera etapa de su obra)». Roberto Burgos Cantor: Memoria sin guardianes. Edición y compilación de Ariel Castillo Mier y Adriana Urrea Restrepo. Ministerio de Cultura y Observatorio del Caribe Colombiano, 2009. 147-177.
+
+Bolívar, Ingrid Johanna, Julio Arias Vanegas y María de la Luz Vásquez. «Estetizar la política: Lo nacional de la belleza y la geografía del turismo, 1947-1970». Belleza, fútbol y religiosidad popular. Ministerio de Cultura, 2001, págs. 45-84.
+
+Borges, Jorge Luis. «El Otro». El libro de arena. Editorial Emecé, 1975.
+
+Burgos Cantor, Roberto. Lo Amador. Instituto Colombiano de Cultura, 1981.
+
+— — —. Señas particulares: testimonio de una vocación literaria. Editorial Norma, 2001.
+
+Deavila Pertuz, Orlando. «Los desterrados del paraíso: turismo, desarrollo y patrimonialización en Cartagena a mediados del siglo XX». Los desterrados del paraíso: raza, pobreza y cultura en Cartagena de Indias. Edición y compilación de Alberto Abello Vives y Francisco Javier Flórez Bolívar. Maremágnum, 2015, págs. 123-146.
+
+Mutis Durán, Santiago. «Reseña Lo Amador». Revista Iberoamericana, vol. L, número 128-129, Julio-Diciembre 1984, pág. 1.106.
+
+Sarabia, Rosa. «La conjunción ‘palabra-imagen’ y la vanguardia artística». Actas del XIII Congreso de la Asociación Internacional de Hispanistas: Madrid, 6-11 de julio de 1998. Edición de Florencio Sevilla y Carlos Alvar. Editorial Castalia, 2000, Tomo IV, págs. 470-485.
+
+
+
+[1]	La reseña fue incluida en un número monográfico que Revista Iberoamericana dedicó a la narrativa colombiana (Vol. L, número 128-129, julio-diciembre de 1984). Lo Amador fue publicado por el Instituto Colombiano de Cultura y la Universidad de Cartagena. Burgos Cantor rinde homenaje a su amistad con Mutis Durán al incluir su nombre en la lista de personas que han comprado boletas para una de las rifas que organiza la madre de Mabel Herrera, la protagonista del cuento titulado «Historias de cantantes» (20). La misma lista incluye el nombre del escritor José Viñals. Sobre la relación entre escritura y amistad en la obra de Burgos Cantor, ver «Burgos Cantor: el Caribe, patio del cielo y la tierra (anotaciones sobre la primera etapa de su obra)» de Alonso Aristizábal.
+
+[2]	La novela La ceiba de la memoria recibió el Premio de Narrativa José María Arguedas de Casa de las Américas en 2009 y fue finalista del premio Rómulo Gallegos el mismo año.
+
+[3]	Ver «Estetizar la política: lo nacional de la belleza y la geografía del turismo, 1947-1970» de Ingrid Johanna Bolívar, Julio Arias Vanegas y María de la Luz Vásquez, en Belleza, fútbol y religiosidad popular. Bogotá: Ministerio de Cultura, 2001 (45-84).
+
+[4]	Burgos Cantor estudió Derecho y Ciencias Políticas en la Universidad Nacional de Colombia en Bogotá. Publicó su primer cuento titulado «La lechuza dijo el réquiem» en 1965, en la revista Letras Nacionales editada por Manuel Zapata Olivella. En 2015, la Universidad Nacional de Colombia le otorgó el título de doctor honoris causa.
+
+[5]	Vicente Martínez Martelo fue alcalde de Cartagena entre 1951 y 1953, y entre 1960 y 1961. El nombre de su esposa era Laurina Emiliani Vélez.
+
+[6]	Parte del rodaje de la película Queimada se realizó en Cartagena en 1968.
+
+[7]	Lo Amador puede vincularse además, tanto temática como estéticamente, con películas como Los olvidados (1950) de Luis Buñuel y Chircales (1972) de Marta Rodríguez y Jorge Silva, las cuales abordan temáticas relacionadas con el crecimiento acelerado de las ciudades latinoamericanas en el siglo pasado desde perspectivas distintas.
+
+[8]	Agradecemos a Adriana Urrea Restrepo por sugerirnos este término. Agradecemos también a Gina Beltrán y Shanna Lino por sus sugerencias.
+
+[9]	«El otro», de Jorge Luis Borges, hace parte de El libro de arena publicado en Buenos Aires por Editorial Emecé en 1975.
+
+
+
+
+
+Para Melissa estas memorias del silencio.
+
+
+
+
+
+LA FOTO: es en blanco y negro y no tiene artificio.
+
+
+
+Está expuesta en un ángulo de un espejo en un salón de peluquería. Es de quince por diez. A la izquierda, si se mira de frente, una mujer sin aire en el cabello sonríe debajo de un sombrero de tela y cintas. Los ojos miran a algo situado a un lado.
+
+
+
+Los que saben cuentan con pelos y señales que es la reina del barrio en el instante imperecedero de saludar al presidente de los Estados Unidos, quien vino a estas costas en su flota de guerra. El presidente no aparece porque prohibieron dispararle cámaras y armas de fuego mientras caminaba. Es patuleco.
+
+
+
+Los que saben todo lo que recuerdan dicen que después del saludo con beso en la mano de la reina por parte del presidente, y genuflexión de la reina, dijo con las únicas palabras en castellano que se aprendió al desayuno que los presidentes de Colombia eran tan buenos e ilustrados que debían irse a nacer a los Estados Unidos para ser presidentes allá.
+
+
+
+Cuando alguien se mira en el espejo de la peluquería sube los hombros, se sacude uno que otro pelo de las orejas, rocía agua florida de Murray y Lanman en la cabeza y lamenta sin consuelo que nadie le cogió la caña.
+
+
+
+
+
+HISTORIAS
+
+DE CANTANTES
+
+1
+
+
+
+MAMÁ NO PODÍA CREERLO. Se pasaba diciendo que yo era una desgraciada y malagradecida que lo único que sabía hacer era estar cantando a toda hora en el baño acordándole canciones que la ponían a pensar y triste. Por eso se quedó seria cuando como quien no es con ella yo seguí barriendo el piso de cemento de la sala mientras en el radio el locutor de la mañana invitaba a Mabel Herrera su mismitica hija al programa de aficionados de la tarde. Después se cogió las manos y estuvo mirando el recuerdo de rosado que era el color desteñido de las paredes y las fotos arrugadas por la humedad y manchadas por el almidón que pegó en los días que papá llevaba la revista Carteles y no se había largado para Venezuela. Su adoración era la primera Sonora y allí la miraba cerca del cuadro del corazón de Jesús florecido con pedacitos de papel. Le pasó el dorso de las manos en un intento inútil de desarrugarla y se fue hacia el patio diciendo que en noviembre tenía que ver cómo pintaba la sala ya que no estaba presentable. La sentí recorrer - correr - re - el patio tirar alguna piedra contra las latas y cañas bravas de la cerca regar agua que recogía en una olla para que el polvo que levantaba la brisa de octubre no se metiera a la casa. Cuando entró sacudiéndose los pies ya estaba sonando el Benny en el radio con Santa Isabel de las Lajas querida que a ella le gusta mucho y dice que el Benny es asunto aparte que no necesita acompañamiento para cantar, aunque creo que eso se lo oyó decir a papá. Yo tenía el montón de basura apilada para sacarla a la calle y me hice la desentendida barriendo en lo limpio esperando su sermón y una cosa me recorrió toda por dentro cuando Albertico el mecánico que vive al lado desde el pretil de la tienda de enfrente me hizo señas con los brazos en alto como boxeador y exclamó: fuerte con el do re mi fa sol la Mabe. Ella siguió como oyendo al Benny y con un gesto de abrazarse a alguien en el aire se metió bailando en el cuarto separado de la sala por unas cortinas de flores verdes y amarillas sobre fondo morado y desde allá gritó —claro que a mí porque en esta casa apenas vivimos las dos— que si sabía dónde estaba el Almanaque Bristol. Enseguida se puso a llorar.
+
+2
+
+
+
+Mi papá empezó como tamborero del son de don Dámaso en el bar Nueva Holanda. Apenas los viernes y los sábados en la noche porque los otros días de la semana trabajaba de muellero en el terminal. Mamá nunca fue a verlo y se la pasaba cantaleteando que con tanto oficio decente por bonita vaina se le había dado a su marido. Y así se lo decía y se lo requetedecía a todo el mundo. Yo una noche me escapé a mirarlo después de la vespertina en el Laurina. El Nueva Holanda tenía unas ventanas altísimas que iban desde el suelo y dejaban la mitad de arriba abierta. Si uno quería ver era asunto de subirse en los travesaños que sostenían los barrotes. Y fue lo que hice metiéndome la falda entre las piernas para que de pronto no estuviese alguien cogiéndome punta. Al principio no distinguía nada pero cuando comenzaron a tocar una de Lucho Bermúdez yo encontré con mis ojos un sitio iluminado de verde y a todos los músicos se les veía la cara verde como marcianos y yo no sé si es ahora que ya estoy grande pero esos porros siempre me dieron ganas de jugar con la brisa y me fue dando un susto cuando vi a papá con una camisa que brillaba y las manos llenas de encajes que se movían con sus brazos y él tenía enfrente un tambor alto que golpeaba con las palmas y las mostraba y dejaba ir el brazo para golpear con el codo y lo vi tan lindo con una cara tan nueva mirando a un lado que me dieron ganas de estar con él y esperarlo toda la noche sin dormirme que no volviera más al terminal aunque no nos trajera de esas pañoletas que les regalaban en los barcos japoneses y que mamá rifaba con las dos últimas cifras de la lotería del uno al cien a quince centavos el número que tocara siempre y casi grito cuando me cogieron el pie y era el policía para que me bajara de ahí y me fuera a mi casa y por el camino no se me olvidaba mi papá y estaba feliz con ganas de tararear el porro cuando fui llegando y mamá estaba en la puerta mirando para el final de la calle y diciéndome antes de llegar que qué me había pasado que quién me las picaba yo que era para andar a esas horas y apenas entré tiró la puerta y se quedó en silencio clavada en la mitad de la sala sólo le dije que estaba viendo tocar a mi papá y dijo ella que lo malo es lo único que se aprende y me fuera a dormir rápido si no quería una limpia. Cuando comenzó a llover yo ya me estaba durmiendo.
+
+3
+
+
+
+Yo había ido algunas veces al programa sin que mamá se diese cuenta ella decía que aprendiera modistería y compráramos una Singer a plazos que con las costuras y la ropa que ella lavaba y una que otra rifa saldríamos adelante y después mandaríamos a hacer donde Bottet el carpintero de Curazao que tiene su taller en el barrio una tablilla pulida para ponerla en la puerta:
+
+
+
+MODISTERÍA
+
+CORTE Y CONFESIÓN
+
+
+
+y dale que dale con su hija Mabel Herrera modista cómo iba a dejar que yo me fuera por ahí cantando si ya cargaba la decepción de papá que se fue con su música y a veces nos mandaba cartas con unos bolívares escondidos entre el papel y los recortes en que anunciaban la orquesta en la que él tocaba pero sin pensarlo se me venían a la boca las canciones y no me daba cuenta hasta que muchacha apaga el radio qué calamidad la mía con una cantatriz y me dolía que sufriera y quería creerle en lo de su modistería y ayudarla diciéndole que cortaría unos trajes tan lindos que la mujer del presidente vendría a que le tomara las medidas y mamá sacaría la cajita de loza china que papá trajo de un barco para ofrecerle café tinto mientras un carro grande con chofer y dos motocicletas de escolta con sirena la esperan y después que ella dice cuándo volverá a probarse su vestido de organdí y satín para el baile del Corazón Sacratísimo de Jesús con escote deja olvidado un guante blanco y mamá sale hasta la tienda a pedir un cuarto de sal ahora que todo el barrio se asoma a la puerta a ver cómo se va el carro y la miran admirados y ella segura de su importancia se olvida de su marido y con tono de resignación dice en la tienda que el trabajo lo premia Dios y la mujer del presidente queda loca de contento con mi costura y más contenta cuando entra al baile con su marido y está radiante como las que se bañan con jabón Palmolive el jabón de las reinas y le preguntan que si tuvo mucho trajín para traer el vestido de los yunaiestei y qué va mija como el café del Brasil, puro colombiano si te dijera no-no-no y al día siguiente la llaman por teléfono para preguntarle otra vez del vestido porque ella es una mujer importante y como Elsa la de la novela de las tres de la tarde en la emisora Fuentes contesta con una sonrisa las preguntas definitivas y guarda en su corazón el secreto de la dicha pero el chofer ay como todos los taxistas es chismoso y revela mi nombre.
+
+
+
+MODISTERÍA
+
+CORTE Y CONFESIÓN
+
+
+
+y comienza a venir la gente cremosa en carros y helicópteros y los pocillos chinos no alcanzan y no caben en la sala y yo tomo medidas busto-cintura cadera-hombros y trabajo por el día y la noche y le digo a la mujer del presidente que nos consiga una de esas casitas que las dan para terminarlas del Instituto de Crédito para yo y mi mamá y también mi papá que ella puede levantarle su puesto de tamborero en la banda de la policía de noche de día de día de noche dándole a la máquina dándole gastándome la saliva enderezando hilos para ensartar la aguja y una vez viene una señora que quiere urgentíisiiimoo su vestido para una fiesta en el barco de un rey que vino de visita y yo le digo que imposible que es muy tarde que no le voy a quedar mal y ella es una señora como de cincuenta años y el pelo es plateado y erguida ella maquillada ella de ojos grandes me queda mirando y le da una piedra que yo no puedo atenderla entonces saca de su cartera unas tijeras grandísimas de oro y de un tajo me corta una mano y de un tajo me corta la otra y la sangre le mancha su vestido largo blanco y yo alcanzo a decirle bruja y me voy al baño a cantar.
+
+4
+
+
+
+Querida Mabe no creas me haces bastante falta al comienzo la vaina estaba peluda y me estaba cabreando por eso no te escribía para que no se preocuparan con tu mamá acá no gustan de los colombianos atacan con la documentación la carta de don Dámaso para el naiclub la entregué y al fin empecé como mesero nocturno no es lo que yo quería pero algo es algo y oigo las orquestas que se presentan con buenos cantantes.
+
+Esto es movido y muy grande uno se pierde por el día prácticamente no hago mayor cosa a veces me llaman para ayudar a cargar camiones si no voy a cine con Aquiles un muchacho de Barranquilla que vive en la misma casa y trabaja de noche en un periódico con él nos ponemos a recordar tomando cerveza en latas y él se ríe cuando le digo que tu mamá peleó conmigo y me zafó por querer andar de músico pero a veces me da como la preocupación Mabe como si yo la estoy embarrando y me sollé solito con el tambor y ella sufre yo le voy a hacer una canción ahora que sea mentado para que sienta que no la olvidé y que de cargabultos nada porque Joserraquel Mercado no hay sino uno. Aquiles me dice que tranquilo y si él lo dice analízalo Mabe que es un muchacho con instrucción y me deja saber las vainas bien a él lo echaron del trabajo por escribir que un senador se robó la plata que dieron para un acueducto y entonces se vino para que no lo mataran él dice que acá es la misma cosa y que al final le roban a uno la vida pero de pronto eso es Mabe allí en la oscuridad del bar con mi son siento que voy inventando otra vida.
+
+Pórtate bien mija y reparte esos cocos con tu mamá. Abrazos al personal.
+
+papá
+
+5
+
+
+
+Después allá en la emisora me decían que no faltara que la gente siempre preguntaba por mí pero mi mamá quería que la acompañara a cobrar la rifa:
+
+
+
+$ 0.15. Quince centavos el número.
+
+
+
+
+
+Un lindo juego de loza china.
+
+
+
+
+
+Del 1 al 100
+
+
+
+
+
+01
+
+Albertico Tirado
+
+(pagó)
+
+
+
+02
+
+
+
+
+
+03
+
+Alejo el de las bicicletas
+
+(debe)
+
+
+
+04
+
+Rosita Periñán
+
+(debe)
+
+
+
+05
+
+
+
+
+
+06
+
+La negra Bernal
+
+(debe)
+
+
+
+07
+
+Rosalío Martelo
+
+(debe)
+
+
+
+08
+
+
+
+
+
+09
+
+José Viñals
+
+(pagó)
+
+
+
+10
+
+
+
+
+
+11
+
+Catalina Julio
+
+(pagó)
+
+
+
+12
+
+
+
+
+
+13
+
+El Tunda
+
+(pagó)
+
+
+
+14
+
+María Luna
+
+(debe)
+
+
+
+15
+
+Sra. Ángela Leyva
+
+(pagó)
+
+
+
+16
+
+Atenor Jugada
+
+(debe)
+
+
+
+17
+
+
+
+
+
+18
+
+
+
+
+
+19
+
+Álvaro Cárdenas
+
+(pagó)
+
+
+
+20
+
+
+
+
+
+21
+
+Marcela Cazador
+
+(pagó)
+
+
+
+22
+
+
+
+
+
+23
+
+Alicia Padilla
+
+(pagó)
+
+
+
+24
+
+
+
+
+
+25
+
+Moncha Mercado
+
+(pagó)
+
+
+
+26
+
+
+
+
+
+27
+
+
+
+
+
+28
+
+Santiago Mutis
+
+(debe)
+
+
+
+
+
+y casi nadie quería comprar porque todo el barrio tenía ya loza china pero no era fácil dejarla con su papel vacío y aguantarle la decepción cerrando las ventanas la puerta de la calle como si un luto sin muerto se metiese de semana en semana en casa y el nombre el recuerdo la música las cartas la ausencia de papá convirtiéndose en un agravio que la pobre sobrellevaba de la tienda a la casa de la casa a llevar la ropa que lavaba y planchaba sin cantar y de pronto se me salía y me atrevía a decirle que se dejara de eso que tanta faltedad pero ni así y lo único para consolarla era una canción que a ella la molestaba y con una rabia que llegaba a mí y yo cantando qué otra cosa hacía si no era por maldad ni por mortificarla.
+
+6
+
+
+
+Primera carta de Mabel Herrera a su querido papá en el exterior.
+
+
+
+Enero 6 de 1976
+
+Querido papá:
+
+No sé, pasó el año nuevo y estuve en el baile donde las Cárdenas, ahora, ahora se mudaron para la calle Piñango, apenas llegaron los pitos y el abraza que abraza no pude aguantar las ganas de llorar y me fui corriendo hasta la casa para darle el año nuevo a mamá, ella estaba también llorando y con las luces apagadas cuando me abrió la puerta y me abracé a ella me di cuenta de que su llanto no era igual al mío ni al de la otra gente sino una cosa triste que se estaba comiendo todo entonces ya no volví a salir ni siquiera después que fueron a buscarme y sentí que no había dicho ni mu a tus cartas que las tenía todas en el escaparate amarradas con una cinta verde y me quedé en la sala leyéndolas otra vez y pensando pensando pensando cómo decirte si nunca hemos hablado si nunca supiste que yo me iba escondida a verte tocar y era para mí eso lo más lindo de ti pensando en la lección de preceptiva del Octaviana del C. Vives el colegio donde no volví desde que te fuiste la lección de cómo escribir una carta comercial, a un ser querido a un señor desconocido, estimado, recordado, respetado, nunca olvidado o apreciado señor a secas de pésame de congratulación de reclamo o de esas para contar los atropellos del destino al Diario al buzón de la Doctora confidente pero ninguna me servía para lo que yo quería contarte y no irse uno de pura rimbombancia de puro aguaje y a la hora de la verdad nadie sabía de este poquito de cariño que uno cuidaba día por día para no pasmarse.
+
+Aquí en el barrio preguntan por ti, casi siempre a mí porque a mamá enseguida le brinca la tristeza a la cara. Jugada, el ayudante de Albertico Tirado dice que está cabreando con la mecánica y ahora se las tira de artista, le dieron un papel en la película que está haciendo un italiano y cambió hasta el caminado pero la familia está contenta porque ya no se la pasa entrando a los bailes con grasa en los bigotes y el rollo de los carburadores y el diferencial que cuando tenga billete te manda a decir embala y ponen una orquesta en compañía para que arreglen el poco de canciones que él tiene guardadas. Mejor sigo mañana porque me está dando sueño y comienzo a pintar disparates.
+
+Como te iba diciendo me fui de sueño pensando que uno no habla que ahora que yo quería escribirte no tenía ninguna clave y cuando nos damos cuenta estamos en nada dejando que el silencio nos golpee y nos enrede.
+
+Ahí ayudo a mamá con las rifas y con el reparto de la ropa a veces voy por la tarde al programa de cantantes aficionados no sé si puedes cogerlo desde allá en el radio, es a las tres de la tarde. A mí como que me va a dar por ser cantante. Le pregunté a mamá si te iba a mandar decir algo pero contestó que no te conoce, ya tú sabes.
+
+Ahora se despide de ti quien tanto te quiere y te piensa.
+
+Tu hija
+
+Mabel
+
+7
+
+
+
+Al final me dijo que hiciera lo que quisiera y no contara con ella para nada que lo único de verdad verdad de las radionovelas es el sufrimiento porque del gozo y la fama olvídate y que me fuera rápido para donde me diera la gana que a ella no le restaba sino morirse que nadie podría decirle nada porque había cumplido con su responsabilidad de decirme decirme decirme decirme decirme hasta que se le rajó la boca que el trabajo es lo que manda Dios y no la sinvergüenzura de andar por allí picándosela de estrella errante y que no se hacía la esperanza de matar su hambre con mi importancia y lo demás no se lo entendí ni nunca hice el esfuerzo de parar la oreja porque no tenía nada que contestarle nada que ella entendiera y le sirviera para abandonar su obstinación su irse destruyendo y abandonándose mientras todo: las rifas lavar la ropa fiar en la tienda vivir carajo iba haciéndose más difícil. A veces hablaba con Jugada el ayudante de Albertico que iba por la noche y compraba gaseosas y él se sentaba en el pretil de la puerta de la calle y me contaba de la película y preguntaba por papá que cada vez escribía menos y andaba seguramente buscando una orquesta donde fajarse con su son.
+
+Siempre pienso que en estos días que ella no quiso hablar más nada y no escuchaba las canciones en el radio yo sentía lo que iba a pasar y que nadie podía hacer algo por eso la noche que me dieron el premio de la aficionada del año y me hicieron cantar cuatro veces seguidas Tú me acostumbraste y vi desde la esquina de la avenida un montón de gente enfrente de la casa enseguida supe que mi mamá al fin se había cortado las venas y empecé a llorar con estas ganas tristes que todavía me vienen cuando estoy cantando en el Portobelo enfrente del mar y la noche se va pintando allá lejos de un blanco lechoso y me da rabia y tristeza y es el mismo llanto de aquel día.
+
+
+
+
+
+EL OTRO
+
+
+
+1
+
+
+
+ATENOR JUGADA NUNCA hizo cosa distinta a encontrarse con la desgracia. Parecía que la tuviese enredada desde chiquito y la cargase con una inocencia más tenaz que su resignación. Cuando comprendió que ya no sería famoso como cantante, que los temas que decía inventar habían sido grabados años antes por personas a quienes visitó primero la inspiración, se le dio por ser mecánico. Cómo desmontó carburadores y malarmó turbinas resolviendo a golpes de martillo lo que no cedía a su paciencia o a su intuición, es asunto que sólo podría decir Albertico Tirado, de quien era ayudante.
+
+La mecánica de Jugada terminó abruptamente un mediodía, con la caja de velocidades de un destartalado Chevrolet 23 sobre una pierna. De allí lo levantaron, más para que silenciara sus irrepetibles alaridos e imprecaciones, que por la gravedad dada al asunto, y volvió al barrio arrastrando un pie cubierto de yeso, apoyándose en un bastón de guayacán.
+
+Nunca sabremos si fue el yeso, o el inicialmente torpe uso del bastón, o algún sufrimiento no exteriorizado en su rostro antes moldeable a las más ligeras sensaciones, o una decisión secreta, pero lo innegable es que cuando Jugada volvió a estar con nosotros sentados en el pretil, bajo la luz del poste, el único del barrio salvado de las certeras piedras de los hijos de Rosa Pinto, ya no fue más el mismo. Siempre que lo contamos, no falta quien pregunta que quién era el mismo. Pero basta conocer al distinto para no olvidar que ese que se sentaba con dificultad en el pretil, dejando estirada la pierna del pie enyesado y recostando a un lado su bastón cuando se cansaba de pintar líneas sobre la tierra, ese, ya no era Atenor Jugada, o era otro que comenzábamos a conocer.
+
+Él, que fue pura verba, se tornó un hombre callado, de ojos apagados, y apenas nos decía una que otra noche, cuando no se metía en el Laurina a repetir películas de Clavillazo o Pedro Infante, nos decía «a mí me jodió la vida».
+
+Sin repelencia y de verdad verdad nunca entendimos, apenas y medio medio, al final, ese final por el cual empieza la más nimia referencia a Jugada, qué quería decir con esa vaina de «a mí me jodió la vida».
+
+2
+
+
+
+Cuando yo me rompí la pata se me dañó la movida con Pontecorvo, el italiano que tiene enredada la ciudad con su cámara acción y el poco de fusileros. Él me había dicho que debía presentarme a las seis de la mañana y que tal vez servía para tenerle el caballo a Marlon Brando, cuando él se baja, solo, sin escolta —qué cojones— a hablar en esa playa desierta con el negro Evaristo que se sublevó y tiene al blanquerío cagado de miedo. Pero qué va, a mí me persigue la de malas, preciso un día antes se me vino encima la caja del Chevrolet con todos los piñones, y la madre, eso me dolió, pero más me dolió cuando voy yo todo preocupado porque a lo mejor el italiano ha tenido que suspender su película por culpa mía y qué va el man está fresco y me dice que si todavía tengo el bastón y el yeso me llamará para una película de los milagros de la Virgen de Fátima. Eso es barro que a uno puedan reemplazarlo y confundirlo con cualquiera, yo que nunca he confundido a Sofía Loren con Ana Magnani, y eso que las he visto apenas dos veces en mi vida, una en la vespertina del Laurina, y otra en mi álbum de los caramelos Artistas. Pero a la larga estuvo bien porque siempre, hasta en las películas, quieren que uno salga de sirviente, y como en esos días pasaron en el Laurina La batalla de Argel, la película anterior de ese italiano, yo me la vi enterita y así para sacarme la tristeza le mandé una carta y le dije que se quedara con su cine culo que yo no trabajaba sino en La batalla de Argel y que para lo de la Virgen de Fátima se buscara otro marica. Aunque me hubiera servido porque yo estaba cabrero con la mecánica, con el Albertico Tirado que desde que el hijo se salió de la escuela y se le dio por vendedor de lotería anda con la piedra afuera y me la tiene más adentro que el putas.
+
+Fíjate, siempre así, yo que nací cantando, cuando quería contar mi invención ya alguien me la había robado. Nojoda yo no sé qué pasa, pero a mí como que me tocó este rinconcito del mundo donde todas las vainas ya pasaron.
+
+3
+
+
+
+Atenor Jugada sobrevivía a sus encuentros con la desgracia. Parecía una lucha de la cual él salía revolcado y sonriente a buscarla de nuevo con la secreta seguridad de ganarle un día y amarrarla para siempre. Albertico Tirado dice que no es por hablar mal de la gente o porque él esté emputado por la facilidad con que Jugada espantaba a sus clientes, pero que todo el asunto viene de la mascarilla con éter que le pusieron a la mamá de Jugada la vez que lo parió que le dejó un recuerdo tan punzante y feroz que Atenor Jugada es el único hombre en el mundo que está seguro de no haber soñado que nació, que lo recuerda con pelos y señales y para rematar, agrega Albertico, está convencido de que él nació de una mamá muerta. No es por dejarlo por mentiroso pero cuando Tirado se toma más de veinte cervezas en la tienda, se inspira, por eso le preguntamos al maestro Alejo, el de las bicicletas, que tiene fama de hombre serio, y se quedó sin decir ni sí ni no.
+
+Lo que también es cierto es que Jugada nunca habló de eso, quién sabe si en la intimidad de la sombra de los carros, apretando alguna tuerca, él, como al desgano, le contó algo a Albertico, historia dudosa, pues lo que Atenor más hizo en su vida fue tararear canciones. Siempre le reconocimos una memoria feliz, tanto, que llegamos a pensar que él fuera el autor, por lo minucioso y fiel que era al reconstruir los sones, a veces muy viejos, pasados de moda, y que ya ninguna emisora repetía.
+
+Pero cuando regresó cojeando, arrastrando el pie enyesado, agarrándose a las paredes y a las cercas porque aún no tenía su apoyo de guayacán, no volvió a tararear canción ninguna, ni a repetirnos los gestos con los cuales Clavillazo asustaba a la muerte, o ese nunca olvidado con el que Pedro Infante arrastraba el ala de su sombrero para golpear la indiferencia que enjaulaba el corazón de la amada mientras comenzaba a salir, recóndita, la canción: tú pa’ bajo miras muy poco, y sabíamos que era verdad porque Atenor Jugada vio todas las películas de su vida en el teatro Laurina y cuando la gente se cabreaba porque repetían las películas y le tiraban a la cartelera siguiendo a los hijos de Rosa Pinto que animaban al personal para irse a los teatros del centro, Jugada se quedaba, con los brazos abiertos en la última banqueta, encaramando los pies en el espaldar del frente, riéndose solo y disfrutando la película como si fuese otra vez la primera vez. Por mi madre, hoy sé que Atenor Jugada sentía que el barrio era su reino y que él nos iba a regalar la dicha el día que espantara a la desgracia, cogiéndole el culo a la muerte.
+
+4
+
+
+
+Cuando yo me rompí la pata pensé que ya era lo máximo de mi saladera, que era preferible pedirle a uno de los choferes de camiones que reparaba Albertico que me llevaran de ayudante hasta Medellín donde hay buenas casas de discos, o siquiera me dejaran en Sincelejo a ver si pegaba como cantante en una de esas orquestas que durante el verano recorren la sabana y de las cuales han salido tantas voces renombradas. Claro que yo le metía cráneo a la ida y no dejaba de asustarme el ver que el único que había emigrado era el papá de Mabel Herrera y eso que él era un veterano se le mató la mujer de rabia sin conocer la canción que le tenía prometida por eso le daba largas a la idea sin atreverme a alejarme mucho esperando alguna ocasión o buscándola desde que nací buscándola sin saber bien qué es lo que quieres encontrar pero pendiente porque si yo estoy seguro de una vaina es que esta mierda que nos tocó no es la vida y si me viniesen con la carreta de que más vida para dónde que si acaso no estoy viendo los lentes que hoy se pone el maestro Alejo para nivelar los aros cuando antes los nivelaba a pura uña entonces sabría que nos habían estafado y tronco de estafa y allí sí de qué servía abandonar mi barrio y andar de un lado y del otro con la misma ropa anda compadre en un mundo en todas partes ajeno y así fui entendiendo que yo nunca iba a ser ninguno de los que quería ser a pesar de que lo quería con unas ganas del carajo y pedía esa oportunidad que queremos todos todos esa pelea que se quedó esperando Rositto hasta que lo cogió la vejez ese juego contra Cuba que quería otra vez Petaca Rodríguez y que se lo quisieron cambiar por un puesto de policía y el hijo de Alejo que con todos los neumáticos que remendó para pagarle la medicina no pudo ser el médico que este barrio de mierda necesitaba y el papá de Mabe allí en Venezuela solito pasando los años sin encontrar la orquesta que él quiere para su son y después dicen que estoy loco si yo hablé con Mabel Herrera que canta por la noche en el Portobelo en los descansos de las orquestas invitadas o cuando no quieren pagar y ella me dice las noches en que consigue que me paguen por atender el aparato de sonido me dice Atenor yo no sé qué pasa pero nos están matando.
+
+5
+
+
+
+Atenor Jugada volvió un mediodía, sin yeso, con su caminar desbaratado, cambiando el paso cada vez que tarareaba un ritmo distinto pero no nos dejó ver su sonrisa de calle entera y conservó el bastón. Él dijo que para espantar a los perros y nos sonreímos porque si hubo alguien que pudiese andar por estas calles a cualquier hora de la noche sin que los perros dijesen ni mu, ese, sin equivocación, fue Jugada.
+
+Esperamos al principio que Atenor saliese con otro de sus negocios que esperaba le dieran fama y fortuna y queríamos que le fuera bien porque esa es una de las vainas del personal, aquí podemos pelear por amoríos o porque Rosapinto no le pone contén a sus hijitos del alma pero lo que somos no somos envidiosos y al contrario nos duele cuando los manes están tristes fajados con la vida. Pero no, Atenor fresco no contaba ningún proyecto y no se reunía con nosotros. Por la noche le preguntábamos al portero del Laurina si estaría por allí y nos decía que estuvo en la vespertina y que cuando revisó las bancas y los baños a ver si alguno quería colarse para la nocturna tampoco lo había visto. Bien, a lo mejor Atenor esta vez encontraba su jugada.
+
+Por estos días una alegría comenzó a visitarnos: era una alegría mañanera y el primero que la notó, era el más madrugador, lo buscaban para desvarar carros, fue Albertico Tirado. Después, la otra gente que barría muy temprano el frente de las casas o salía al mercado. Y la primera vez fue en la puerta de la casa de la mamá de Mabel Herrera que no se le había dado por matarse todavía: encontró un bulto de azúcar, unas libras de café y unas bolsas llenas de pescado salado. A todos nos fue llegando, a veces con billetes arrugados. La mamá de Mabel Herrera dijo sin duda: es el difunto Pájaro Verde que vuelve a ayudarnos, yo siempre lo dije desde el día que la policía lo mató: ladrón que ayuda a los pobres dura más que el cobre. Alejo que está muy viejo para creer en muertos nos aseguró que era la hija del generalísimo presidente Rojas y que ya vendría a cobrarnos el mercadito. Y así pasaron esos tiempos cortos en que nos olvidamos de la ausencia de Atenor Jugada, saludándolo al amanecer del aire húmedo que se nos pega a la cara cuando él se dejaba ver recostado al pretil de la tienda aceptando que esa noche sí nos veríamos, hasta este amanecer terrible en que te vimos siempre Atenor en que supimos de una vez por todas por qué te jodió la vida y nos contamos una y otra vez para sentir cómo se jodió la nuestra.
+
+6
+
+
+
+Cuando yo me rompí la pata lo único que hacía era pensar y estar en cine y cuando más pensaba era al mediodía que me acomodaba a la sombra de las cercas de latas para que el sol caliente no me sancochara la pierna dentro del yeso y apenas sí se movían las hojas de los palos de bonga en los patios y los de la calle como si el silencio saliese de sus flores de algodón y las moscas se escondían y pensaba y ahora qué cuál es tu próxima movida y sabía que hasta que armaran otra película o encontrase una orquesta para inventar mis sones sin que me los robaran aparecía primero el hijo de Limber y se me fue ocurriendo que en tanto yo podía ayudar al personal inventando una esquina bacana no para que me pusieran una estatua como la de la Virgen de la Candelaria a la entrada del barrio sino una esquina donde íbamos a hacer nuestra vida sin tanto pato sin tanto fracaso y donde iba a llegar toda la gente hasta los muertos que queríamos y que se habían muerto sin terminar la vida y de pronto, acabada esta franja de quietud que era el mediodía yo volvía a pensar si acaso no me estaba sollando si no sería la luna que me estaba amarrando los sueños o la oscuridad del teatro Laurina o la pensadera de todas las cosas que me pasaban que nos pasaban y que nos iban dejando sin aliento para una canción para para mi canción la la la la la la laaaaaaaa la la la la la la la la la-pam-pam-pam-pam-pam y ya me iba parando de mi reposo me lavaba la cara para espantar el calor me echaba agua en el pelo ahora que puedo peinarme sin llenar la peinilla de aceite negro ni de carbón y le hablaba a mi carátula en el espejo con sus marcas de granos y los pelos que me dejo a ver si perfilo un bigote como el de Pedro Infante en el pedazo de espejo que aquí usamos con su aviso de mejormejoramejoral y le decía tranquilo viejo Jugada que más se perdió en Corea y si no fue en esta película será en la otra en la que me voy a salir de la pantalla del Laurina para tocarle el hombro al personal y decirle en voz baja: guíllate que te están velando y él entendía y dejaba su cara de palo y de entre las nubes manchadas de esa luna vieja me tiraba una sonrisa cerraba un ojo caminaba con el bastón al aire hasta volverse chiquito como las agujas del carburador como la mano de la novia en la vespertina de ayer que se va y se va y se va y se va hasta que ya no se ve y se convierte en una lágrima y se oye un suspiro y ahí viene el END agigantándose como un edificio que nos aplasta que se derrumba que nos despierta a esta mierda y ya no era mi testigo sino mi compinche en estos mediosdías sin aire en que supe que no iba a perder más que cuando me quitaran el yeso yo comenzaba a inventar un cielo aquí.
+
+7
+
+
+
+Atenor Jugada terminó por encontrarse con la cara misma de la desgracia. Nadie ha olvidado cómo se instaló en el barrio y ahora todos sentimos que anda suelta recordándonos a diario la ofensa. Sucede siempre: caemos en el recuerdo y el recuerdo nos va dando una pista nos va mostrando las vainas de otra manera, así como en la época que Atenor nos contaba de manera distinta noche tras noche la misma película que él volvía a ver y a ver. Y lo peor es que a pesar de que sabemos que ya lo sucedido es inmodificable, cada día está más lejos en un sitio donde no lo alcanza nuestro rencor, seguimos volviendo a su minucioso inventario, al recuento que tiene un hecho indiscutible: ese amanecer desde la nochecita los perros estuvieron ladrando diferente, no era ese ladrido usual con el que persiguen a las ratas sino uno lastimero, lleno de quejas contra alguien al cual le están advirtiendo que equivocó la calle y la puerta y les responde a botellazos. Le preguntamos a Alejo y él nos dice que lo sintió, que se dio vuelta en la cama y pensó que si se querían robar las herramientas y las bicicletas que tenían desarmadas que se las robaran que él ya estaba muy viejo para salir a decirle a los ladrones que no fueran tan hijueputas y se durmió otra vez. Hay dos personas en el barrio que dicen haberlo visto todo: lo bajaron de un camión, de color gris, como los de la policía, y lo fueron arrastrando, jalándolo por las piernas, hasta dejarlo debajo de la luz del poste, el mismo alrededor del cual seguimos reuniéndonos. Ellos vestían de civil y uno era un poco gordo. Por el sonido del motor, porque el camión lo dejaron prendido y seguramente había otro a la cabrilla, Albertico Tirado dice que seguro era un Ford 55, también como los tiene la policía. Eran las cuatro y media de la mañana y lo dejaron mirando para arriba, al cielo de agosto que no tiene luna pero sí mucha estrella errante. Ninguna de estas dos personas pudo imaginarse a quién bajaban y dejaban allí tirado. Pensaron que un mal sueño se había pegado a sus ojos y volvieron a la cama. Pero hubo otro que a las cinco de la mañana, aburrido del calor que de julio queda en agosto, salió al patio y miró por encima de la cerca de latas y cañas bravas y allí lo vio, enterito, con una risa de calle a calle y pensando que estaba borracho desamarró el alambre del portón y salió a despertarlo. Antes de agacharse comprendió todo, sintió que su vida era una mierda, que no había meado desde la noche anterior y le vio por el otro lado de la sonrisa un hueco sanguinolento y ennegrecido por el que se veía la lengua destrozada y no le encontró salida.
+
+Tenía el cabello alborotado y sucio.
+
+Por mi madre, desde que mataron a Atenor Jugada, en este barrio los niños se mueren de lombrices, las mujeres de tristeza y los hombres de miedo. Yo no sé si eso pasaba antes, pero sólo ahora, desde que Atenor no volvió al teatro Laurina es que nos damos cuenta.
+
+
+
+
+
+ERA UNA VEZ UNA
+
+REINA QUE TENÍA
+
+
+
+CUANDO EL SEÑOR PERIODISTA lo preguntó yo me quedé como lela. Nunca se me había ocurrido. Verdad, uno qué se va a poner a pensar en eso. Y me quedé tratando de esconder el silencio con una risa de boba y pensando en lo fácil que fueron las otras preguntas. Pero el man debe ser buena gente porque no insistió y me dijo que entonces para terminar qué era lo que yo más deseaba y una vez se lo contesté, cortico y misterioso como él no lo esperaba, apagó la grabadora. Después, mientras se tomaba la cerveza que le ofrecí me dijo que las fotos iban a quedar chéveres, sobre todo la que me disparó en la puerta de la calle donde tiré mi risa al sol como uno de esos batazos profundos de la «Yuya» Rodríguez cuando jugaba en la novena del Torices y que él estuvo por aquí el año pasado cuando encontraron el cadáver de un mecánico y fue al entierro y le tocó salir corriendo porque el personal cabrero levantó a piedras un carro de la policía. Yo estaba emocionada y nerviosa y trataba de contenerme cuando el montón de gente que se apiló en la ventana de la sala y en la puerta lo interrumpían con a mí una foto señor y silbaban y de pronto alguno ya estaba en la mitad de la sala diciendo a mí no me empujen. Él terminó la fría, me dio las gracias y yo le recordé que estaba invitado al baile que ojalá viniera que en serio que íbamos a tirar pasos en los patios en la calle hasta en los techos y que el único pedazo de calle que íbamos a respetar era ese donde encontraron a Atenor Jugada porque lo que éramos no olvidábamos nunca y nos la iban a pagar. Él me prometió que tan pronto saliese de su turno en el periódico arrancaba para acá y que le guardase una canción para bailarla conmigo. Lo acompañé hasta la puerta, vi cómo el personal se regaba por la calle gritando vivas al barrio y me metí enseguida para cambiarme el traje de satín rosado y organza que me puse para las fotos y que ya empezaba a sudarse. Entonces me quedé en calzones y sostenes y me tiré a la cama. Antes de quedarme dormida alcancé a oír a mi mamá que decía si sigues así sin almorzar vas a quedar más seca que un palo de escoba, Dios mío ayúdame para no acabar sollada y tirando piedras.
+
+
+
+
+
+Cuando el señor periodista lo preguntó me di cuenta de que yo jamás me lo había preguntado ni siquiera cuando no hacía más que oír las radionovelas en el RCA Victor que tenía papá para patearse la serie mundial de béisbol. En esa época los programas sí eran buenos, lo ponían a llorar a uno desde las primeras entregas porque comprendía clarito las injusticias del mundo y no me hacía ilusiones de nada ni le comía carreta a la gente porque a mí no me venían a engañar y por eso decían que yo me la tiraba de indiferente que me las picaba de reina y le contaban a mi mamá que yo sé era pretenciosa. Claro que cuando iba al Octaviana del C. Vives yo disimulaba y hacía como si creyera todo el cuento de los misterios gozosos y a veces me ponían a izar la bandera amarillo azul y rojo la bandera colombiana delante de todo el colegio que formaba como un batallón que iba a entrar por la puerta de luz que es un libro abierto para recuperar el canal de Panamá y el rojo que es la sangre derramada de nuestros héroes y el amarillo que son las riquezas de nuestro suelo y el azul que son los océanos que nos rodean y el cielo Libertad y Orden y marchando al salón cantando el himno del colegio y seguir preparándonos porque éramos la esperanza y la semilla de nuestra querida patria rataplán-rataplán-rataplín-plan-plin. Y a veces lo recordaba como una época que yo había desperdiciado sin razón concediendo que la alegría de papá y mamá era mi alegría y que ellos sabían bien por qué decían que aprovechara ahora que podía estudiar cuando ellos no tuvieron por desgracia esa oportunidad y que así podría irme a vivir a otra parte y trabajar en una oficina y no igual que mamá a trabajar de sirvienta por días pidiendo las sobras de las comidas para completar acá y la carta de la patrona para que me dieran el cupo en el Octaviana del C. Vives o papá tirando mezcla todo el día en los trabajos de construcción cuando había trabajo si no a tirar polín rebuscándose y tantas noches en que me estaba quieta casi sin respirar en un ladito de la cama sufriendo por lo que mamá y papá se decían que siempre era lo mismo pero que cada vez tenía más y más rencor y papá se bajaba de la cama de lona que crujía y se la pasaba la noche entera en la sala al lado del RCA Victor que prendía bajito para escuchar boleros de Daniel Santos y yo no podía dormirme o tenía sueños horribles en los que buscaba a mi papá entre maderos amontonados ladrillos pilas de arena botes de cemento y comenzaba a subir por edificios en construcción con escaleras de tablones cuando de pronto lo veía en el último piso encima de un andamio a punto de romperse y allí me despertaba y oía el ronquido triste de mamá y repetía la lección de religión Dios nos hizo a su imagen y semejanza Dios nos ama y me daba vueltas contra la pared para pensar qué Dios tan mierda cómo nos odia.
+
+Cuando el señor periodista lo preguntó yo me quedé como lela. Las otras preguntas sí se las fui contestando de rapidez:
+
+………………………………………
+
+Mi principal pasatiempo es leer novelas de amor
+
+………………………………………
+
+1,68 de estatura, 80-64-94 centímetros de busto, cintura y cadera en su respectivo orden
+
+…………………………………………
+
+Mi música preferida es la de long play
+
+…………………………………………
+
+La mujer debía usar sostenes porque es una prenda que ayuda a la mujer
+
+…………………………………………
+
+Los hombres son necesarios porque sin ellos es imposible formar un hogar
+
+…………………………………………
+
+Mi baile se llama «con el aparato afuera»
+
+…………………………………………
+
+Estoy feliz con el señor alcalde que me pasó la cuchilla por el frente
+
+…………………………………………
+
+Y ya eran como las cuatro cuando mamá me jalaba por el brazo y decía angustiada que me levantara que habían llegado los señores del aparato de sonido y preguntaban cuántos parlantes se iban a instalar en la puerta de la calle y tenía que peinarme y arreglarme bien para esperar a los invitados y a la junta del barrio. Que ya estaba allí hacía una hora la muchacha de las uñas para retocarme el esmalte que no fuera tan tranquila pero que a ultimadas horas la reina era yo y no ella y nadie la mandaba a ser tan pendeja para sufrir por mi indolencia que me levantara y viera que estábamos de buenas porque no había llovido. No había llovido y era noviembre.
+
+
+
+
+
+Cuando el señor periodista lo preguntó me di cuenta de que yo jamás me lo había preguntado ni siquiera esa tarde que volví del Octaviana, me quité el uniforme y me puse una falda vieja y cuando me acerqué al RCA Victor para prenderlo mi mamá salió del cuarto, yo no la sentí, y me dijo que no lo encendiese que le hiciera aunque fuera ese favor. Me quedé mirándola mirándola, al principio con ojos de pura repelencia de cálmate hasta que ella se me vino rápido pensando yo que me iba a pegar, y metió la cabeza contra mi hombro y comenzó a sollozar despacito después lastimeramente y era un revuelto de gemidos que me retorcían el estómago que me retorcían la vida sin entender nada sino de pronto que ella decía qué mal habré hecho para que se ensañe el destino conmigo con nosotros si él salió esta mañana y ahí mismo pensé en papá me quedé como paralizada envuelta en un aire que como que me comía la lengua me comía los ojos me comía la nariz me comía el oído me comía las piernas y yo apenas era un asombro húmedo una herida desconocida que van abriendo de a poquito y los alaridos de mamá mientras va llegando gente llorosa y logro dejarla en otro hombro me salgo al patio y quedo contra el totumo mirando el cielo que es amarillo que se vuelve morado que no se me olvida más nunca caminando a la emergencia del hospital Santa Clara atravesando esa luz gruesa y gris que me seca los ojos que me pega este noviembre como una olla de agua sucia tirada en mitad de la calle.
+
+Al año siguiente ya no volví al colegio, me quedaba en la casa mientras mamá se iba a trabajar porque la situación así decían en los partidos de béisbol que oía papá cuando él bajaba la cabeza y pegaba la oreja al radio metiendo las manos entre los muslos apretados la situación se ponía mo-ro-li-ne así decían para nombrar la brillantina que usaban y ponía el cabello sedoso brillante resbaloso como una bola con bases llenas y dos outs y la maldita mano sudando situación moroline ahora que el billete no daba para comer y yo tenía que ver qué hacía qué hacía si desde esa tarde que volví del Octaviana el tiempo se me volvió un odio unos sueños que me dejaban los ojos doloridos con papá que no lo encontraba sino perdido dando vueltas mientras caía de edificios muy altos qué hacía qué hacía.
+
+
+
+
+
+Cuando el señor periodista lo preguntó yo me quedé como lela. Pero al final todo resultaba a tiempo dentro del tiempo en que sentía debía moverse una reina cuidadosa de cada gesto de cada palabra de eso que quedaría fijado para siempre en la memoria del barrio en las fotografías de los periódicos en las grabaciones de las emisoras en las paredes en mis sueños asustados y tristes en el olvido y mamá con una flor de heliotropo en la cabeza se metió en la cocina y el presidente de la junta del barrio me tomó del brazo en la mitad de la sala y se puso a mirar el suelo mientras sonaba el himno nacional y todos aguantando la risa cuando desde la calle alguien gritó que si la reina era Gloria o Aracely y repetía oh Aracely inmortal después me soltó el brazo y poniéndose de manera que pudiera mirar a la gente y a mí dijo un discurso muy lindo como a la bandera y la belleza es barro del barrio Aracely plateado de luna lengua inmortal decir no pudo yo te ofrezco en este día sublime alma vida y corazón y de paso recordó a papá diciendo que él estaría contento de ver a dónde había llegado su hija él que murió en cumplimiento de su deber como los hombres de este barrio donde es muy difícil morirse vivo y ya me iba dando piedra que tuviera que mentar a papá cuando dijo algo tan fuerte con todo el grito que alzó los brazos y la voz casi lo eleva: viva la reina he dicho y sonó el son mientras se inclinaba con la cabeza y la espalda y dejaba una sonrisa para tomarme la mano y adelantar el primer paso y yo buscaba el mío hay una voz que te dice perdido en el momento en que la música se vuelve baile y la gente le deja a él la primera pieza con la reina y me sumerjo en su baño de alhucema.
+
+Cuando el señor periodista lo preguntó me di cuenta de que yo jamás me lo había preguntado ni siquiera cuando no sabía qué hacía qué hacía y no tenía ganas de hacer nada me quedaba en la cama oyendo a mamá que arrastraba sus pasos hasta la cocina en el patio para calentar el poco de café que se tomaba antes de irse a trabajar poniéndose una toalla sobre los hombros tapando el cuello para que la humedad de las seis de la mañana no la encalambrara y cerraba la puerta con una calma con una calma.
+
+Yo esperaba que ya no se devolviera y me levantaba a encender el radio que ella no aceptaba ver prendido porque le recordaba a papá y allí mismo llorar y me ponía a arreglar las camas a barrer la casa a sacudir el polvo a pensar en nada y bañarme y unos días pedirle el favor a los vecinos que me echaran un ojo a la puerta mientras iba hasta el centro al puesto de revistas del señor Marulanda para que me cambiara los tomos que había leído y una vez me completó porque no llegaron las de Corín Tellado y con una de uno que no conocía Aura o las violetas y me la pasaba lee que lee a veces ilusionada con encontrar una historia distinta que no se me olvidara nunca que inventara una vida sin tanto llanto una vida en la que los únicos tropezones de la gente fueran con la felicidad pero nada y el señor Marulanda cuando le preguntaba me decía que ni las historias de hadas que fuera a cine que a lo mejor ya el cine había inventado esas mentiras y gente que se las creyera pero no iba mucho a cine prefería quedarme leyendo y escribiendo cartas que nunca enviaba al periódico sobre los cantantes aficionados que oía hasta que llegaba mamá al anochecer y a veces traía carne guisada y arroz de fríjoles cabecita negra que había hecho para la comida esa tarde en la casa donde trabajaba y nos sentábamos juntas a comerlo medio hablando de ese mundo casi aburrido que soportábamos y que ella nunca se atrevería a soñar diferente.
+
+
+
+
+
+Cuando el señor periodista lo preguntó yo me quedé como lela. Me di cuenta de que yo jamás me lo había preguntado. Ni siquiera. Cuando empezó la locura del reinado mamá todavía lloraba al acordarse de papá y de pronto resolvió que no era un irrespeto a su memoria sino un homenaje a una hija reina. Además el barrio no le hubiera perdonado un duelo que era igual al orgullo y al desprecio. A mí me daba lo mismo podía disfrazarme de reina pintar la casa de azul y ponerme una gota de perfume de contrabando en el lóbulo de la oreja. Tantas cosas se habían visto y se vivían en este barrio que una más no resucitaría a nadie. Pero qué me preguntó el señor periodista. De tanto pensarlo y pensarlo se ha gastado y es el mismo olvido. Tal vez dije algo que no se atrevió a publicar. No sé. Pero por Dios santísimo es verdad si no mire aquí mismo enfrente de la venta de cigarrillos y dulces que atiendo aquí en la puerta del teatro Laurina mire a pesar de la lluvia mire a pesar del sol de los años caballero que son los perros sueltos del tiempo. Que dice, con pintura celeste y verde, que dice, ARACELY 1.ra REINA DEL MUNDO.
+
+Lo ve yo estoy muy vieja para decir mentiras. Y así quedará para que no me olviden en todas las paredillas del barrio.
+
+
+
+
+
+ESTAS FRASES
+
+DE AMOR QUE SE
+
+REPITEN TANTO
+
+1
+
+
+
+SUCEDÍA ESE AMANECER húmedo. El salitre venía con el aire y se quedaba enredado en los cabellos, en la piel cada vez que se escurría la sábana. También estaba en la silla al lado de la cama con la lámpara, unos libros y un paquete comenzado de cigarrillos. Era uno de los amaneceres más húmedos del mundo. Y el salitre. Lo sentíamos en el piso de baldosas contra los pies descalzos cuando nos levantamos en la oscuridad para buscar el baño del patio. Primero me levanté yo y susurraste que a dónde iba. Después tú, y sucedió lo mismo para darnos cuenta de que estábamos despiertos, sin podernos dormir. Parecía la misma sensación de las veces que veníamos del mar y sin sacarnos el agua salada y la arena nos acostábamos desde la tarde.
+
+Toda la noche sentimos los camiones y los perros, los grupos de soldados dando alto y haciendo requisas, los detectives escondidos en la oscuridad silbando para avisar algo, con carreritas de un lado a otro.
+
+Ese amanecer húmedo lo encontraron. Debían ser las seis de la mañana cuando encendiste el radio, aceptando que ya no volveríamos a dormirnos y veíamos la luz por entre las rendijas de la pared de madera. Yo, de espaldas a ti, acostado sobre el lado del corazón, mantenía los ojos cerrados, sin querer abrirlos, sin darme vuelta para abrazarte y saberte allí, preservada. Hacía memoria de los días en que jugando a elegir habíamos venido a vivir en este barrio y cómo escogiste el sitio, una accesoria, así dicen aquí, casa de muchos cuartos pintada de rosado en la pared del frente y con una escalera de piedra para llegar de la calle a la puerta de entrada. En esa altura un aviso con pintura azul: ARACELY 1.ra REINA DEL UNIVERSO, que aún, descolorido, permanece. Lo demás era previsible: el cuarto que da al patio, cincuenta pesos la mensualidad, nada de ruido jovencitos.
+
+2
+
+
+
+José Raquel es negro. Tiene la frente ancha y las manos cortas. Es bracero del muelle de la machina. Cuando termina el descargue se va hasta el casino, busca detrás del mostrador y saca un saxofón. Se sienta siempre en el mismo rincón. Si es de noche interpreta blues que nadie conoce y bebe ron. Si es de día deja escuchar aires de moda y bebe cerveza helada. Nunca le cobran el consumo. A veces los oficiales de los barcos que descargan se quedan en la puerta del casino escuchando y le proponen que se enrole en la tripulación. Él apenas sonríe y no responde nada.
+
+Cargar y descargar los barcos: llenar las bodegas con los bultos y cajas. Cubrir la mercancía que no cabe con lonas para que no la dañen el sol y la humedad. Tener cuidado de no pisar las ratas gordas que corren en la oscuridad de la bodega. A veces jugar dominó a la sombra mientras los remolcadores atracan el barco.
+
+3
+
+
+
+Era ese amanecer húmedo. Sin querer abrir los ojos hacía cuentas del tiempo que juntos llevábamos aquí. Las reflexiones que repetidas hoy nos ruborizan por sentirlas ingenuas, copiadas de un gesto ajeno.
+
+Comenzó como un sentimiento compartido que fue invadiendo la relación. Una forma del hastío que por ser aceptada por ambos nos unía, agarrándonos el uno del otro. Siempre pensaste en irte, y por creer en mis historias de infancia, relatadas con pasión al comienzo de la segunda mitad de la noche, insistías en que el sitio debía ser la ciudad de la cual yo venía. Me cansé hasta la burla de volver a decirte aquellos versos del griego. Dijiste: iré a otra tierra, iré a otro mar, buscaré una ciudad mejor que esta; son un fracaso todos mis esfuerzos, y está mi corazón sin vida. Pero resultabas de mal humor, enfurruñada, gritándome que yo aún no conocía la poesía del porvenir. No sé en qué momento entendí que tú tenías la verdad. Tampoco qué elementos fueron conspirando para esa conclusión. Ahora, con los ojos cerrados, escuchando de pronto el radio que has encendido, sé con exactitud cuando te hablé de Víctor, el compañero de estudios que se la pasaba escuchando canciones de los Beatles y que leía a Sabato y a Durrel. Sé la noche en que te busqué despalabrado y a lo mejor también triste para contarte que se había matado. Te decía lenta y minuciosamente cómo se volvió a la ciudad que tú querías y no conocías. Te decía cómo compró su galón de gasolina y lo llevó hasta esas ruinas a las cuales hemos ido mil y mil veces y se roció con ella y se acercó un fósforo hasta que los gritos fueron ceniza. Sé con exactitud lo que sucedía esa noche en que te buscaba para no hallarte. Sé el silencio. No sé la aventura de Víctor. En esos días llegó la carta del periódico aceptándome de redactor y estuviste alegre cuando yo dije que al diablo la universidad y que te vinieras conmigo.
+
+4
+
+
+
+José Raquel es negro. Tiene los labios gruesos y los pómulos salientes. Es amigo de todos y los invita a su casa a jugar dominó y oír las canciones. Cuando hay problemas con los turnos o con la paga él siempre habla con el capataz y arregla el asunto. Es un burro para el trabajo y si hay que reemplazar a alguien allí está. Los que laboran en el muelle de la machina desde los celadores hasta los administradores lo quieren mucho. Si un barco vuelve a atracar después de varios meses, lo primero que hacen los oficiales es preguntar por él. Algunos le traen cuadernos de música y ron de las Antillas.
+
+Cargar y descargar los barcos: una noche él habló de que debíamos unirnos para pedir aumento de jornal, que era el momento porque en otros sitios los trabajadores del río Magdalena luchaban por ello y así les enseñábamos a los capataces que no se hicieran los locos que sin nosotros a los barcos se los comería la cucaracha.
+
+5
+
+
+
+Ese amanecer húmedo: sentía del otro lado de los ojos la claridad y el aire impregnado de salitre. Caía en la tentación inútil de conjeturar si de pronto me había equivocado. Si tú por tu lado te habías equivocado. Si la ilusión de la compañía, la negación de la soledad, nos abandonaba con un deterioro irreparable. Volvía a pensar cómo me hacía ilusión cuando fui a la universidad a terminar la licenciatura en historia y venir aquí a enseñar en la escuela. Pero entiendo que no fue mentirosa la decisión, que era lo único dentro de ese margen borroneado y estrecho que pensábamos la libertad de elegir, elegir la libertad. Y de improviso una trampa, una concesión innecesaria. Yo abandonaba la licenciatura y tú ese grupo experimental de teatro en el que trabajabas con una decisión ejemplar indiscutible. Allí te vi. Tenías el rostro cubierto de polvos de arroz y en una escena dramática entrabas a un galpón de presos para torturarlos. Llevabas unos dientes de cáscara de yuca más grandes y fieros que tus ojos que al recitar el parlamento se cayeron. Nadie dijo nada y las luces se apagaron. No pude aguantar la risa que se me vino como una tos sin control y desarreglada. Al final estaba lloviendo y mientras escampaba me tomé un café y tú viniste a hablar de la obra y nos descubrimos. Tú la de los dientes flojos. Yo el de la risa. Y la risa otra vez al buscar el sentido de esa reiteración literaria que consiste en que si uno se conoce mientras llueve termina enamorándose. Entonces te decía que cómo harían los que se enamoraban de su mujer en los almacenes de telas y en los mercados y en los buses. Y así nos vinimos a este barrio, seguros de haber hallado ese oculto mecanismo por el que la realización del destino de cada uno transforma el destino de los demás.
+
+6
+
+
+
+José Raquel es negro. Tiene el cabello ensortijado y las orejas pequeñas. Él reunió a los cargadores y operadores de elevadores y grúas delante de la oficina del capataz y dijo las peticiones que habíamos acordado. Durante una semana las repitió y siguió soplando el saxofón en los descansos. Lo llamaron una vez a la oficina del capataz y le dijeron que cuál era el desorden. Respondió que el jornal no alcanzaba para nada. Al siguiente turno el muelle de la machina estaba lleno de policías. Cuando los trabajadores firmaron la planilla para iniciar el descargue de un barco alemán, él se sentó a pleno sol en la dársena y los demás a su alrededor. Dijo que si la policía estaba allí que la policía descargara los barcos que nadie era ladrón para que lo estuviesen vigilando. A las cuatro de la tarde la policía formó y se fue encima de los trabajadores empujando y dando patadas para que despejaran. A él lo cargaron entre tres y se lo llevaron.
+
+7
+
+
+
+Amanecer húmedo: en la radio repetían la noticia. Lo habían encontrado. Tu rostro se acercó a mi espalda y estaban tus labios como una ola pequeña envolviéndome. Otra vez ese empezar, la imagen de dos cogidos de la mano inventando un mundo y que siempre se rompen el corazón.
+
+No le habíamos contado a nadie la decisión y al llegar parecíamos un par de extranjeros estrenando tierra. Yo adhería a tu alegría y quería encontrar en todo signos ocultos de la buena fortuna. De esa fortuna que cuando abandona el afecto lo vuelve una repetición, usada y triste y sucia. El trabajo en el periódico a pesar de lo rudimentario era grato. Y de vez en vez una crónica aceptable como aquella de la muerte del mecánico en la calle que está detrás de la accesoria, o el reportaje con los guerrillos que se tomaron a San Pablo, o la entrevista con una de las reinas populares. Y mantener la columna de comentarios de libros y la página semanal sobre artes cuando lo permitía el espacio. Al poco tiempo de vivir en este cuarto conocíamos a casi todo el barrio. Seguramente por la dueña de la accesoria que hablaba de nosotros en la tienda y te pedía me dijeses que publicara algo sobre las calles sin pavimentar y la falta de alumbrado.
+
+En esta época gozábamos lo que aceptábamos como una manera radical de vivir y una alegría permanente estaba en todo, aun lo más arduo que en esos días era dado por tu militancia, la que respetaba y de la cual era mejor no hablar para no sentirse abrumado por la distancia existente entre los resultados del trabajo y lo absoluto de la propuesta que compartíamos.
+
+Los domingos —mierda, te veo y me veo perdidos en la transparencia de un aire lejano, como si una nostalgia inexplicable saliendo de dentro se burlase de mis ojos cerrados y me hiciera sentir en este amanecer que nada vuelve, que ningún gesto se fija— la pasábamos en el mar hasta la noche que el agua comenzaba a enfriarse, en la playa en forma de arco, debajo de los árboles de manzanillo con su aroma espeso y nos untábamos el cuerpo de aceite de coco.
+
+8
+
+
+
+José Raquel es negro. Tiene la piel escamosa y los ojos color café. Estuvo durante dos días y dos noches encerrado en un calabozo de la cárcel de San Diego. Durante dos días y dos noches los trabajadores del muelle de la machina esperaron aglomerados frente al portón de hierro oxidado de la cárcel, en la plaza con los árboles de guinda en que los guardianes izaban la bandera. Escucharon en la noche el pito de los barcos atracando. Sintieron en la madrugada los labios salados por el rocío de la noche. Se estremecieron con los gritos de los sueños de los presos. Y en la tercera mañana del encierro cuando alguien preguntó si no percibían el olor a perro muerto se abrió el portón de hierro y salió él entre los gritos y el asombro con los ojos hundidos de la falta de descanso y lo llevaron cargado por todas las calles hasta volver al muelle. En el muelle buscó el saxofón y sin sentarse, caminando de un lado al otro, entre los trabajadores que se recostaron a las paredes de las bodegas, a los bultos, a las grúas y elevadores, sin importarle el sol que caía sobre el instrumento y sobre él disolviéndolos, inventó una canción más larga que el silbato de vapor de los barcos anunciando un nuevo año en altamar, con silencios más profundos que los escuchados por los marinos cuando la tormenta amaina y suspende un instante el universo para tomar fuerza y volver. Nadie recordó el ritmo. Algunos hablan de él caminando con el saxofón bajo el sol y rompiéndose los labios.
+
+Después dijo que la lucha continuaba y fue contando lo que ganaban y las condiciones de trabajo de los muelleros de otras partes del mundo que se las habían dicho los marineros de los barcos mercantes y mostró cómo estábamos peor que los trabajadores de Puerto Príncipe, en Haití, que no les pagaban nada.
+
+Cuando todos tomaban cerveza, la gerencia mandó llamarlo.
+
+9
+
+
+
+Amanecer: rememorando. En la radio dicen que lo encontraron en una enorme bolsa de plástico transparente y con el mismo pijama que tenía en las fotos. Alcanzo a pensar si este aire húmedo y salado me está ahogando y recorro sin desespero, con una dirección y velocidad que no logro determinar, lo que entiendo como el tiempo del amor, el tiempo para el cual nunca tuvimos una previsión distinta a enriquecerlo. Sé el color azul pálido de las paredes del cuarto, aplicado con escoba, cuyas huellas no han desaparecido. Las manchas de las goteras en el cielo raso de cartón. Los afiches que pusiste: en la pared que da contra el lado de las almohadas de la cama uno de Guevara; en la pared que está al lado de tu sueño uno de la película de Alberto Duque, un hombre vestido de blanco con un bastón blanco al aire y sombrero blanco sin rostro; detrás de la ventana que da al patio el mar y el ave y el cielo y la nube de Magritte. Sin preguntarlo aceptaba que son los motivos de cada quien y que uno desde su orilla los compartía sin saber nunca cuándo dejaban de ser tuyos para ser nuestros, ni si así ocurría, como tampoco si en ello consistía el hallazgo de esa huidiza y última armonía que mete a un ser en el otro para siempre. Lo acepté sin dudas en estos meses que viajabas con frecuencia a Medellín y Bucaramanga y me dejabas indicaciones con direcciones indirectas donde encontrarte. Al llegar del periódico, después de comer en el restaurante de los chinos un invariable arroz oriental y sentarme en los escaños del parque que tiene la estatua de Simón Bolívar, a dos cuadras del periódico, para dejar que pasara la comida, fumarme un cigarrillo, escuchar el ruido del agua de la fuente y pensar en los relatos que quería escribir y sentado a la mesa que está contra la ventana, dejando de mirar la oscuridad del patio, volvía el rostro hacia el azul de Magritte y recordaba que no habíamos hablado mucho de Magritte, que me alegré el mediodía que encontré el afiche y conjeturaba sobre esa manera no sé si lateral pero tal vez muy fresca, muy tuya de adherirte a lo que yo soñaba mi mundo, mi bajar subiendo. Curiosamente ese afiche no me recordaba sino que te recordaba y pensaba cartas que cuando decidía escribírtelas ya venías de vuelta. Ahora que no quiero abrir los ojos sé que estarán allí hasta que se borren como las hojas dentro de los libros, hasta esa transparencia quebradiza que los libera de cualquier recuerdo, de cualquier referencia distinta de ser un acercamiento a un cuadro colgado en Bélgica, a un film de un novelista que cuenta películas, a un rostro de un poeta que renovó la ilusión.
+
+10
+
+
+
+José Raquel es negro. Tiene las cejas delgadas y cortas y los hombros caídos. Resueltas las peticiones de los trabajadores del muelle lo mandaron a llamar de la capital para integrarse a la directiva de una organización de todos los obreros del país. Antes de viajar reunió a los del muelle, se despidió y les prometió que desde allá seguiría la lucha. Él viaja por el mundo y sale en los periódicos. Ya no se amarra un trapo de franela para el sudor en la cabeza y cada vez toca menos el saxo. Él no ha dicho que quiere ser presidente.
+
+11
+
+
+
+Ese amanecer húmedo. Mantener los ojos cerrados, abiertos a una visión que se obstina en reconstruir, en apuntar los momentos de una historia que corre al olvido o a los papeles que escribiré después de que entienda que la clave de toda alegría estaba en inventar e inventarnos sin concesiones, que comenzamos a desaparecer cuando la invención cede y queda la tristeza de no haberte fundado de no haberme transformado y al revés. Siento cómo te deslizas después de dejar la humedad tibia de tu aliento contra mi cuello hasta levantarte y te imagino caminando desnuda hacia el escaparate donde observas la ropa que vas a ponerte y no me preguntas qué me pongo hoy. Pienso que no hay nada que agregar ahora y que sería una vuelta inútil decirnos el sin sentido de las palabras que nadie entiende, perdonarnos la ofensa que no existe, conceder a una esperanza que sabemos ya no será tuya ya no será mía.
+
+En la radio anuncian que el entierro será mañana y que asistirán representantes del Gobierno y de los sindicatos. Te has sentado al borde de la cama para ponerte las sandalias de fique. Tendrás la camisa de cuadros naranja abierta a la altura de los pechos y una pañoleta grande, al cuello, de seda china. Prefiero sentir que no hay dudas en tus movimientos, que no hay resentimiento en la decisión y que sencillamente es así y eso nos distancia o nos muestra que la distancia estaba y es insalvable. No sé si es una obscena forma del consuelo pero creo que el tiempo que compartimos nos permitió existir buscándonos sin trampas. Y sé que voy a escribir, venciendo el temor de que la literatura sea una sustitución, escribir de este barrio plateado de luna que tiene cantantes y mecánicos y arregladores de bicicletas y a donde llegaron dos seres que querían pintar de rosado el cielo y después se jodieron.
+
+12
+
+
+
+José Raquel era negro. Tiene los ojos cerrados y no sueña. Estuvo en cautiverio durante varios días pero no en la cárcel de San Diego. Lo encerraron en una cárcel sin dirección desde la cual mandaba cartas a sus familiares y hacía análisis sobre la traición. Fue sometido a un proceso popular en el cual los muelleros de la machina votaron porque lo ajusticiaran. No se supo que en esa cárcel tocara el saxofón. En la última carta escribió: Querida: me han dicho que me van a matar pronto. Te beso por última vez. Besa a los niños. Lo encontraron ya muerto en el parque que está frente a la cárcel de San Diego envuelto en una bolsa de plástico. Estaba tibio y como dormido. Debajo de la tetilla izquierda tenía un hueco pequeño y ennegrecido en los bordes.
+
+13
+
+
+
+La humedad se va disolviendo en la transparencia del día. Escucho el rozar de la puerta contra el piso. Tus pasos en el zaguán. Espero en vano el ruido de la puerta de la calle. Me doy vuelta en la cama y aún está tu calor en la sábana. Abro los ojos y la claridad se ha regado por el cuarto. Siento cansancio y ningunas ganas de ir al periódico. Tal vez tengo todos los hilos para el reportaje del año. La mujer misteriosa que engaña al secuestrado, su vida desde que era cargador de bultos en el muelle. Pero no me importa, que lo haga Olaciregui, un periodista nuevo que se vino de Barranquilla.
+
+Hay algo que no te dije, por pudor tal vez, y es que yo no entiendo una militancia que no sirve para que la gente se encuentre y mejor que no nos dijimos lo de la violencia. Yo tengo la ilusión de que hay que alegrarse y joderse juntos y que así empieza lo colectivo.
+
+Pero escribo para que estés como Aracely primera en todas las paredes de este barrio.
+
+Al levantarme descubro que en la nube que está dentro del ala que está en el ave que está encima del mar que está dentro del cuadro dejaste escrito: te quiero mucho. No puedo evitarlo y es cursi: con mi lápiz verde le pinto alrededor un corazón.
+
+
+
+
+
+AQUÍ DONDE
+
+USTED ME VE
+
+
+
+AQUÍ DONDE USTED ME VE cuando yo vine esto no era barrio ni era nada un deseo de seguir vivos y esa ilusión de un pedazo de patio con techo para cantar por la mañana para no dejarnos enfriar por ahí dejados de la gracia y con hambre era inventar de nada con puro deseo y ganas y los pocos que éramos estábamos todos no se había muerto nadie no habían matado a ninguno y lo digo sin engaño eran los mismos tiempos de mierda que ahora los tiempos verdad son obstinados tramposos y cuando uno quiere darse cuenta lo van destruyendo mientras uno pasa no había calles apenas esos caminos que de tanto pisar dejan los pasos y la loma contra la que recostamos las casas y nos cubría del viento frío con gemidos que salía de la ciénaga un viento raro que se quedaba en los huesos como un dolor y así íbamos día a noche vive y vacila poniendo ladrillos desarmando cajas de madera y cartón y también peleando con la policía porque los terrenos eran ajenos y ese cuento para los pendejos pero aquí estamos y puedo decir sin equivocarme que en este mundo no hay sitio peor ni mejor que este y a pesar de tanto pintamos para embellecerlo y me doy cuenta aunque ya no salgo casi y pierdo esa alegría la alegría de sentir que íbamos construyendo un sitio lindo propio una estación de la felicidad y todos así Alejo que tenía una sola bicicleta antes de abrir su patio para taller y para alquilar las que iba armando las pintaba de colores de risa vanidosos brillantes toda la luz de enero y yo no veía sino brillo y príncipes y reyes y mujeres con el amor en las barajas que no dejaban asomar la desdicha y las casas fueron tomando cuerpo contra el aire azules y rosas con nombres junto o encima de las puertas y el personal cantaba y se le metía duro cargando piedras cartones maderas desde el amanecer y tan pronto regresaban del trabajo los que trabajaban después no estábamos tan apresurados con las construcciones de techos calles y desagües y aprendía a leer el destino mientras armábamos el teatro lo primero que aquí hicimos cuando terminamos las casas fue un teatro.
+
+
+
+
+
+Aquí donde usted me ve cada día más borroso el destino más perdido y claro el pasado detenida la memoria los días que parece no pasaran repitiendo su aburrido estar con muertos y vejeces con el silencio que nos deja la canción que nadie inventa recorriendo el comienzo una y varias veces sin ver allí señales de lo que se vino y sin saber buscar en el orden de las barajas el desorden del destino yo no aprendí ese buscar el destino ajeno por bruja ni por entrometida sino que un sueño me dijo que lo leyera para poder modificarlo y no entendía bien por qué hay que modificar el destino pero ya cansada y dolida esa noche que no podía dormir con la desgracia suelta por todo el barrio la noche de la madrugada que mataron a Atenor Jugada lo vi y sentí que el destino nos lo habían robado y dígame cómo vive usted con un destino prestado pero ajá ahí sigues tropezándote sin tu caminado y eso que no dejamos de buscar el paso.
+
+El personal se burla dice que no puedo leer ya el futuro y el imprevisto en las barajas porque tengo demasiados recuerdos y ciego el corazón pero vienen y me cuentan los desastres del amor lo esquivo de la fortuna lo difícil y teso de la desilusión que va gastando las ganas y vuelven a soñar con la carta que anuncia la figura a caballo en tres lunas tres sueños tres acontecimientos y no es que se equivoquen las barajas o nos engañen sino que la carta se pierde y una carta extraviada en los vericuetos del destino no llega nunca ve usted en cambio le tengo miedo a las barajas volteadas a las que se me escapan de las manos y me anuncian un dolor una pérdida por eso es que me quedo a veces mira que mira el tiempo de atrás a ver si descubro dónde se me escondió el futuro dónde se dañó y nos dejó con esta hornilla apagada y el café frío y por más que miro nada quedo loca pensando en blanco con ganas de reírme de tanta tristeza.
+
+
+
+
+
+Aquí donde usted me ve cuando yo vine esto no era barrio ni era nada y el teatro qué vaina tan linda para el llanto y para el sueño una sala grande descubierta que en el verano fresco de enero empezaba la vespertina a las siete porque no oscurecía antes y si uno recostaba la cabeza contra el espaldar de la silla veía las estrellas moviéndose por el cielo o la luna de julio que estaba encima de la sala al comenzar la nocturna y en esos tiempos íbamos más a cine que a los bailes sobre todo los sábados y los domingos que la función era con dos películas qué dobles y si llovía tocaba apiñarse debajo del cuarto del proyeccionista y ver un desierto a través del agua cuando levantamos las paredes del teatro el municipio nos ayudó poniendo el proyector y las rejas de hierro de la entrada la taquilla estaba a la izquierda un hueco redondo por el que no se veían sino las manos y se oía la voz quedó linda la fachada del frente unos girasoles de cemento en relieve encima de la puerta y dos como granadas grandes en los extremos de la parte alta coronando el nombre lo regaló el municipio y supimos que así se llamaba la esposa del alcalde la noche de la inauguración: Laurina y me sé de memoria la primera película que dieron en el teatro Laurina que para mí fue la primera primera que vi en toda mi vida y me la vi enterita veinte veces más las veces que la he soñado diga usted es una película que siempre me hace llorar como cada vez que lloro.
+
+
+
+
+
+Aquí donde usted me ve cada día más difícil lidiar el desencanto lo que queda de esa ilusión que nos ayudó a inventar este barrio y que nos mantiene vivos a pesar de todo es una ilusión duradera que de pronto nos deja morirnos sin ningún arrepentimiento y preserva el deseo que no se pudre evitando perdernos en la mentira tan sólida en estos días y lo digo no por amargura la amargura no tiene lugar en mis años ya largos y aquí que yo sepa nadie sufre de amargura eso sí los que se han matado como la mamá de Mabel Herrera se murieron de piedra usted sabe la piedra es una tristeza tan grande que no cabe en el corazón y le rompe a uno la vida pero es bien distinta la tristeza a la amargura la tristeza es por las ganas tan verracas que tenemos todos de ser felices de cantar una canción no esa felicidad idiota por cuotas sino un estado de dicha que a medida que camines aumente el goce no sé si aquí donde usted me ve será la vejez que me pone a pensar estas cosas pero yo que he corrido para ayudar cada vez que nace alguien que me sabía la historia enterita de cada uno usted cree llorando a veces detrás de la puerta por lo que iba a pasar como esa vez que le dije al papá de Mabel Herrera él vino a despedirse de mí antes de irse a Venezuela le dije si te vas y te vas a ir vas a causar una muerte se me quedó mirando y se rio vieja si yo no me voy de chofer para atropellar a nadie voy a trabajar en una orquesta ya verás que compongo la canción del barrio y te nombro a ti hasta ahora quien convence a la gente que pare su destino si el desespero acosa y no es falta de voluntad no sé si seré una mala echadora de las barajas me canso de que el príncipe en el caballo pierda el camino o el oro se esconda bajo la sota de basto y esa esperanza se haya olvidado de nosotros quiero salir gritando que esta vida se gastó que inventemos otra desde el principio igual a cuando empezamos el barrio.
+
+
+
+
+
+Aquí donde usted me ve cuando yo vine esto no era barrio ni era nada y el teatro Laurina durante sus dos primeros años seguía llenándose y cada tercer día cambiaban el programa el que más duró fue el del primer día porque la gente pedía que lo volvieran a pasar lo pasaron todo un mes y medio la primera película que vi en mi vida y siguieron con el pavimento para las calles: eso fue un discurso porque cuando tuvimos una reina Aracely 1.era todavía nos tocaba andar a brincos y por tablones en los meses de lluvia o regar agua con una olla en la calle en los meses de verano para que el polvo no nos cambiara el color de las cejas y tapara los retratos colgados en la sala pero las calles las formamos nosotros y les pusimos nombres como a las casas nombres que dependían de quien viviese así la calle de Alejo donde él tiene su taller para las bicicletas y otros que han tapado el primero como la calle donde mataron Atenor Jugada que antes se llamaba la calle Sol porque nunca daba la sombra ya ve usted qué iba yo a pensar que esto se iría volviendo un sitio tan crecido que tendría gente que no conozco gente que tan pronto pueden se mudan porque están de paso y este no es su sitio y otros que se van quedando con cariño fíjese el periodista hace ya cuánto vive en la accesoria de mitad de la calle el periodista que se le fue la mujer para San Pablo dicen que con los revolucionarios yo no sé por San Pablo hay tanto acordeonero embaucador engañan a las mujeres con los pajaritos de papel del amor que quién sabe el periodista nunca me dice que le lea las barajas se queda a tomar un café conmigo y me pregunta que cuándo fundaron el barrio que cuál fue la primera película que dieron en el teatro Laurina que cuál fue la primera película que vi en toda mi vida que por qué mataron a Atenor Jugada que cuántos se han ido para Venezuela y yo no necesito mirar las barajas para verlo a él que es un muchacho leído desde su silencio se le nota no habla mucho y es triste de esos tristes para siempre yo lo molesto y le digo que tiene que cambiar de barrio que aquí como una maldición todos vamos perdiendo algo un sueño la mujer la cabeza la vida el marido una canción a veces viene con la grabadora me rio le digo que no soy reina ni cantante no sirvo para crónicas mi tiempo se pudrió.
+
+
+
+
+
+Aquí donde usted me ve cada día más desmemoriada intento recordar y me siento sola ese solo que cubre los retratos con su amarillo hasta gastarlos me cuesta dificultad caminar no tengo dónde ir y lo único que pienso lo estoy viendo son las primeras casas el taller de bicicletas de Alejo el teatro Laurina esos días que andábamos cerca de la ilusión la teníamos agarrada pero parece que nada queda apenas el otro día fui donde Alejo para hablar sentirme acompañada en estos tiempos y el taller estaba cerrado que andaba manejando un taxi que compró y así nos fuimos volviendo parecidos a algo que no éramos que está muy lejos de lo que quisimos inventar no me quejo de qué sirve quejarse diga usted apenas lo cuento si fuera cantante otro sería el contar pero nunca me salió en las barajas la voz y se me enredan los sueños sueño que mañana despierto camino el día avivo el carbón del anafe de pronto golpean a la ventana abro los ojos es de noche y aún estoy en la cama será que cuando me sueño dormida me toca morirme aquí donde usted me ve no sé dónde tengo puesta la cabeza fíjese la primera película que yo vi en mi vida la pasaron muchas veces en el Laurina es una película italiana no era en colores el muchacho se llama Roco sí nunca se me olvida Roco tengo sueño o ganas de despertarme ahora no sé bien pero aquí donde usted me ve yo soy.
+
+
+
+
+
+LOS MISTERIOS
+
+GOZOSOS
+
+
+
+SE LLAMA ONISSA. Tiene los cabellos amarillos y largos. Cuando llegó vestía un traje rosado de flores grandes y oscuras; unos zapatos blancos de tacones altos que se le doblaban cada vez que cambiaba de mano una maleta de cartón amarrada con alambre ese mediodía transparente de agosto. Nadie podría decir de dónde vino. Quienes visitaron la pieza que alquiló al costado de la peluquería dicen que las estampas de arcángeles, santos, artistas de cine y cantantes, pegados con almidón, cubrían las paredes hasta el techo.
+
+Durante el tiempo que ella vivió en el barrio, si así puede llamarse su encierro casi permanente en la pieza, la visitó con una fiel regularidad un marinero de uniforme, quien siempre que venía se quedaba hasta el día que se embarcaba otra vez. Sólo en esas ocasiones las risas y las canciones que escuchaban dejaban saber que el cuarto no estaba desocupado.
+
+Y esa, con el día de la partida y las noticias que se regaron, hubiese sido la historia de Onissa, como la de tantos en el barrio plateado de quienes el periodista se quedó con las ganas de escarbarles el silencio, si no hubiese sido por lo que sigue.
+
+No es difícil precisar el tiempo en que ella apareció. Coincidió con los días en que el barrio fue sorprendido con el esplendor de su rotunda existencia: llegaba gente de otros sitios al teatro Laurina; en la puerta de la casa de Albertico Tirado no cabían los buses que traían para que les arreglara las máquinas; y un muchacho risueño, que acababa de venir de Barranquilla, de nombre Rosalío Martelo, trabajaba en un patio con una calma de poeta haciendo avisos de latón y remendando guardabarros y chasises. Alejo, el de las bicicletas no hay que mencionarlo, tenía cuarenta y dos y un rostro de pobre próspero.
+
+En verdad, Onissa apareció. Y cuando las mujeres del barrio quisieron agraviarla se lo gritaron: aparecida. Pero ni siquiera allí ella rompió el hábito de su silencio. Y debió sentirse gratificada con una posibilidad que la vinculaba a seres fantásticos que andaban por el cielo, por los vientos, escondidos en las aguas.
+
+Tal vez Onissa fue una aparecida porque nunca cedió a la confidencia de su filiación y al no decirlo negó toda tierra y cualquier propósito que hiciese pensar en un futuro que esperaba con desesperación.
+
+Algunos aseguraron que ella llegó huyendo de un cantante de guitarra que la perseguía con el desconsuelo de su pasión y que estuvo a punto de atraparla en una canción allá en un puerto del río Sinú.
+
+El hecho que pone a Onissa, primero en los ojos de los varones mayores del barrio, y después en la lengua imparable de las esposas y madres, es casi anodino.
+
+Una noche, en que el mecánico Tirado volvía de desvarar un carro, se sorprendió cuando creyó reconocer a su hijo en la figura que de medio lado entraba en la pieza al costado de la peluquería. Al llegar a la casa preguntó a su mujer, quien se había despertado con el ruido de la puerta al abrirse, que dónde estaba el hijo y ella con la voz enredada aún en el sueño le respondió que durmiendo. Tirado miró en la cama de lona abierta en la sala y no lo vio. Se quedó callado y se metió en la cama con el olor a gasolina en los brazos y en las manos.
+
+El quedarse callado del mecánico duró hasta una vez que acostado debajo de un carro, mientras su ayudante Atenor Jugada le pasaba las herramientas, le preguntó con malicia al confundir una llave de tres cuartos con otra de ocho dieciséis, si también andaba en la vagamundería de subir la pierna en la pieza de la esquina. Jugada soltó la risa y se hizo el loco, pero esa noche se quedó pendiente, fue a la nocturna del Laurina y apenas cerraron las ventanas y puertas del barrio se acercó a la pieza de Onissa. Dio golpes leves con los nudos de las manos; susurró palabras de un repentino y urgente deseo; amenazó tumbar las paredes con el desespero de su corazón, y nadie le abrió.
+
+El fracaso de Jugada comenzó a mostrar, con las bromas secretas, unas relaciones tan amplias que alcanzó a pensar si era que él se había vuelto viejo y se atrevió a comentarle a Tirado que a Onissa apenas le gustaban los muchachos y el marinero y que para su desgracia ya no podía ser ninguna de las dos cosas.
+
+La regularidad de las visitas del marinero tenía inmensos espacios en los que parecía que no volvería nunca. Cada vez los viajes del barco eran a regiones de lejanías impensables en las que el mar curaba todo recuerdo. Él volvía con una lealtad intacta a encuevarse con Onissa como si la única tierra firme fuera esa habitación.
+
+Y todo hubiese quedado así, pero algo no determinable y perverso, imposible de percibir por lo que en Onissa no podía ser sino inocencia, inició sus estragos entre los muchachos a quienes recibía: querían ser el hombre de Onissa y comenzaron a pelear por lograrlo.
+
+Es posible que ese sea el motivo de los papeles que con dibujos de muñecos en la horca y leyendas se encontraron en la puerta de la pieza. Y no sirvieron de nada porque ella vivía encontrando en todos los hombres el hombre de su vida sólo que los muchachos no tenían cómo saberlo y al persistir en un encarnizado forcejeo lograron que, sin ninguna palabra, Onissa no les volviese a abrir jamás la puerta.
+
+Aunque el Gaviero asegure que en la carne perdura la memoria de los cuerpos a los que se une, lo cierto es que la materia de Onissa estaba hecha para el olvido y cuando los días lo permitieron los muchachos acosados por el desconsuelo trataron de recuperarla contando sus imágenes más soñadas y cuidadas con una insalvable torpeza que sirvió de señal: su desnudez espléndida; la piel inaprehensible a la más tenaz cercanía; la eficacia de sus caricias y una ternura nunca repetida, estaban irremediablemente perdidas, igual que un naufragio mirado con desesperanza desde una orilla inalcanzable.
+
+La batalla puso alerta a las mujeres del barrio quienes sufrieron el desconcierto de no saber si los clientes de la aparecida eran los hijos o los maridos. Empezaron una agresión sin pausas que iba desde negarle los artículos en la tienda hasta amontonar las basuras de la calle en la puerta de la habitación.
+
+Ello dio la ocasión para que Onissa dejara ver lo que nadie vio. Salía en la noche, recogía la basura y la metía en su habitación. Los muchachos en el propósito de volver ponían flores silvestres encima de la basura.
+
+Esas agresiones, persistentes, fueron gastándose en la ausencia del enemigo. Y cuando cesaron no indicaron aceptación sino espera.
+
+En la tregua de la espera, una mañana de luz opaca y cielo bajo, y gris, la puerta de la habitación estaba abierta. A la una de la tarde con el sol todavía perdido, alguien se asomó y enseguida volvió el rostro para llamar a los que en ese instante pasaban. La cama la encontraron tendida. En el suelo, boca arriba y estirado, con una felicidad en todo el cuerpo que los hizo reír, el marinero de uniforme, en orden hasta la gorra, y un recuerdo perseverante flotando en su muerte tenía un olor desconocido. Aunque lo llamaron y se atrevieron a moverlo con golpecitos de los pies por la cintura y los hombros, él no contestó, estaba irremediablemente perdido en un estado de dicha absoluta donde ninguna preocupación de este mundo podía ya alcanzarlo. Onissa desapareció sin dejar señal que llevase a su paradero. Es decir, como vino.
+
+En el barrio todavía la nombran: bruja, puta o santa, depende de quien la olvide.
+
+
+
+
+
+EN ESTA ANGOSTA
+
+ESQUINA DE LA TIERRA
+
+
+
+YO NO SOY DE POR AQUÍ Y más vale que no fuese de ninguna parte ya no importa uno va dejando de ser y se queda suelto al destino sin aferrarse a una vuelta sin soplar la ilusión de encontrar un sitio para hacer la vida igualita a tus ganas así era cuando me vine convencido de que ese pueblo donde nací se volvía el más feo del mundo y la gente se reía porque la verdad es que no conozco otro sitio apenas ese y después este pero se me acabó el querer y sólo pensaba en largarme mientras ayudaba a guardar los animales en el corral traer agua del pozo cortar el monte y la leña mirar la noche y el miedo por los disparos no tanto por los disparos y la noche el miedo sino por los ojos de mi hermana mayor que dice otra vez los tiros la calamidad y un llanto sin escándalo que sigue en su sueño mientras tiembla y vuelve a responder el adiós de una mano desde el camión el adiós que se oculta en el polvo que levantan las ruedas en la luz de esa tarde que oculta los árboles y el miedo a recordarle que otra vez con los ruidos en la noche vendrán por ella y preguntando a los choferes a los vendedores de pájaros y armadillos a los parientes de las muchachas que no volvieron me vine por estos lados sin mucho propósito de un lado a otro ayudando a descargar las lanchas que llegaban al mercado de celador a veces cuidador de las muchachas recién llegadas de los pueblos de las sabanas que mientras esperaban un contrato de bailarinas o un empleo en los hoteles grandes iban acostándose por cinco pesos más un peso por la pieza en las casas tristes a la orilla de la bahía que se caían solas y yo cuidaba que no se escaparan con un chofer borracho con un navegante desesperado de mujer propia yo cuidaba que el llanto no las matara y les decía el consuelo de mamita la vida es una espera y el que corre se cansa y se jode mamita como una charanga el paso es suave consérvalo o no llegas al poco tiempo ya estás mamado y zafa este asunto no es conmigo y allí se me vino la suerte con su tronco de cara de risa y siempre digo suerte porque aunque no fue una lotería sí era algo que me deja hoy tirar timón con mi bus y tomarme las cervezas ahora contigo que vienes a decirme que tu Studebaker te está dando guante no quiere arrancar y así no se puede porque cero carreras y cero billete y la comida qué cuento sobre todo nosotros que no somos Albertico Tirado para estar componiendo carros varados en estos días que a los carros viejos puro fo y fo porque las latas viejas ni para la nostalgia si acaso escultura pero quién te la compra dónde el jardín y Albertico que tiene su varita mágica enseguida canción del motor arrancada al segundo para que no me tires polvo repelente sabiduría de lidiar la pobreza y olvídate del automóvil con aire acondicionado y piloto automático que La Guajira está muy lejos y la suerte fíjate una familia del pueblo que se vino a poner una tienda y enseguida en la casa hay una cama y el empleo pegados por esa baba de los que nos encontramos fuera del pueblo y yo claro dónde es vente en el barrio nuevo no tiene luz todavía pero no asustan y la gente es sana y ya están haciendo un teatro que va a pasar películas menos viejas y reventadas que las del pueblo ajá ven tú verás ya sabes analiza deja el afán por el Studebaker que enseguida buscamos a Tirado analiza cama fija y limpia nada de estar dando vueltas a la noche para que se gaste rápido y venga la mañana que es dura con ese frío que no se te sale de rapidez y esas muchachas que tiran con la misma distracción de la muerte cerrando los ojos para una estrella que no han visto has visto hijueputez más rotunda lo que hace el hambre y la ilusión de la comida no tiene nombre pero te jode yo estuve perseguido por esos sueños era una mujer flaca flaca y le daba la flor más linda que tengo una flor amarilla que atrapó al sol una flor amarilla sin olor o uno sin nariz para su olor pero tenía al sol al único sol que yo conozco y que lo conocí muy bien allá en el pueblo cuando estaba pendiente desde la mañana hasta la tarde en que iba cayendo como cansado y no salgo más era en la flor el sol de todo el día del cielo y de pronto a esa muchacha le crece y le crece el rostro un globo que vas soplándole aire y saliva soplándole aire y saliva y no se revienta crece y crece se infla y allí abre la boca su boca de esos que se comen a los humanos su boca de caníbal su boca de antropófago viejo y hediondo su boca que le faltan dientes que tiene otros podridos negros amarillo con humo y se mete la flor y la mastica la flor que no veo más la flor que perdí tú que dices tú no te rías qué sueño tan hijueputa y me voy retirando del mercado de las lanchas cargadas de cocos y plátanos de las casas a la orilla de la bahía con sus ventanas de doble hoja por donde entraba el aire podrido y salían los murciélagos y el suspiro sin nombre de las muchachas que tiran con los ojos abiertos sí seguro con los ojos abiertos con las piernas abiertas con los brazos abiertos con las manos abiertas con los oídos abiertos sí eso también yo en el barrio enseguida me acomodé no un acomodo de aquí llegué y tengo cogido a Dios de una hueva no te suelto mira la creación el sexto día que te dormiste y la zorra hizo desastre no un acomodo de ahí vamos sin sollarme en el desespero con astucia fíjate la astucia que se maneja el personal del barrio como unos cazadores que había en el pueblo se las saben todas se preservan no gastan el tiro en maría-mulatas bulla y tripa y apenas esperan el instante de ahora vengo yo claro que cada quien baila su asunto y ahí si entran con todo a veces se equivocan pero ya nada les quita la risa sino piensa en Atenor Jugada tú no conociste al viejo Jugada no tenías todavía el Studebaker yo sí me lo conocí enterito figúrate que yo estaba con mi bus varado donde Albertico Tirado leyendo unas revistas cubanas con unas fotos de Kid Chocolate en la época que el man se paseaba por Nueva York tumbando artistas cuando de pronto cipote de algarabía con todos los gritos y las palabras que se inventaron en la tierra para decir el dolor y es el viejo Jugada con la caja de velocidades de mi bus encima bueno yo no volví a ver a Jugada sino el otro día que lo mataron y si no es por el respeto sagrado a los difuntos suelto la risa le hubieras visto la cara nojoda una cara de la risa de ajá si se me fue qué le voy a hacer pero sabiendo que lo que se viene es algo que ya nunca se va más que lo tienes allí enredado para toda tu vida para toda tu muerte y la vida es un cuento bacano donde morirse no importa a veces no nos alcanzan los años para tanto deseo entonces en ese tiempo sin tiempo de la muerte seguir fresco además yo también pensaba que si no me procuraba el rebusque aquí ya no volvería al pueblo sabes nunca más volví al pueblo me quedé en este barrio este barrio que tú conoces por encima los ratos que esperas a que Tirado te ponga legal el Studebaker y ya nunca me pongo a preguntarme si esto es lo que andaba buscando uno nada uno no busca nada vas de caminada suave como si te supieses entero el camino sin el ruido de esa gente que no cabe en el aire y te van diciendo lo importante que van a hacer las nubes que puyan la seguridad guardada en la boca reparten la fórmula y después puro peo de mariposa uno siente desde el principio que esta vaina no es tu película y lo mejor es no hacerse ilusión con lo ajeno tú crees que yo dejé el pueblo porque sabía que acá iba a manejar un bus y tal nada nada yo me vine a rebuscarme eso sí voy aprendiendo que si todo el mundo se rebusca y deja de estar con el ojo en lo ajeno seguro que se encuentra con lo propio con su película y allí sí mucho caminar bacano sin tropezón eso no lo sabía sino que aquí en el barrio nadie quiere parecerse a nadie no quieren ser presidentes ni curas y por estos tiempos ya ni siquiera quieren ser boxeadores el último boxeador que hubo por aquí ya nadie lo conoce cuando se embarca en mi bus no le cobro el pasaje dos veces lo llevaron a pelear por el título mundial y nunca pasaba del quinto round ya en el segundo tenía los ojos brillantes se le pegaban los pies en la lona y después tiraban la toalla para que no lo mataran lo que más quieren ser por estos lados es ser cantantes de esos que van inventando canciones de me rio en tu cara sigue tu camino y déjame en paz de esas en que la canción no es un sombrero para el silencio sino todo el silencio con mi voz que te dice no pierdas el paso sin tu cariño todas las estrellas son de cartón no se lamentan te cuentan un asunto para que si es tu asunto lo agarres y no lo sueltes déjalos que aparezca su orquesta yo por eso le mamo gallo al periodista no lo conoces el muchacho que vive en la accesoria detrás del patio de Albertico Tirado de pronto se las da de científico y quiere que le conteste que por qué me vine del pueblo que va a hacer un estudio sobre la gente que abandona su tierra cómo viven le digo olvídate nadie vive mi vida no es esta fuera con la repelencia y él cree que con estudios y preguntas se me va a olvidar el miedo que me hizo venirme las noches en que no me atrevía a entrar en un sueño porque de pronto desde afuera me mataban y sin darme cuenta despertaba en el bosque de la muerte y no le contesto nada qué voy a contestarle oye hace rato que no le echas pintura al Studebaker y ya se le sale el óxido pero bien de motor tiene su paso no espabiles mucho que si no te lo guardan en el museo no te dije el tronco de cuento del otro día estaba buscando un repuesto para la caja de velocidades del bus y cuando voy tirando ojo qué veo detrás de unos vidrios la pieza que yo necesito y enseguida busco la puerta para entrar pero nada un policía en la mitad me dice sin corbata no puedes entrar yo me quedo teso y digo qué almacén fino ah y el policía enseguida me dice coge juicio este es el museo no sabes leer es el arte de una señora que con un soplete pega ese poco de hierro viejo cómo te queda el ojo a mí me quedó volteado y me fui pensando que tanto tiempo para saber que lo que yo manejo es un monumento una obra de arte de lo que se pierde el Albertico Tirado por tirar las piezas viejas en el patio pero uno va camina hacia adelante camina para atrás camina volteado pero fíjate un barrio sin boxeadores qué asunto debe ser que la gente se va cansando de tanto golpe de servir de bolsa de aserrín entonces se salen de ese cuento aunque el boxeador que se embarca en mi bus es una persona fiel no reniega yo lo conocí hace rato desde que me vine a trabajar en la tienda de los paisanos él anclaba allí era un hombre de cabello estirado y siempre siempre caminaba como si estuviese en el ring como si pisara piso de lona no se queja de nada no reclama él cuenta que de pronto en plena pelea se daba cuenta de que ya no iba a tumbar al otro y se le olvidaba la pelea y lo único que tenía era unas ganas del putas de llegar a su casa de que se acabara todo que le dieran su billete y se lo dieran en papeles de cincuenta centavos en un saco de fique y regalárselo a sus hijos para que compraran los pescaditos verdes amarillos rojos de dulce ya él no quería ser más boxeador porque le encontraban mucho la cara lo encerraban en las cuerdas y nada del caracol de antes que se enconchaba dejaba su agua resbalosa y le salía por la sombra al contrario y fíjate yo a veces estoy tirando lengua contigo y me encanta decirte lo que tú me vas escuchando y cuando quieres interrumpirme para decirme tu ánimo primero levantas las cejas por encima de tus lentes que seguro compraste en el pasaje de los oculistas que también venden libros usados amuletos para el maleficio y miden el mal de ojos poniéndote a mirar un punto en la bahía por entre el tubo que hacen con la mano yo conozco bien ese pasaje no ves que está enfrente de la bahía cerca de las casas donde yo llevaba a las muchachas cuando era celador de polvos de cinco pesos y a la gente le molesta que uno hable yo en el bus aunque digan lo que digan y se burlen de la tapicería rota y que por qué no le meto velocidad yo me quedo cayetano la gente piensa que porque tú manejas el bus o porque tú manejas el taxi ya tienes la felicidad entre las piernas la calle de tu dicha el sueño de la vida y qué va el bus se está desarmando uno tiene otra risa y deja que esa vida que sucede por allá y te jode se pudra sola ella no tiene nada que ver contigo sino para joderte si no dilo tú la vez que me cuentas que se te rompió el eje y te toca dejar el Studebaker recostado al mar y cuando vuelves con Tirado a remolcarlo ya le rompieron el parabrisas delantero con un peñón entonces entonces nada con la carreta de que yo pinte mi bus con los colores del rabo de la iguana de la bandera que yo trabaje los domingos para rellenar los huecos de las calles del barrio nada si yo no inventé este mundo jopérico lleno de flores de mierda nada yo no defiendo nada yo no pierdo nada que tiren la bomba atómica yo apenas soy un man que se vino de un pueblo un pueblo que lo que más tiene es silencio y muertos y que se vino porque tiene miedo tú sabes yo no me vine para nada yo tenía miedo y lo seguí sintiendo siempre cuando en la noche me quedaba en los portales de las casas tristes esperando que las muchachas bajaran de los cuartos y calcular el tiempo para ver si todavía podía tirar otro cliente y tenía ese aire pegajoso del cielo del mar derramado en las manos y en la cara y esa hora del amanecer las muchachas no me decían nada veía en su decepción que sentían una rabia tan rabia que me untaba la tristeza que no serían bailarinas ni cocineras de los hoteles y habían perdido el amor y habían perdido todo y a veces aparecían en la orilla de la bahía en la orilla oscura y llena de escamas opacas de sábalo aparecían ahogadas con sus trajes rosados o azules transparentes por el agua ajustados a las piernas y a los pechos y me pillé que yo seguía con miedo también por eso es una suerte que los paisanos del pueblo vinieran a poner su negocio en este barrio en este barrio donde el personal sabe que una reina no es para mandar cortar cabezas y mandar cambiar de rumbo a las estrellas sino para bailar una noche en el palacio de cartón de su reino sin nombre y sin rey de barajas en este barrio que se llama con las mismas palabras que tiene pintadas mi bus en el techo encima del parabrisas para que la gente no se confunda y sepa vía Lo Amador en lo que estamos con frescura cuadro los de lo amador aquí en esta angosta esquina de la puta tierra.
+
+
+
+
+
+La pared: No es lisa. Y el viento, la lluvia y los golpes de los que juegan con el bate y bolas de trapo en la calle han roto la mezcla de cemento y los blocks. Durante el verano con letras pintadas por una brocha o por trozos de carbón de leña se lee:
+
+
+
+ABAJO LA DICTADURA
+
+
+
+CAMILO VAMOS BIEN
+
+
+
+NO VOTE
+
+
+
+ARACELY ES LA REINA
+
+
+
+AQUÍ ESTAMOS DONDE ES
+
+
+
+NADIE PREGUNTA QUE CUÁL DICTADURA.
+
+
+
+Todos conocen a Camilo.
+
+
+
+Cada vez que hay elecciones los muertos apartan la tierra, los gusanos, el olvido y con una flor podrida y una cédula mohosa caminan a votar.
+
+
+
+Y la reina escondida en los corazones con un nombre falso y después atravesar el mar y abandonar Castilla sin alhajas. En las escuelas se sigue repitiendo: la pared y la muralla son el papel de la canalla.
+
+
+
+
+
