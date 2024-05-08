@@ -32,7 +32,7 @@ def main():
     # Search the DB.
     results = db.similarity_search_with_relevance_scores(query_text, k=3)
     if len(results) == 0 or results[0][1] < 0.7:
-        print(f"Unable to find matching results.")
+        print(f"No tengo idea, tal vez esto no existe en la Biblioteca.")
         return
 
     context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])

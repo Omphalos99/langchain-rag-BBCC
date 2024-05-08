@@ -1,5 +1,5 @@
-langchain
-unstructured # Document loading
-chromadb # Vector storage
-openai # For embeddings
-tiktoken  # For embeddings
+langchain==0.1.17
+unstructured==0.13.6 # Document loading
+chromadb==0.5.0 # Vector storage
+openai==1.26.0 # For embeddings
+tiktoken==0.6.0  # For embeddings
